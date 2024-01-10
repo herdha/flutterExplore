@@ -9,4 +9,6 @@
 #### flutter
 1. open terminal on vscode and run the command bellow
 2. flutter pub get
-3. flutter run
+3. set the host api to http://localhost:8080/ in flutterExplore\fluthi\lib\config\api.dart if you run it on the windows desktop
+4. set the host api to http://10.0.2.2:8080/ in flutterExplore\fluthi\lib\config\api.dart if you run it on the android emulator
+4. flutter run
