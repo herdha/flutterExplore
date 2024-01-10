@@ -1,0 +1,1200 @@
+[{
+  "_id": {
+    "$oid": "64d1fa2dac6fe34e6f0f38c5"
+  },
+  "couriers": [
+    "Maman"
+  ],
+  "order": {
+    "$oid": "64d1db059c6774daa807208c"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 20
+    }
+  ],
+  "status": "Fully Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Fully Received": {
+        "$date": "2023-08-09T13:32:04.790Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-08-08T08:17:49.848Z"
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "64d39554ac6fe34e6f0f396f"
+      },
+      "courier": "Maman",
+      "date": {
+        "$date": "2023-08-09T13:32:04.813Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-08-08T08:17:49.850Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T13:32:04.790Z"
+  },
+  "receiveNumber": "RCV/0823/0001/00",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64eef7bac3a36b8d41c06cd3"
+  },
+  "couriers": [],
+  "order": {
+    "$oid": "64eef79f5b1e1c2c835f4e4c"
+  },
+  "itemList": [
+    {
+      "qty": 20
+    }
+  ],
+  "status": "Pending",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T08:03:06.162Z"
+      }
+    }
+  ],
+  "unpackings": [],
+  "createdAt": {
+    "$date": "2023-08-30T08:03:06.163Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T08:03:06.163Z"
+  },
+  "receiveNumber": "RCV/0823/0002/00",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64f046edc3a36b8d41c075b9"
+  },
+  "couriers": [],
+  "order": {
+    "$oid": "64f046bc5b1e1c2c8360fc01"
+  },
+  "itemList": [
+    {
+      "qty": 100
+    }
+  ],
+  "status": "Pending",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-31T07:53:17.066Z"
+      }
+    }
+  ],
+  "unpackings": [],
+  "createdAt": {
+    "$date": "2023-08-31T07:53:17.067Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T07:53:17.067Z"
+  },
+  "receiveNumber": "RCV/0823/0003/00",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64f83483b1be3ea4eac32702"
+  },
+  "couriers": [
+    "Courier Testing 1"
+  ],
+  "order": {
+    "$oid": "64f832b75b1e1c2c836b75c3"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 5
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 5
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-06T08:13:37.357Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-06T08:12:51.145Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-06T08:13:37.357Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-06T17:47:58.440Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-09-06T18:33:53.994Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "64f834b1f1dfc1563189303d"
+      },
+      "date": {
+        "$date": "2023-09-06T08:13:37.382Z"
+      },
+      "courier": "Courier Testing 1"
+    },
+    {
+      "unpacking": {
+        "$oid": "64f8bb4e994cd22eefdf9ec7"
+      },
+      "date": {
+        "$date": "2023-09-06T17:47:58.469Z"
+      },
+      "courier": "Courier Testing 1"
+    },
+    {
+      "unpacking": {
+        "$oid": "64f8c611684203822f0f9211"
+      },
+      "courier": "Courier Testing 1",
+      "date": {
+        "$date": "2023-09-06T18:33:54.026Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-06T08:12:51.145Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T18:33:53.994Z"
+  },
+  "receiveNumber": "RCV/0923/0001/00",
+  "version": 3
+},
+{
+  "_id": {
+    "$oid": "64f99415b1be3ea4eac327a7"
+  },
+  "couriers": [
+    "courier testing rabu"
+  ],
+  "order": {
+    "$oid": "64f9940c5b1e1c2c8370d96b"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 5
+    }
+  ],
+  "status": "Fully Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-07T09:17:24.755Z",
+      "Fully Received": {
+        "$date": "2023-09-07T09:20:09.176Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-07T09:12:53.021Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-07T09:17:24.755Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-07T09:19:05.624Z"
+    },
+    {
+      "status": "Fully Received",
+      "date": {
+        "$date": "2023-09-07T09:20:09.176Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "64f99524416a16b0757863d6"
+      },
+      "date": {
+        "$date": "2023-09-07T09:17:24.786Z"
+      },
+      "courier": "courier testing rabu"
+    },
+    {
+      "unpacking": {
+        "$oid": "64f99589416a16b0757863fc"
+      },
+      "date": {
+        "$date": "2023-09-07T09:19:05.675Z"
+      },
+      "courier": "courier testing rabu"
+    },
+    {
+      "unpacking": {
+        "$oid": "64f995c8416a16b075786412"
+      },
+      "courier": "courier testing rabu",
+      "date": {
+        "$date": "2023-09-07T09:20:09.200Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-07T09:12:53.021Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:20:09.176Z"
+  },
+  "receiveNumber": "RCV/0923/0002/00",
+  "version": 3
+},
+{
+  "_id": {
+    "$oid": "64fac109b1be3ea4eac327bc"
+  },
+  "couriers": [
+    "Kurir snap"
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 5
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-08T06:37:38.408Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-08T06:36:57.468Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-08T06:37:38.408Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-08T06:41:37.858Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-08T08:17:13.237Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-09-11T06:59:35.400Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "64fac132435f15e96038608d"
+      },
+      "date": {
+        "$date": "2023-09-08T06:37:38.438Z"
+      },
+      "courier": "Kurir snap"
+    },
+    {
+      "unpacking": {
+        "$oid": "64fac221435f15e9603860e7"
+      },
+      "date": {
+        "$date": "2023-09-08T06:41:37.881Z"
+      },
+      "courier": "Kurir snap"
+    },
+    {
+      "unpacking": {
+        "$oid": "64fad889c6ef4c8096b42ffd"
+      },
+      "date": {
+        "$date": "2023-09-08T08:17:13.274Z"
+      },
+      "courier": "Kurir snap"
+    },
+    {
+      "unpacking": {
+        "$oid": "64febad72016b00642005f03"
+      },
+      "courier": "Kurir snap",
+      "date": {
+        "$date": "2023-09-11T06:59:35.442Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-08T06:36:57.469Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T06:59:35.400Z"
+  },
+  "receiveNumber": "RCV/0923/0003/00",
+  "version": 4
+},
+{
+  "_id": {
+    "$oid": "64fecfc2b1be3ea4eac327c3"
+  },
+  "couriers": [
+    "kurir cuddly"
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 5
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-11T08:29:14.526Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-11T08:28:50.179Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-11T08:29:14.526Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-11T08:30:30.850Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-11T08:41:48.353Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-09-11T08:52:19.194Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "64fecfda7e458d4febc4ff90"
+      },
+      "date": {
+        "$date": "2023-09-11T08:29:14.573Z"
+      },
+      "courier": "kurir cuddly"
+    },
+    {
+      "unpacking": {
+        "$oid": "64fed0267e458d4febc4ffe2"
+      },
+      "date": {
+        "$date": "2023-09-11T08:30:30.873Z"
+      },
+      "courier": "kurir cuddly"
+    },
+    {
+      "unpacking": {
+        "$oid": "64fed2cc7e458d4febc500a1"
+      },
+      "date": {
+        "$date": "2023-09-11T08:41:48.380Z"
+      },
+      "courier": "kurir cuddly"
+    },
+    {
+      "unpacking": {
+        "$oid": "64fed543d946e92357671259"
+      },
+      "courier": "kurir cuddly",
+      "date": {
+        "$date": "2023-09-11T08:52:19.222Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-11T08:28:50.179Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:52:19.194Z"
+  },
+  "receiveNumber": "RCV/0923/0004/00",
+  "version": 4
+},
+{
+  "_id": {
+    "$oid": "64ff2e5fb1be3ea4eac327ca"
+  },
+  "couriers": [
+    "courier tender"
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 100
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-11T15:13:07.540Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-11T15:12:31.222Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-11T15:13:07.540Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-11T15:14:23.039Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-09-11T15:15:57.033Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "64ff2e83fb4263d12aad95d2"
+      },
+      "date": {
+        "$date": "2023-09-11T15:13:07.581Z"
+      },
+      "courier": "courier tender"
+    },
+    {
+      "unpacking": {
+        "$oid": "64ff2ecefb4263d12aad9628"
+      },
+      "date": {
+        "$date": "2023-09-11T15:14:23.070Z"
+      },
+      "courier": "courier tender"
+    },
+    {
+      "unpacking": {
+        "$oid": "64ff2f2cfb4263d12aad9683"
+      },
+      "courier": "courier tender",
+      "date": {
+        "$date": "2023-09-11T15:15:57.066Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-11T15:12:31.222Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:15:57.033Z"
+  },
+  "receiveNumber": "RCV/0923/0005/00",
+  "version": 3
+},
+{
+  "_id": {
+    "$oid": "650126d3b1be3ea4eac328a2"
+  },
+  "couriers": [],
+  "order": {
+    "$oid": "650126cdb8eba443f1271056"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 5
+    },
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 5
+    }
+  ],
+  "status": "Pending",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-09-13T03:04:51.664Z"
+      }
+    }
+  ],
+  "unpackings": [],
+  "createdAt": {
+    "$date": "2023-09-13T03:04:51.665Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T03:04:51.665Z"
+  },
+  "receiveNumber": "RCV/0923/0006/00",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "couriers": [
+    "courier denim"
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "received": 3,
+      "remaining": 2,
+      "history": [
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0007/04",
+          "shippingNo": "ship01",
+          "qty": "2",
+          "received": 2,
+          "timestamp": "2023-10-12T07:48:10.286Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0007/05",
+          "note": "aaa",
+          "shippingNo": "ship01",
+          "qty": "1",
+          "received": 1,
+          "timestamp": "2023-10-12T07:48:45.051Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c21c"
+      },
+      "history": []
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-13T08:26:58.753Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-13T08:25:09.296Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-13T08:26:58.753Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-13T23:40:36.558Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-14T00:25:15.671Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-14T00:31:03.836Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-12T07:48:13.508Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-10-12T07:48:48.170Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "65017252c2255e2ab7a4a010"
+      },
+      "date": {
+        "$date": "2023-09-13T08:26:58.794Z"
+      },
+      "courier": "courier denim"
+    },
+    {
+      "unpacking": {
+        "$oid": "650248744289b66e2b17d852"
+      },
+      "date": {
+        "$date": "2023-09-13T23:40:36.601Z"
+      },
+      "courier": "courier denim"
+    },
+    {
+      "unpacking": {
+        "$oid": "650252eb8a04332704bb11ec"
+      },
+      "date": {
+        "$date": "2023-09-14T00:25:15.706Z"
+      },
+      "courier": "courier denim"
+    },
+    {
+      "unpacking": {
+        "$oid": "650254478a04332704bb126e"
+      },
+      "date": {
+        "$date": "2023-09-14T00:31:03.864Z"
+      },
+      "courier": "courier denim"
+    },
+    {
+      "unpacking": {
+        "$oid": "6527a4bb3983b3db4ced549e"
+      },
+      "date": {
+        "$date": "2023-10-12T07:48:10.286Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "6527a4de3983b3db4ced5bc7"
+      },
+      "date": {
+        "$date": "2023-10-12T07:48:45.051Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-13T08:25:09.296Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:48:48.170Z"
+  },
+  "receiveNumber": "RCV/0923/0007/00",
+  "version": 6,
+  "selected": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 1
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6503a6efb1be3ea4eac328c9"
+  },
+  "couriers": [
+    "kurir drim"
+  ],
+  "order": {
+    "$oid": "6503a6c1b8eba443f12eebb0"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 6
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 9
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Received": "2023-09-15T00:41:25.652Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-15T00:35:59.519Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-15T00:41:25.652Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-15T01:03:06.018Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-15T03:40:48.948Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-15T03:43:20.730Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-09-15T03:46:39.066Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "6503a835ff15fd00e94e5d93"
+      },
+      "date": {
+        "$date": "2023-09-15T00:41:25.692Z"
+      },
+      "courier": "kurir drim"
+    },
+    {
+      "unpacking": {
+        "$oid": "6503ad49ff15fd00e94e5f62"
+      },
+      "date": {
+        "$date": "2023-09-15T01:03:06.049Z"
+      },
+      "courier": "kurir drim"
+    },
+    {
+      "unpacking": {
+        "$oid": "6503d23e19d17b4826f2a38c"
+      },
+      "date": {
+        "$date": "2023-09-15T03:40:49.133Z"
+      },
+      "courier": "kurir drim"
+    },
+    {
+      "unpacking": {
+        "$oid": "6503d2d719d17b4826f2a3bb"
+      },
+      "date": {
+        "$date": "2023-09-15T03:43:20.918Z"
+      },
+      "courier": "kurir drim"
+    },
+    {
+      "unpacking": {
+        "$oid": "6503d39d19d17b4826f2a3eb"
+      },
+      "courier": "kurir drim",
+      "date": {
+        "$date": "2023-09-15T03:46:39.187Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-15T00:35:59.519Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T03:46:39.066Z"
+  },
+  "receiveNumber": "RCV/0923/0008/00",
+  "version": 5
+},
+{
+  "_id": {
+    "$oid": "65041a76b1be3ea4eac328de"
+  },
+  "couriers": [
+    "kurir"
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 5
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "Bandung",
+    "lastStatus": {
+      "Partially Received": "2023-09-15T08:50:06.515Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-15T08:48:54.051Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-15T08:50:06.515Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-09-15T09:03:37.023Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-09-20T22:44:11.030Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "65041abd7461919501eff98c"
+      },
+      "date": {
+        "$date": "2023-09-15T08:50:06.678Z"
+      },
+      "courier": "kurir"
+    },
+    {
+      "unpacking": {
+        "$oid": "65041de87461919501eff9e5"
+      },
+      "date": {
+        "$date": "2023-09-15T09:03:37.061Z"
+      },
+      "courier": "kurir"
+    },
+    {
+      "courier": "kurir",
+      "date": {
+        "$date": "2023-09-20T22:44:11.063Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-15T08:48:54.051Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T22:44:11.030Z"
+  },
+  "receiveNumber": "RCV/0923/0009/00",
+  "version": 3
+},
+{
+  "_id": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "received": 12,
+      "remaining": 0,
+      "history": [
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/00",
+          "note": "kurang 1",
+          "shippingNo": "ship01",
+          "qty": "3",
+          "received": "2",
+          "timestamp": "2023-10-12T10:03:19.865Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/01",
+          "shippingNo": "ship022",
+          "qty": "1",
+          "received": 1,
+          "timestamp": "2023-10-12T10:05:30.253Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/02",
+          "note": "note",
+          "shippingNo": "ship03",
+          "qty": "1",
+          "received": 1,
+          "timestamp": "2023-10-12T10:08:43.505Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/03",
+          "shippingNo": "ship005",
+          "qty": "1",
+          "received": 1,
+          "timestamp": "2023-10-12T10:49:12.314Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/04",
+          "shippingNo": "ship06",
+          "qty": "2",
+          "received": 2,
+          "timestamp": "2023-10-13T03:18:26.409Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/05",
+          "shippingNo": "another",
+          "qty": "1",
+          "received": 1,
+          "timestamp": "2023-10-18T04:01:00.662Z"
+        },
+        {
+          "receivedBy": "Lulu Sisca",
+          "unpacking": "UNP/1023/0002/06",
+          "shippingNo": "end of shipping",
+          "qty": 7,
+          "received": 7,
+          "timestamp": "2023-10-18T06:32:20.978Z"
+        }
+      ]
+    }
+  ],
+  "status": "Partially Received",
+  "type": "Receive",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company"
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-10-12T10:02:50.119Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-12T10:03:21.497Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-12T10:05:31.866Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-12T10:08:45.134Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-12T10:49:13.799Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-13T03:18:28.544Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": "2023-10-18T04:01:02.647Z"
+    },
+    {
+      "status": "Partially Received",
+      "date": {
+        "$date": "2023-10-18T06:32:22.391Z"
+      }
+    }
+  ],
+  "unpackings": [
+    {
+      "unpacking": {
+        "$oid": "6527c467e763d740c59c2055"
+      },
+      "date": {
+        "$date": "2023-10-12T10:03:19.865Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "6527c4e9e763d740c59c206d"
+      },
+      "date": {
+        "$date": "2023-10-12T10:05:30.253Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "6527c5abe763d740c59c2085"
+      },
+      "date": {
+        "$date": "2023-10-12T10:08:43.504Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "6527cf28099c995629b28a67"
+      },
+      "date": {
+        "$date": "2023-10-12T10:49:12.314Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "6528b703f21454e7bbf0f49f"
+      },
+      "date": {
+        "$date": "2023-10-13T03:18:26.409Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "652f587d63d65323c9ddee79"
+      },
+      "date": {
+        "$date": "2023-10-18T04:01:00.661Z"
+      }
+    },
+    {
+      "unpacking": {
+        "$oid": "652f7bf4571bc608dec76ce9"
+      },
+      "date": {
+        "$date": "2023-10-18T06:32:20.978Z"
+      }
+    }
+  ],
+  "selected": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 7
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-12T10:02:50.121Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T06:32:22.391Z"
+  },
+  "receiveNumber": "RCV/1023/0002/00",
+  "version": 7
+}]

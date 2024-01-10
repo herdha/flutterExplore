@@ -1,0 +1,285 @@
+[{
+  "_id": {
+    "$oid": "64ed8ded5d7e2ecd352e5db6"
+  },
+  "name": "Pengirim",
+  "driverID": "12345678",
+  "status": "AVAILABLE",
+  "driverLicense": "123",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-08-29T06:19:25.924Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:05:44.778Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f7fd047cc93a9201b2cbe4"
+  },
+  "name": "Driver Gulung Ombak Testing 1",
+  "driverID": "DR12",
+  "status": "AVAILABLE",
+  "driverLicense": "D 1234 AD",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-06T04:16:04.673Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T07:29:18.556Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fadaeab1791a5c04094b19"
+  },
+  "name": "driver test 3",
+  "driverID": "driver 3",
+  "status": "AVAILABLE",
+  "driverLicense": "3",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:27:22.314Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:27:22.314Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fadb45ea1327ca91dd1b05"
+  },
+  "name": "driver 4",
+  "driverID": "4",
+  "status": "AVAILABLE",
+  "driverLicense": "4",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:28:53.173Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:28:53.173Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fadbac8e454293b984dacc"
+  },
+  "name": "driver 5",
+  "driverID": "5",
+  "status": "AVAILABLE",
+  "driverLicense": "5",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:30:36.012Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:30:36.013Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fadd45689d8a4243a843db"
+  },
+  "name": "driver 6",
+  "driverID": "6",
+  "status": "AVAILABLE",
+  "driverLicense": "6",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:37:25.103Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:37:25.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64faddb404f4aec9743c25e1"
+  },
+  "name": "driver 7",
+  "driverID": "7",
+  "status": "AVAILABLE",
+  "driverLicense": "7",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:39:16.085Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:39:16.085Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fade15b95acbf9bd4ce620"
+  },
+  "name": "driver 8",
+  "driverID": "8",
+  "status": "AVAILABLE",
+  "driverLicense": "8",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:40:53.368Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:40:53.368Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fade526e8b0e87bb8bc212"
+  },
+  "name": "driver 9",
+  "driverID": "9",
+  "status": "AVAILABLE",
+  "driverLicense": "9",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:41:54.272Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:41:54.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fadeda328f0db29d8dfae5"
+  },
+  "name": "driver ojol",
+  "driverID": "ojol123",
+  "status": "NOT AVAILABLE",
+  "driverLicense": "1oj",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:44:10.098Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T10:09:00.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fae086cd3ef1cdf0c30c85"
+  },
+  "name": "driver 13",
+  "driverID": "13",
+  "status": "NOT AVAILABLE",
+  "driverLicense": "13",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:51:18.548Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:11:21.822Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fae103d3919babfb33f1e9"
+  },
+  "name": "driver 14",
+  "driverID": "14",
+  "status": "AVAILABLE",
+  "driverLicense": "14",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:53:23.608Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:15:58.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fae137c5e416586772723a"
+  },
+  "name": "driver 15",
+  "driverID": "15",
+  "status": "NOT AVAILABLE",
+  "driverLicense": "15",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:54:15.397Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T06:35:45.538Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fae1f9c54ffd9b6d049aaa"
+  },
+  "name": "driver 16",
+  "driverID": "16",
+  "status": "NOT AVAILABLE",
+  "driverLicense": "16",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-08T08:57:29.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:43:54.038Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65028864880f73367c1f1125"
+  },
+  "name": "test 14 sept",
+  "driverID": "666",
+  "status": "NOT AVAILABLE",
+  "driverLicense": "666",
+  "props": {
+    "app": "gulung-ombak-3766564"
+  },
+  "createdAt": {
+    "$date": "2023-09-14T04:13:24.321Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:17:28.829Z"
+  },
+  "__v": 0
+}]

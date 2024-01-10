@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "651bd07ccab4ad9f90fb50dc"
+  },
+  "title": "task 1",
+  "description": "desc task 1",
+  "assignBy": {
+    "uid": "651bce97523f5fdc1b5be62b",
+    "username": "superadmin",
+    "role": "Super Admin"
+  },
+  "statusTask": "Off",
+  "areaStart": {
+    "areaName": "Bandung, West Java, Indonesia",
+    "long": 107.604954,
+    "lat": -6.934469
+  },
+  "areaEnd": {
+    "areaName": "Jakarta, Indonesia",
+    "long": 106.827183,
+    "lat": -6.1753942
+  },
+  "assignTo": {
+    "uid": "651bcf1125f67df8c2d882a9",
+    "username": "userbiasa",
+    "role": "User Biasa"
+  },
+  "timeStart": "10/3/2023, 16:09:30",
+  "timeEnd": "10/3/2023, 16:09:51",
+  "timeTotal": "0:00:21"
+},
+{
+  "_id": {
+    "$oid": "651bd3d8cab4ad9f90fb510c"
+  },
+  "title": "task 2",
+  "description": "desc task 2",
+  "assignBy": {
+    "uid": "651bce97523f5fdc1b5be62b",
+    "username": "superadmin",
+    "role": "Super Admin"
+  },
+  "statusTask": "On",
+  "areaStart": {
+    "areaName": "Bandung, West Java, Indonesia",
+    "long": 107.604954,
+    "lat": -6.934469
+  },
+  "areaEnd": {
+    "areaName": "Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia",
+    "long": 110.364917,
+    "lat": -7.801194
+  },
+  "assignTo": {
+    "uid": "651bcf483d9f8fcc7f6ce341",
+    "username": "userbiasa2",
+    "role": "User Biasa"
+  },
+  "timeStart": "",
+  "timeEnd": "",
+  "timeTotal": ""
+},
+{
+  "_id": {
+    "$oid": "651bd407cab4ad9f90fb5111"
+  },
+  "title": "task 3",
+  "description": "desc task 3",
+  "assignBy": {
+    "uid": "651bce97523f5fdc1b5be62b",
+    "username": "superadmin",
+    "role": "Super Admin"
+  },
+  "statusTask": "Running",
+  "areaStart": {
+    "areaName": "Bandung, West Java, Indonesia",
+    "long": 107.604954,
+    "lat": -6.934469
+  },
+  "areaEnd": {
+    "areaName": "Manado, North Sulawesi, Indonesia",
+    "long": 124.840871,
+    "lat": 1.490058
+  },
+  "assignTo": {
+    "uid": "651bcf71de43c174d55300a9",
+    "username": "herdhanur",
+    "role": "User Biasa"
+  },
+  "timeStart": "10/3/2023, 15:50:33",
+  "timeEnd": "",
+  "timeTotal": ""
+},
+{
+  "_id": {
+    "$oid": "651bda21cab4ad9f90fb514d"
+  },
+  "title": "task 4",
+  "description": "desc task 4",
+  "assignBy": {
+    "uid": "651bce97523f5fdc1b5be62b",
+    "username": "superadmin",
+    "role": "Super Admin"
+  },
+  "statusTask": "On",
+  "areaStart": {
+    "areaName": "Bandung, West Java, Indonesia",
+    "long": 107.604954,
+    "lat": -6.934469
+  },
+  "areaEnd": {
+    "areaName": "Banten, 42191, Kasemen, Serang, Banten, Indonesia",
+    "long": 106.163695,
+    "lat": -6.032761
+  },
+  "assignTo": {
+    "uid": "651bcfadcab4ad9f90fb50cc",
+    "username": "almiraasy",
+    "role": "User Biasa"
+  },
+  "timeStart": "",
+  "timeEnd": "",
+  "timeTotal": ""
+},
+{
+  "_id": {
+    "$oid": "651bdddfcab4ad9f90fb5186"
+  },
+  "title": "task 6",
+  "description": "task 6",
+  "assignBy": {
+    "uid": "651bce97523f5fdc1b5be62b",
+    "username": "superadmin",
+    "role": "Super Admin"
+  },
+  "statusTask": "Off",
+  "areaStart": {
+    "areaName": "Bandung, West Java, Indonesia",
+    "long": 107.604954,
+    "lat": -6.934469
+  },
+  "areaEnd": {
+    "areaName": "Jakarta, Indonesia",
+    "long": 106.827183,
+    "lat": -6.1753942
+  },
+  "assignTo": {
+    "uid": "651bcf71de43c174d55300a9",
+    "username": "herdhanur",
+    "role": "User Biasa"
+  },
+  "timeStart": "10/3/2023, 16:25:46",
+  "timeEnd": "10/3/2023, 16:26:05",
+  "timeTotal": "0:00:19"
+}]

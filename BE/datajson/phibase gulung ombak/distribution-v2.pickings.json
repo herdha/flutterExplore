@@ -1,0 +1,1538 @@
+[{
+  "_id": {
+    "$oid": "64ed9fcbc3a36b8d41c062c7"
+  },
+  "order": {
+    "$oid": "64ed9f70cd809b64afb593f6"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Fully Picked": {
+        "$date": "2023-08-29T07:40:56.840Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-08-29T07:35:39.025Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "history": [
+        {
+          "qty": 10,
+          "warehouse": "WH 1",
+          "packingNumber": "PAC0823/0001/00",
+          "date": "2023-08-29T07:40:56.774Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 10,
+      "warehouse": {
+        "id": "64d321f6aa5e3f6f9a802852",
+        "warehouseId": "WH-gulung-ombak-37665642308001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-08-29T07:35:39.025Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-29T07:40:56.840Z"
+  },
+  "pickingNumber": "PIC0823/0001/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64eede9bc3a36b8d41c0691e"
+  },
+  "order": {
+    "$oid": "64eede8dcd809b64afb5a22e"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Fully Picked": {
+        "$date": "2023-08-30T06:16:32.905Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-08-30T06:15:55.529Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c210"
+      },
+      "history": [
+        {
+          "qty": 10,
+          "warehouse": "WH 1",
+          "packingNumber": "PAC0823/0003/00",
+          "date": "2023-08-30T06:16:34.692Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c210"
+      },
+      "qty": 10,
+      "warehouse": {
+        "id": "64d321f6aa5e3f6f9a802852",
+        "warehouseId": "WH-gulung-ombak-37665642308001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-08-30T06:15:55.530Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T06:16:32.905Z"
+  },
+  "pickingNumber": "PIC0823/0003/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64eee06cc3a36b8d41c06a11"
+  },
+  "order": {
+    "$oid": "64eee064cd809b64afb5a2ca"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Fully Picked": {
+        "$date": "2023-08-30T06:24:27.795Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-08-30T06:23:40.578Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c20a"
+      },
+      "history": [
+        {
+          "qty": 5,
+          "warehouse": "WH 1",
+          "packingNumber": "PAC0823/0004/00",
+          "date": "2023-08-30T06:24:29.591Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c216"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "WH 1",
+          "packingNumber": "PAC0823/0004/00",
+          "date": "2023-08-30T06:24:29.591Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c20a"
+      },
+      "qty": 5,
+      "warehouse": {
+        "id": "64d321f6aa5e3f6f9a802852",
+        "warehouseId": "WH-gulung-ombak-37665642308001"
+      },
+      "warehouseOptions": []
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c216"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64d321f6aa5e3f6f9a802852",
+        "warehouseId": "WH-gulung-ombak-37665642308001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-08-30T06:23:40.579Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T06:24:27.795Z"
+  },
+  "pickingNumber": "PIC0823/0004/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2bbfc3a36b8d41c06ce5"
+  },
+  "order": {
+    "$oid": "64eeffde5b1e1c2c835f5230"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:45:03.714Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:45:03.715Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:45:03.715Z"
+  },
+  "pickingNumber": "PIC0823/0013/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2bc5c3a36b8d41c06cee"
+  },
+  "order": {
+    "$oid": "64eeffd85b1e1c2c835f521b"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:45:09.778Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:45:09.778Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:45:09.778Z"
+  },
+  "pickingNumber": "PIC0823/0012/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c16c3a36b8d41c06cf8"
+  },
+  "order": {
+    "$oid": "64eeffd25b1e1c2c835f51d1"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:46:30.980Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:46:30.980Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:46:30.980Z"
+  },
+  "pickingNumber": "PIC0823/0011/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c1dc3a36b8d41c06d02"
+  },
+  "order": {
+    "$oid": "64eeffcd5b1e1c2c835f519f"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:46:37.453Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:46:37.453Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:46:37.453Z"
+  },
+  "pickingNumber": "PIC0823/0010/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c22c3a36b8d41c06d0b"
+  },
+  "order": {
+    "$oid": "64eeffc75b1e1c2c835f5171"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:46:42.666Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:46:42.666Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:46:42.666Z"
+  },
+  "pickingNumber": "PIC0823/0009/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c28c3a36b8d41c06d16"
+  },
+  "order": {
+    "$oid": "64eeffb75b1e1c2c835f513d"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:46:48.932Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:46:48.932Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:46:48.932Z"
+  },
+  "pickingNumber": "PIC0823/0008/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c2ec3a36b8d41c06d21"
+  },
+  "order": {
+    "$oid": "64eeff7b5b1e1c2c835f50f0"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:46:54.589Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:46:54.590Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:46:54.590Z"
+  },
+  "pickingNumber": "PIC0823/0007/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c33c3a36b8d41c06d2a"
+  },
+  "order": {
+    "$oid": "64eeff4b5b1e1c2c835f5064"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:46:59.344Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:46:59.344Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:46:59.344Z"
+  },
+  "pickingNumber": "PIC0823/0006/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef2c39c3a36b8d41c06d34"
+  },
+  "order": {
+    "$oid": "64eefee15b1e1c2c835f4ffe"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": []
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-08-30T11:47:05.494Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-08-30T11:47:05.495Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T11:47:05.495Z"
+  },
+  "pickingNumber": "PIC0823/0005/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f0265cc3a36b8d41c07412"
+  },
+  "order": {
+    "$oid": "64f0263b5b1e1c2c835fd7bd"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Fully Picked": {
+        "$date": "2023-08-31T07:25:52.948Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-08-31T05:34:20.856Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "history": [
+        {
+          "qty": 10,
+          "warehouse": "WH 1",
+          "packingNumber": "PAC0823/0015/00",
+          "date": "2023-08-31T07:25:55.321Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 10,
+      "warehouse": {
+        "id": "64d321f6aa5e3f6f9a802852",
+        "warehouseId": "WH-gulung-ombak-37665642308001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-08-31T05:34:20.856Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T07:25:52.948Z"
+  },
+  "pickingNumber": "PIC0823/0015/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f7fccbb1be3ea4eac326f9"
+  },
+  "order": {
+    "$oid": "64f7fcba5b1e1c2c836b5acb"
+  },
+  "status": "Partially Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": {
+        "$date": "2023-09-06T04:47:02.204Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-06T04:15:07.325Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "Warehouse Testing 1",
+          "packingNumber": "PAC0923/0001/00",
+          "date": "2023-09-06T04:47:02.190Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "history": [
+        {
+          "qty": 2,
+          "warehouse": "Warehouse Testing 1",
+          "packingNumber": "PAC0923/0001/00",
+          "date": "2023-09-06T04:47:02.190Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64f7fd8d7cc93a9201b2cbf5",
+        "warehouseId": "WH-gulung-ombak-37665642309001"
+      },
+      "warehouseOptions": []
+    },
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 2,
+      "warehouse": {
+        "id": "64f7fd8d7cc93a9201b2cbf5",
+        "warehouseId": "WH-gulung-ombak-37665642309001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-06T04:15:07.326Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T04:47:02.204Z"
+  },
+  "pickingNumber": "PIC0923/0001/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fa68c1b1be3ea4eac327ae"
+  },
+  "order": {
+    "$oid": "64fa68b45b1e1c2c8370e6a2"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-08T00:31:24.163Z",
+      "Fully Picked": {
+        "$date": "2023-09-08T00:32:44.772Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-08T00:20:17.276Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "warehouse testing 2",
+          "packingNumber": "PAC0923/0002/00",
+          "date": "2023-09-08T00:31:24.152Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0002/02",
+          "warehouse": "warehouse testing 2",
+          "date": "2023-09-08T00:32:44.760Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64f99739e6dae39656a48c29",
+        "warehouseId": "WH-gulung-ombak-37665642309002"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-08T00:20:17.276Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T00:32:44.772Z"
+  },
+  "pickingNumber": "PIC0923/0002/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fac00ab1be3ea4eac327b5"
+  },
+  "order": {
+    "$oid": "64fac0005b1e1c2c8370e794"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-08T07:25:30.974Z",
+      "Fully Picked": {
+        "$date": "2023-09-11T15:27:15.123Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-08T06:32:42.156Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "Warehouse Testing 1",
+          "packingNumber": "PAC0923/0003/00",
+          "date": "2023-09-08T07:25:30.964Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0003/02",
+          "warehouse": "Warehouse Testing 1",
+          "date": "2023-09-11T07:13:14.757Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "WH 1",
+          "packingNumber": "PAC0923/0003/02",
+          "date": "2023-09-11T07:13:14.757Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0003/03",
+          "warehouse": "warehouse testing 2",
+          "date": "2023-09-11T15:27:15.115Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64f99739e6dae39656a48c29",
+        "warehouseId": "WH-gulung-ombak-37665642309002"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-08T06:32:42.156Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:27:15.123Z"
+  },
+  "pickingNumber": "PIC0923/0003/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff30d4b1be3ea4eac327d1"
+  },
+  "order": {
+    "$oid": "64ff30cbb8eba443f12469e7"
+  },
+  "status": "Fully Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-11T15:25:17.157Z",
+      "Fully Picked": {
+        "$date": "2023-09-11T15:32:22.685Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-11T15:23:00.129Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "warehouse testing 2",
+          "packingNumber": "PAC0923/0004/00",
+          "date": "2023-09-11T15:25:17.148Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0004/02",
+          "warehouse": "warehouse testing 2",
+          "date": "2023-09-11T15:26:48.104Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0004/03",
+          "warehouse": "warehouse testing 2",
+          "date": "2023-09-11T15:32:22.680Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "warehouse testing 2",
+          "packingNumber": "PAC0923/0004/00",
+          "date": "2023-09-11T15:25:17.148Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64f99739e6dae39656a48c29",
+        "warehouseId": "WH-gulung-ombak-37665642309002"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-11T15:23:00.130Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:32:22.685Z"
+  },
+  "pickingNumber": "PIC0923/0004/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff3348b1be3ea4eac327d8"
+  },
+  "order": {
+    "$oid": "64ff333db8eba443f1246adc"
+  },
+  "status": "Partially Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-11T15:33:49.122Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-11T15:33:28.571Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "warehouse testing 2",
+          "packingNumber": "PAC0923/0005/00",
+          "date": "2023-09-11T15:33:49.111Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0005/02",
+          "warehouse": "warehouse testing 2",
+          "date": "2023-09-11T15:40:23.475Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0005/03",
+          "warehouse": "warehouse testing 2",
+          "date": "2023-09-11T15:41:45.599Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64f99739e6dae39656a48c29",
+        "warehouseId": "WH-gulung-ombak-37665642309002"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-11T15:33:28.571Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:41:45.623Z"
+  },
+  "pickingNumber": "PIC0923/0005/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650088d2b1be3ea4eac3289b"
+  },
+  "order": {
+    "$oid": "650088cab8eba443f126fda7"
+  },
+  "status": "Partially Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": {
+        "$date": "2023-09-13T04:42:42.727Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-12T15:50:42.178Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "WH 1 (2)",
+          "packingNumber": "PAC0923/0006/02",
+          "date": "2023-09-13T04:42:42.720Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64d321f6aa5e3f6f9a802852",
+        "warehouseId": "WH-gulung-ombak-37665642308001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-12T15:50:42.178Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T04:42:42.727Z"
+  },
+  "pickingNumber": "PIC0923/0006/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6501712db1be3ea4eac328a9"
+  },
+  "order": {
+    "$oid": "6501711db8eba443f12a6268"
+  },
+  "status": "Partially Picking",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": {
+        "$date": "2023-09-15T01:40:16.900Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-13T08:22:05.211Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "history": [
+        {
+          "qty": 2,
+          "warehouse": "warehouse testing 3 (5)",
+          "packingNumber": "PAC0923/0007/00",
+          "date": "2023-09-13T08:31:03.136Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0007/02",
+          "warehouse": "warehouse testing 3 (3)",
+          "date": "2023-09-13T08:33:00.710Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "history": [
+        {
+          "qty": 2,
+          "warehouse": "WH 1 (10)",
+          "packingNumber": "PAC0923/0007/02",
+          "date": "2023-09-13T08:33:00.710Z"
+        },
+        {
+          "qty": 1,
+          "packingNumber": "PAC0923/0007/02",
+          "warehouse": "warehouse testing 2 (1)",
+          "date": "2023-09-13T08:33:00.710Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "warehouse testing 2 (1)",
+          "packingNumber": "PAC0923/0007/02",
+          "date": "2023-09-13T08:33:00.710Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "Warehouse Testing 1 (2)",
+          "packingNumber": "PAC0923/0007/02",
+          "date": "2023-09-13T08:33:00.710Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0007/03",
+          "warehouse": "test 14 sept (45)",
+          "date": "2023-09-15T01:21:48.892Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0007/04",
+          "warehouse": "test 14 sept (45)",
+          "date": "2023-09-15T01:39:47.107Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0007/05",
+          "warehouse": "test 14 sept (45)",
+          "date": "2023-09-15T01:40:16.892Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "65028f67880f73367c1f11ea",
+        "warehouseId": "WH-gulung-ombak-37665642309006"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-13T08:22:05.212Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:40:16.900Z"
+  },
+  "pickingNumber": "PIC0923/0007/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503a8f1b1be3ea4eac328d0"
+  },
+  "order": {
+    "$oid": "6503a8cdb8eba443f12eec96"
+  },
+  "status": "Partially Picking",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": {
+        "$date": "2023-09-15T01:44:40.060Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-15T00:44:33.411Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "history": [
+        {
+          "qty": 2,
+          "warehouse": "warehouse (61)",
+          "packingNumber": "PAC0923/0008/00",
+          "date": "2023-09-15T00:45:27.198Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0008/02",
+          "warehouse": "warehouse (60)",
+          "date": "2023-09-15T01:12:28.563Z"
+        }
+      ]
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "history": [
+        {
+          "qty": 2,
+          "warehouse": "warehouse (73)",
+          "packingNumber": "PAC0923/0008/00",
+          "date": "2023-09-15T00:45:27.198Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0008/02",
+          "warehouse": "warehouse (71)",
+          "date": "2023-09-15T01:12:28.563Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0008/03",
+          "warehouse": "warehouse (71)",
+          "date": "2023-09-15T01:42:44.584Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0008/04",
+          "warehouse": "warehouse (71)",
+          "date": "2023-09-15T01:43:43.862Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0008/05",
+          "warehouse": "warehouse (71)",
+          "date": "2023-09-15T01:44:40.051Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "6502a69566e555b362721d49",
+        "warehouseId": "WH-gulung-ombak-37665642309007"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-15T00:44:33.411Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:44:40.060Z"
+  },
+  "pickingNumber": "PIC0923/0008/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65041e94b1be3ea4eac328e5"
+  },
+  "order": {
+    "$oid": "65041e8afeecde61721fd79d"
+  },
+  "status": "Partially Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "",
+    "lastStatus": {
+      "Partially Picked": "2023-09-15T09:11:55.399Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-09-15T09:06:28.560Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "test 14 sept (25)",
+          "packingNumber": "PAC0923/0009/00",
+          "date": "2023-09-15T09:11:55.390Z"
+        },
+        {
+          "qty": "2",
+          "packingNumber": "PAC0923/0009/02",
+          "warehouse": "test 14 sept (24)",
+          "date": "2023-09-16T18:51:17.519Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0009/02",
+          "warehouse": "Warehouse Testing 1 (3)",
+          "date": "2023-09-16T18:51:17.519Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC0923/0009/03",
+          "warehouse": "Warehouse Testing 1 (2)",
+          "date": "2023-09-18T22:37:56.192Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "64f7fd8d7cc93a9201b2cbf5",
+        "warehouseId": "WH-gulung-ombak-37665642309001"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-09-15T09:06:28.561Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-18T22:37:56.197Z"
+  },
+  "pickingNumber": "PIC0923/0009/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651ce65b1a7b3a6d1ffa99ae"
+  },
+  "order": {
+    "$oid": "651ce46cda43dfc775501731"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "Bandung",
+    "contactPerson": "Company - Supplier-5@a.co (26323232323)",
+    "companyName": "Supplier-5"
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": {
+        "$date": "2023-10-04T04:13:15.125Z"
+      }
+    }
+  ],
+  "partialPicking": [],
+  "itemsList": [],
+  "createdAt": {
+    "$date": "2023-10-04T04:13:15.125Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-04T04:13:15.125Z"
+  },
+  "pickingNumber": "PIC1023/0002/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527c967099c995629b284c7"
+  },
+  "order": {
+    "$oid": "6527c94b8ce8d08bab6a93c0"
+  },
+  "status": "Partially Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "Partially Picked": "2023-10-12T10:26:06.958Z"
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-10-12T10:24:39.039Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "history": [
+        {
+          "qty": 2,
+          "warehouse": "WH baru 12 Okt",
+          "packingNumber": "PAC1023/0005/00",
+          "date": "2023-10-12T10:26:06.939Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC1023/0005/01",
+          "warehouse": "WH baru 12 Okt",
+          "date": "2023-10-12T19:14:48.443Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC1023/0005/02",
+          "warehouse": "WH baru 12 Okt",
+          "date": "2023-10-13T03:16:33.311Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC1023/0005/03",
+          "warehouse": "WH baru 12 Okt",
+          "date": "2023-10-13T03:17:00.143Z"
+        },
+        {
+          "qty": "1",
+          "packingNumber": "PAC1023/0005/04",
+          "warehouse": "WH baru 12 Okt",
+          "date": "2023-10-19T09:19:40.802Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "warehouse": {
+        "id": "6527c9a88cb8283945e200a7"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-12T10:24:39.040Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T09:19:41.001Z"
+  },
+  "pickingNumber": "PIC1023/0005/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654370a2b29565a42d27533b"
+  },
+  "order": {
+    "$oid": "654370981e711ec941d186ad"
+  },
+  "status": "Partially Picked",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "timeStamps": [
+      {
+        "status": "Pending",
+        "time": "2023-11-02T09:49:12.789Z"
+      },
+      {
+        "status": "Approved",
+        "time": "2023-11-02T09:49:22.300Z"
+      }
+    ],
+    "requestedDate": "2023-11-03T00:00:00.000Z",
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "Partially Picked": {
+        "$date": "2023-11-02T09:51:00.500Z"
+      }
+    }
+  },
+  "timestamp": [
+    {
+      "status": "Pending",
+      "date": "2023-11-02T09:49:22.363Z"
+    }
+  ],
+  "partialPicking": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "history": [
+        {
+          "qty": 1,
+          "warehouse": "WH baru 12 Okt",
+          "packingNumber": "PAC1123/0001/00",
+          "date": "2023-11-02T09:51:01.081Z"
+        }
+      ]
+    }
+  ],
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "warehouse": {
+        "_id": "6527c9a88cb8283945e200a7",
+        "name": "WH baru 12 Okt",
+        "location": "651a6b4b8a1eaa6851d04847",
+        "type": "Finished Goods",
+        "itemList": [
+          {
+            "item": "64d0b93ec4b9d72a2ef9c264",
+            "qty": 55,
+            "available": 55,
+            "id": "6530f4adb4f922be94097ff7"
+          }
+        ],
+        "app": "gulung-ombak-3766564",
+        "createdAt": "2023-10-12T10:25:44.514Z",
+        "updatedAt": "2023-10-19T09:19:41.125Z",
+        "__v": 6,
+        "qtyDisplay": 55,
+        "nameQty": "WH baru 12 Okt (55)"
+      },
+      "warehouseOptions": []
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-02T09:49:22.363Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T09:51:00.500Z"
+  },
+  "pickingNumber": "PIC1123/0001/00",
+  "__v": 0
+}]

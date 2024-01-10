@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "vehicleName": "Kendaraan 1",
+  "licensePlate": "D 1212 PU",
+  "ownership": "Sendiri",
+  "vehicleType": "Pickup",
+  "app": "gulung-ombak-3766564",
+  "status": "NOT AVAILABLE",
+  "createdAt": {
+    "$date": "2023-08-29T06:20:15.483Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:43:54.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f7fd307cc93a9201b2cbe9"
+  },
+  "vehicleName": "Vehicle Gulung Ombak Testing 1",
+  "licensePlate": "DR12",
+  "ownership": "GULM",
+  "vehicleType": "Truck",
+  "app": "gulung-ombak-3766564",
+  "status": "NOT AVAILABLE",
+  "createdAt": {
+    "$date": "2023-09-06T04:16:48.240Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T06:35:45.490Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6502887a880f73367c1f112a"
+  },
+  "vehicleName": "vehicle 14 sept",
+  "licensePlate": "6666",
+  "ownership": "6666",
+  "vehicleType": "6666",
+  "app": "gulung-ombak-3766564",
+  "status": "NOT AVAILABLE",
+  "createdAt": {
+    "$date": "2023-09-14T04:13:46.342Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:11:21.800Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527c9feb4f922be94097e86"
+  },
+  "vehicleName": "VH Baru Subarashi",
+  "licensePlate": "ASD",
+  "app": "gulung-ombak-3766564",
+  "status": "NOT AVAILABLE",
+  "createdAt": {
+    "$date": "2023-10-12T10:27:10.031Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T02:33:17.713Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,1051 @@
+[{
+  "_id": {
+    "$oid": "64eda152c3a36b8d41c0631a"
+  },
+  "driver": {
+    "name": "Pengirim",
+    "driverID": "12345678",
+    "status": "AVAILABLE",
+    "driverLicense": "123",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-08-29T06:19:25.924Z",
+    "updatedAt": "2023-08-29T06:19:25.924Z",
+    "__v": 0,
+    "id": "64ed8ded5d7e2ecd352e5db6"
+  },
+  "vehicle": {
+    "vehicleName": "Kendaraan 1",
+    "licensePlate": "D 1212 PU",
+    "ownership": "Sendiri",
+    "vehicleType": "Pickup",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-08-29T06:20:15.483Z",
+    "updatedAt": "2023-08-29T06:20:15.483Z",
+    "__v": 0,
+    "id": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64eda108c3a36b8d41c062d8"
+      },
+      "order": {
+        "$oid": "64ed9f70cd809b64afb593f6"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-08-29",
+    "endDate": "2023-08-29",
+    "lastStatus": {
+      "Out Delivery": "2023-08-29T07:42:23.668Z",
+      "Done": {
+        "$date": "2023-08-29T07:42:46.387Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-29T07:42:10.942Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-29T07:42:46.387Z"
+  },
+  "deliveryNumber": "DO2308/007",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64eee010c3a36b8d41c069a5"
+  },
+  "driver": {
+    "name": "Pengirim",
+    "driverID": "12345678",
+    "status": "AVAILABLE",
+    "driverLicense": "123",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-08-29T06:19:25.924Z",
+    "updatedAt": "2023-08-29T07:42:46.393Z",
+    "__v": 0,
+    "id": "64ed8ded5d7e2ecd352e5db6"
+  },
+  "vehicle": {
+    "vehicleName": "Kendaraan 1",
+    "licensePlate": "D 1212 PU",
+    "ownership": "Sendiri",
+    "vehicleType": "Pickup",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-08-29T06:20:15.483Z",
+    "updatedAt": "2023-08-29T07:42:46.391Z",
+    "__v": 0,
+    "id": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64eedec0c3a36b8d41c0693a"
+      },
+      "order": {
+        "$oid": "64eede8dcd809b64afb5a22e"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-08-30",
+    "endDate": "2023-08-30",
+    "lastStatus": {
+      "Out Delivery": "2023-08-31T07:35:07.577Z",
+      "Done": {
+        "$date": "2023-08-31T07:35:13.031Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-30T06:22:08.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T07:35:13.031Z"
+  },
+  "deliveryNumber": "DO2308/008",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64f04323c3a36b8d41c074e5"
+  },
+  "driver": {
+    "name": "Pengirim",
+    "driverID": "12345678",
+    "status": "AVAILABLE",
+    "driverLicense": "123",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-08-29T06:19:25.924Z",
+    "updatedAt": "2023-08-31T07:35:12.623Z",
+    "__v": 0,
+    "id": "64ed8ded5d7e2ecd352e5db6"
+  },
+  "vehicle": {
+    "vehicleName": "Kendaraan 1",
+    "licensePlate": "D 1212 PU",
+    "ownership": "Sendiri",
+    "vehicleType": "Pickup",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-08-29T06:20:15.483Z",
+    "updatedAt": "2023-08-31T07:35:12.928Z",
+    "__v": 0,
+    "id": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64f04080c3a36b8d41c07442"
+      },
+      "order": {
+        "$oid": "64f0263b5b1e1c2c835fd7bd"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "64eee09bc3a36b8d41c06a41"
+      },
+      "order": {
+        "$oid": "64eee064cd809b64afb5a2ca"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-08-31",
+    "endDate": "2023-09-01",
+    "lastStatus": {
+      "Out Delivery": "2023-08-31T07:37:23.281Z",
+      "Delivered": {
+        "$date": "2023-09-07T09:05:44.616Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-31T07:37:07.157Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:05:44.616Z"
+  },
+  "deliveryNumber": "DO2308/014",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64f8088bb322fc2df79b5ac0"
+  },
+  "driver": "",
+  "vehicle": null,
+  "list": [
+    {
+      "packing": {
+        "$oid": "64f80445b322fc2df79b5a51"
+      },
+      "order": {
+        "$oid": "64f7fcba5b1e1c2c836b5acb"
+      }
+    }
+  ],
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "",
+    "endDate": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T05:05:15.474Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T05:05:15.474Z"
+  },
+  "deliveryNumber": "DO2309/002",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64fa71cfb59366a599356abe"
+  },
+  "driver": "",
+  "vehicle": null,
+  "list": [
+    {
+      "packing": {
+        "$oid": "64fa6b5bb59366a599356815"
+      },
+      "order": {
+        "$oid": "64fa68b45b1e1c2c8370e6a2"
+      }
+    }
+  ],
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "",
+    "endDate": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T00:58:55.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T00:58:55.042Z"
+  },
+  "deliveryNumber": "DO2309/003",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64fa89632d62673a3c2daa58"
+  },
+  "driver": {
+    "name": "Driver Gulung Ombak Testing 1",
+    "driverID": "DR12",
+    "status": "AVAILABLE",
+    "driverLicense": "D 1234 AD",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-06T04:16:04.673Z",
+    "updatedAt": "2023-09-06T04:16:04.673Z",
+    "__v": 0,
+    "id": "64f7fd047cc93a9201b2cbe4"
+  },
+  "vehicle": {
+    "vehicleName": "Vehicle Gulung Ombak Testing 1",
+    "licensePlate": "DR12",
+    "ownership": "GULM",
+    "vehicleType": "Truck",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-09-06T04:16:48.240Z",
+    "updatedAt": "2023-09-06T04:16:48.240Z",
+    "__v": 0,
+    "id": "64f7fd307cc93a9201b2cbe9"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64fa6bacb59366a599356870"
+      },
+      "order": {
+        "$oid": "64fa68b45b1e1c2c8370e6a2"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-14",
+    "endDate": "2023-09-29",
+    "lastStatus": {
+      "Setup Done": "2023-09-08T02:44:53.197Z",
+      "Out Delivery": "2023-09-08T02:45:01.736Z",
+      "Delivered": {
+        "$date": "2023-09-08T02:45:10.217Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T02:39:31.379Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T02:45:10.217Z"
+  },
+  "deliveryNumber": "DO2309/004",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64facd16435f15e96038624a"
+  },
+  "driver": {
+    "name": "Driver Gulung Ombak Testing 1",
+    "driverID": "DR12",
+    "status": "AVAILABLE",
+    "driverLicense": "D 1234 AD",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-06T04:16:04.673Z",
+    "updatedAt": "2023-09-08T02:45:10.295Z",
+    "__v": 0,
+    "id": "64f7fd047cc93a9201b2cbe4"
+  },
+  "vehicle": {
+    "vehicleName": "Vehicle Gulung Ombak Testing 1",
+    "licensePlate": "DR12",
+    "ownership": "GULM",
+    "vehicleType": "Truck",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-09-06T04:16:48.240Z",
+    "updatedAt": "2023-09-08T02:45:10.275Z",
+    "__v": 0,
+    "id": "64f7fd307cc93a9201b2cbe9"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64facc6a435f15e96038614c"
+      },
+      "order": {
+        "$oid": "64fac0005b1e1c2c8370e794"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-08",
+    "endDate": "2023-09-14",
+    "lastStatus": {
+      "Out Delivery": "2023-09-08T07:29:13.147Z",
+      "Delivered": {
+        "$date": "2023-09-08T07:29:18.454Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T07:28:22.526Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T07:29:18.454Z"
+  },
+  "deliveryNumber": "DO2309/005",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64febe4c2016b00642006129"
+  },
+  "driver": {
+    "name": "driver 16",
+    "driverID": "16",
+    "status": "AVAILABLE",
+    "driverLicense": "16",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:57:29.407Z",
+    "updatedAt": "2023-09-08T08:57:29.407Z",
+    "__v": 0,
+    "id": "64fae1f9c54ffd9b6d049aaa"
+  },
+  "vehicle": {
+    "vehicleName": "Vehicle Gulung Ombak Testing 1",
+    "licensePlate": "DR12",
+    "ownership": "GULM",
+    "vehicleType": "Truck",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-09-06T04:16:48.240Z",
+    "updatedAt": "2023-09-08T07:29:18.532Z",
+    "__v": 0,
+    "id": "64f7fd307cc93a9201b2cbe9"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64febe0a2016b00642006017"
+      },
+      "order": {
+        "$oid": "64fac0005b1e1c2c8370e794"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-13",
+    "endDate": "2023-09-19",
+    "lastStatus": {
+      "Out Delivery": "2023-09-11T07:14:29.580Z",
+      "Delivered": {
+        "$date": "2023-09-11T07:14:33.507Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T07:14:20.677Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T07:14:33.507Z"
+  },
+  "deliveryNumber": "DO2309/006",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64ff3191fb4263d12aad981c"
+  },
+  "driver": {
+    "name": "driver 15",
+    "driverID": "15",
+    "status": "AVAILABLE",
+    "driverLicense": "15",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:54:15.397Z",
+    "updatedAt": "2023-09-08T08:54:15.397Z",
+    "__v": 0,
+    "id": "64fae137c5e416586772723a"
+  },
+  "vehicle": {
+    "vehicleName": "Vehicle Gulung Ombak Testing 1",
+    "licensePlate": "DR12",
+    "ownership": "GULM",
+    "vehicleType": "Truck",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-09-06T04:16:48.240Z",
+    "updatedAt": "2023-09-11T07:14:33.558Z",
+    "__v": 0,
+    "id": "64f7fd307cc93a9201b2cbe9"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64ff315cfb4263d12aad9701"
+      },
+      "order": {
+        "$oid": "64ff30cbb8eba443f12469e7"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-19",
+    "endDate": "2023-09-28",
+    "lastStatus": {
+      "Out Delivery": "2023-09-11T15:26:23.018Z",
+      "Delivered": {
+        "$date": "2023-09-11T15:30:28.206Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:26:09.533Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:30:28.206Z"
+  },
+  "deliveryNumber": "DO2309/007",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "64ff326afb4263d12aad9aa8"
+  },
+  "driver": {
+    "name": "driver 13",
+    "driverID": "13",
+    "status": "AVAILABLE",
+    "driverLicense": "13",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:51:18.548Z",
+    "updatedAt": "2023-09-08T08:51:18.548Z",
+    "__v": 0,
+    "id": "64fae086cd3ef1cdf0c30c85"
+  },
+  "vehicle": {
+    "vehicleName": "Kendaraan 1",
+    "licensePlate": "D 1212 PU",
+    "ownership": "Sendiri",
+    "vehicleType": "Pickup",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-08-29T06:20:15.483Z",
+    "updatedAt": "2023-09-07T09:05:44.715Z",
+    "__v": 0,
+    "id": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "64ff31d2fb4263d12aad9984"
+      },
+      "order": {
+        "$oid": "64fac0005b1e1c2c8370e794"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "64ff31b7fb4263d12aad987f"
+      },
+      "order": {
+        "$oid": "64ff30cbb8eba443f12469e7"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-12",
+    "endDate": "2023-09-21",
+    "lastStatus": {
+      "Out Delivery": "2023-09-11T15:30:07.631Z",
+      "Delivered": {
+        "$date": "2023-09-11T15:30:17.581Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:29:46.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:30:17.581Z"
+  },
+  "deliveryNumber": "DO2309/008",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "65015841c2255e2ab7a499ff"
+  },
+  "driver": {
+    "name": "driver 16",
+    "driverID": "16",
+    "status": "AVAILABLE",
+    "driverLicense": "16",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:57:29.407Z",
+    "updatedAt": "2023-09-13T08:41:44.878Z",
+    "__v": 0,
+    "id": "64fae1f9c54ffd9b6d049aaa"
+  },
+  "vehicle": {
+    "vehicleName": "Kendaraan 1",
+    "licensePlate": "D 1212 PU",
+    "ownership": "Sendiri",
+    "vehicleType": "Pickup",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-08-29T06:20:15.483Z",
+    "updatedAt": "2023-09-13T08:41:44.860Z",
+    "__v": 0,
+    "id": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "65013c14c2255e2ab7a498da"
+      },
+      "order": {
+        "$oid": "650088cab8eba443f126fda7"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "64ff3539ed175d86261f2543"
+      },
+      "order": {
+        "$oid": "64ff333db8eba443f1246adc"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "64ff335cfb4263d12aad9cad"
+      },
+      "order": {
+        "$oid": "64ff333db8eba443f1246adc"
+      }
+    }
+  ],
+  "status": "Setup Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-13",
+    "endDate": "2023-09-21",
+    "lastStatus": {
+      "Setup Done": {
+        "$date": "2023-09-13T08:46:01.456Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T06:35:45.384Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:46:01.456Z"
+  },
+  "deliveryNumber": "DO2309/009",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "650174aac2255e2ab7a4a49e"
+  },
+  "driver": {
+    "name": "driver 16",
+    "driverID": "16",
+    "status": "AVAILABLE",
+    "driverLicense": "16",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:57:29.407Z",
+    "updatedAt": "2023-09-11T07:14:33.629Z",
+    "__v": 0,
+    "id": "64fae1f9c54ffd9b6d049aaa"
+  },
+  "vehicle": {
+    "vehicleName": "Kendaraan 1",
+    "licensePlate": "D 1212 PU",
+    "ownership": "Sendiri",
+    "vehicleType": "Pickup",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-08-29T06:20:15.483Z",
+    "updatedAt": "2023-09-11T15:30:17.634Z",
+    "__v": 0,
+    "id": "64ed8e1f5d7e2ecd352e5dbb"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "65017346c2255e2ab7a4a081"
+      },
+      "order": {
+        "$oid": "6501711db8eba443f12a6268"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-20",
+    "endDate": "2023-09-13",
+    "lastStatus": {
+      "Out Delivery": "2023-09-13T08:41:41.718Z",
+      "Delivered": {
+        "$date": "2023-09-13T08:41:44.812Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T08:36:58.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:41:44.812Z"
+  },
+  "deliveryNumber": "DO2309/010",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "6503abe8ff15fd00e94e5eb1"
+  },
+  "driver": {
+    "name": "test 14 sept",
+    "driverID": "666",
+    "status": "AVAILABLE",
+    "driverLicense": "666",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-14T04:13:24.321Z",
+    "updatedAt": "2023-09-14T04:14:05.399Z",
+    "__v": 0,
+    "id": "65028864880f73367c1f1125"
+  },
+  "vehicle": {
+    "vehicleName": "vehicle 14 sept",
+    "licensePlate": "6666",
+    "ownership": "6666",
+    "vehicleType": "6666",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-09-14T04:13:46.342Z",
+    "updatedAt": "2023-09-14T04:14:26.853Z",
+    "__v": 0,
+    "id": "6502887a880f73367c1f112a"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "6503a926ff15fd00e94e5df3"
+      },
+      "order": {
+        "$oid": "6503a8cdb8eba443f12eec96"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-21",
+    "endDate": "2023-09-27",
+    "lastStatus": {
+      "Out Delivery": "2023-09-15T00:57:41.097Z",
+      "Delivered": {
+        "$date": "2023-09-15T00:57:46.382Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T00:57:12.503Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T00:57:46.382Z"
+  },
+  "deliveryNumber": "DO2309/011",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "650957a9cc4bb1a08f8aa5cf"
+  },
+  "driver": {
+    "name": "driver 13",
+    "driverID": "13",
+    "status": "AVAILABLE",
+    "driverLicense": "13",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:51:18.548Z",
+    "updatedAt": "2023-09-11T15:30:17.656Z",
+    "__v": 0,
+    "id": "64fae086cd3ef1cdf0c30c85"
+  },
+  "vehicle": {
+    "vehicleName": "vehicle 14 sept",
+    "licensePlate": "6666",
+    "ownership": "6666",
+    "vehicleType": "6666",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-09-14T04:13:46.342Z",
+    "updatedAt": "2023-09-15T00:57:46.446Z",
+    "__v": 0,
+    "id": "6502887a880f73367c1f112a"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "6508d143efa411a22bf0e8bc"
+      },
+      "order": {
+        "$oid": "65041e8afeecde61721fd79d"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "6505f92520fcb75cc852c21f"
+      },
+      "order": {
+        "$oid": "65041e8afeecde61721fd79d"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "650173bcc2255e2ab7a4a19b"
+      },
+      "order": {
+        "$oid": "6501711db8eba443f12a6268"
+      }
+    }
+  ],
+  "status": "Setup Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-09-19",
+    "endDate": "2023-09-20"
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-19T08:11:21.730Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:11:21.730Z"
+  },
+  "deliveryNumber": "DO2309/013",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "6527ca07099c995629b286a9"
+  },
+  "driver": {
+    "name": "test 14 sept",
+    "driverID": "666",
+    "status": "AVAILABLE",
+    "driverLicense": "666",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-14T04:13:24.321Z",
+    "updatedAt": "2023-09-15T00:57:46.459Z",
+    "__v": 0,
+    "id": "65028864880f73367c1f1125"
+  },
+  "vehicle": {
+    "vehicleName": "VH Baru",
+    "licensePlate": "ASD",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-10-12T10:27:10.031Z",
+    "updatedAt": "2023-10-12T10:27:10.031Z",
+    "__v": 0,
+    "id": "6527c9feb4f922be94097e86"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "6527c9be099c995629b284dd"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-10-11",
+    "endDate": "2023-10-12",
+    "downloadState": true,
+    "lastStatus": {
+      "Setup Done": "2023-10-12T10:28:11.931Z",
+      "Out Delivery": "2023-10-12T19:37:22.677Z",
+      "Delivered": {
+        "$date": "2023-10-12T20:14:01.758Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:27:19.069Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T20:14:01.758Z"
+  },
+  "deliveryNumber": "DO2310/016",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "65284ab4ed97621f1a876443"
+  },
+  "driver": {
+    "name": "driver 14",
+    "driverID": "14",
+    "status": "AVAILABLE",
+    "driverLicense": "14",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:53:23.608Z",
+    "updatedAt": "2023-09-08T08:53:23.608Z",
+    "__v": 0,
+    "id": "64fae103d3919babfb33f1e9"
+  },
+  "vehicle": {
+    "vehicleName": "VH Baru",
+    "licensePlate": "ASD",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-10-12T10:27:10.031Z",
+    "updatedAt": "2023-10-12T19:59:47.936Z",
+    "__v": 0,
+    "id": "6527c9feb4f922be94097e86"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "652845a9ed97621f1a8762bb"
+      }
+    }
+  ],
+  "status": "Delivered",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-10-13",
+    "endDate": "2023-10-26",
+    "downloadState": true,
+    "lastStatus": {
+      "Setup Done": "2023-10-12T20:24:43.348Z",
+      "Out Delivery": "2023-10-12T20:26:26.198Z",
+      "Delivered": {
+        "$date": "2023-10-13T03:15:58.225Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T19:36:20.908Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:15:58.225Z"
+  },
+  "deliveryNumber": "DO2310/017",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "6528b6c8f21454e7bbf0f33a"
+  },
+  "driver": {
+    "name": "test 14 sept",
+    "driverID": "666",
+    "status": "AVAILABLE",
+    "driverLicense": "666",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-14T04:13:24.321Z",
+    "updatedAt": "2023-10-12T20:14:01.824Z",
+    "__v": 0,
+    "id": "65028864880f73367c1f1125"
+  },
+  "vehicle": {
+    "vehicleName": "VH Baru",
+    "licensePlate": "ASD",
+    "app": "gulung-ombak-3766564",
+    "status": "AVAILABLE",
+    "createdAt": "2023-10-12T10:27:10.031Z",
+    "updatedAt": "2023-10-13T03:15:58.238Z",
+    "__v": 0,
+    "id": "6527c9feb4f922be94097e86"
+  },
+  "list": [
+    {
+      "packing": {
+        "$oid": "6528b6acf21454e7bbf0f14f"
+      }
+    }
+  ],
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "",
+    "endDate": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-13T03:17:28.819Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:17:28.819Z"
+  },
+  "deliveryNumber": "DO2310/019",
+  "version": 0
+},
+{
+  "_id": {
+    "$oid": "6543753cb29565a42d275679"
+  },
+  "driver": {
+    "name": "driver ojol",
+    "driverID": "ojol123",
+    "status": "AVAILABLE",
+    "driverLicense": "1oj",
+    "props": {
+      "app": "gulung-ombak-3766564"
+    },
+    "createdAt": "2023-09-08T08:44:10.098Z",
+    "updatedAt": "2023-11-02T02:25:37.823Z",
+    "__v": 0,
+    "id": "64fadeda328f0db29d8dfae5"
+  },
+  "vehicle": null,
+  "list": [
+    {
+      "packing": {
+        "$oid": "64ff34e707c3e22a98abc88a"
+      }
+    },
+    {
+      "packing": {
+        "$oid": "65041fdb7461919501effa4e"
+      }
+    }
+  ],
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "startDate": "2023-11-14",
+    "endDate": "2023-11-24",
+    "downloadState": false
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-11-02T10:09:00.871Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T10:09:37.352Z"
+  },
+  "deliveryNumber": "DO2311/009",
+  "version": 0
+}]

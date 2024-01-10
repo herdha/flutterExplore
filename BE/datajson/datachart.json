@@ -1,0 +1,131 @@
+{
+    "driver": { "total": [12, 1], "label": ["NOT AVAILABLE", "AVAILABLE"] },
+    "vehicle": { "total": [1, 11], "label": ["AVAILABLE", "NOT AVAILABLE"] },
+    "inoutbound": { "total": [100, 102], "label": ["Inbound", "Outbound"] },
+    "inboundMonth": {
+        "receiveTotal": [5, 40, 4],
+        "unpackingTotal": [10, 15, 13],
+        "putawayTotal": [1, 6, 6]
+    },
+    "outboundMonth": {
+        "pickingTotal": [5, 21, 3],
+        "packingTotal": [10, 21, 22],
+        "deliveryTotal": [12, 4, 4]
+    },
+    "inboundWeek": {
+        "receive": {
+            "totalReceive": [1, 1, 1, 2, 4, 12, 20, 1, 7],
+            "labelReceive": [
+                "Aug/1",
+                "Aug/2",
+                "Aug/3",
+                "Aug/5",
+                "Oct/2",
+                "Sep/1",
+                "Sep/2",
+                "Sep/3",
+                "Sep/4"
+            ]
+        },
+        "unpacking": {
+            "totalUnpacking": [4, 1, 5, 15, 1, 4, 8],
+            "labelUnpacking": [
+                "Aug/1",
+                "Aug/3",
+                "Aug/5",
+                "Oct/1",
+                "Sep/1",
+                "Sep/3",
+                "Sep/4"
+            ]
+        },
+        "putaway": {
+            "totalPutaway": [5, 1, 1, 2, 3, 1],
+            "labelPutaway": ["Aug/1", "Aug/3", "Oct/1", "Sep/1", "Sep/3", "Sep/4"]
+        }
+    },
+    "outboundWeek": {
+        "picking": {
+            "totalPicking": [1, 1, 1, 2, 4, 12, 20, 1, 7],
+            "labelPicking": [
+                "Aug/1",
+                "Aug/2",
+                "Aug/3",
+                "Aug/5",
+                "Oct/2",
+                "Sep/1",
+                "Sep/2",
+                "Sep/3",
+                "Sep/4"
+            ]
+        },
+        "packing": {
+            "totalPacking": [4, 1, 5, 15, 1, 4, 8],
+            "labelPacking": [
+                "Aug/1",
+                "Aug/3",
+                "Aug/5",
+                "Oct/1",
+                "Sep/1",
+                "Sep/3",
+                "Sep/4"
+            ]
+        },
+        "delivery": {
+            "totalDelivery": [5, 1, 1, 2, 3, 1],
+            "labelDelivery": ["Aug/1", "Aug/3", "Oct/1", "Sep/1", "Sep/3", "Sep/4"]
+        }
+    },
+    "orderFulfilment": {
+        "total": [6, 18],
+        "label": ["Partially Picked", "Pending"]
+    },
+    "ratePicked": { "total": 17 },
+    "notGood": {},
+
+
+    "contoh": {
+        "receive": [
+            {
+                "month": 9,
+                "total": 40
+            },
+            {
+                "month": 8,
+                "total": 5
+            },
+            {
+                "month": 10,
+                "total": 4
+            }
+        ],
+        "unpacking": [
+            {
+                "month": 9,
+                "total": 13
+            },
+            {
+                "month": 8,
+                "total": 10
+            },
+            {
+                "month": 10,
+                "total": 15
+            }
+        ],
+        "putaway": [
+            {
+                "month": 9,
+                "total": 6
+            },
+            {
+                "month": 8,
+                "total": 6
+            },
+            {
+                "month": 10,
+                "total": 1
+            }
+        ]
+    }
+}

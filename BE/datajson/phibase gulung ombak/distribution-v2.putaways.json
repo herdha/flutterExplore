@@ -1,0 +1,1736 @@
+[{
+  "_id": {
+    "$oid": "64d39577ac6fe34e6f0f3996"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 20
+    }
+  ],
+  "order": {
+    "$oid": "64d1db059c6774daa807208c"
+  },
+  "unpacking": {
+    "$oid": "64d39554ac6fe34e6f0f396f"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-09T13:32:39.793Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T13:33:19.568Z"
+  },
+  "putAwayNumber": "PUT/0823/0001/00",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-08-09T13:33:07.490Z",
+      "Done": {
+        "$date": "2023-08-09T13:33:19.568Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642308001"
+},
+{
+  "_id": {
+    "$oid": "64f8c0eb684203822f0f91e0"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "64f832b75b1e1c2c836b75c3"
+  },
+  "unpacking": {
+    "$oid": "64f8bb4e994cd22eefdf9ec7"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T18:11:55.928Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T18:31:54.866Z"
+  },
+  "putAwayNumber": "PUT/0923/0001/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-06T18:31:42.331Z",
+      "Done": {
+        "$date": "2023-09-06T18:31:54.866Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642308001"
+},
+{
+  "_id": {
+    "$oid": "64f8c61e684203822f0f9232"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "64f832b75b1e1c2c836b75c3"
+  },
+  "unpacking": {
+    "$oid": "64f8c611684203822f0f9211"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T18:34:06.105Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T18:50:07.860Z"
+  },
+  "putAwayNumber": "PUT/0923/0001/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-06T18:50:02.341Z",
+      "Done": {
+        "$date": "2023-09-06T18:50:07.860Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642308001"
+},
+{
+  "_id": {
+    "$oid": "64f99663416a16b07578643b"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "64f9940c5b1e1c2c8370d96b"
+  },
+  "unpacking": {
+    "$oid": "64f99524416a16b0757863d6"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:22:43.385Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T00:16:49.215Z"
+  },
+  "putAwayNumber": "PUT/0923/0002/00",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-08T00:16:42.717Z",
+      "Done": {
+        "$date": "2023-09-08T00:16:49.215Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64f99696416a16b075786455"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 3
+    }
+  ],
+  "order": {
+    "$oid": "64f9940c5b1e1c2c8370d96b"
+  },
+  "unpacking": {
+    "$oid": "64f995c8416a16b075786412"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:23:34.033Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T23:59:26.186Z"
+  },
+  "putAwayNumber": "PUT/0923/0002/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-07T23:58:26.768Z",
+      "Done": {
+        "$date": "2023-09-07T23:59:26.186Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64fac149435f15e9603860ae"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "unpacking": {
+    "$oid": "64fac132435f15e96038608d"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T06:38:01.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:38:24.447Z"
+  },
+  "putAwayNumber": "PUT/0923/0003/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-08T06:38:13.686Z",
+      "Done": {
+        "$date": "2023-09-08T06:38:24.447Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64fac230435f15e960386108"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "unpacking": {
+    "$oid": "64fac221435f15e9603860e7"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T06:41:52.702Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:42:35.799Z"
+  },
+  "putAwayNumber": "PUT/0923/0003/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-08T06:42:11.859Z",
+      "Done": {
+        "$date": "2023-09-08T06:42:35.799Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64fad895c6ef4c8096b4301e"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "unpacking": {
+    "$oid": "64fad889c6ef4c8096b42ffd"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T08:17:25.675Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:25:39.857Z"
+  },
+  "putAwayNumber": "PUT/0923/0003/03",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T04:29:51.535Z",
+      "Done": {
+        "$date": "2023-09-11T08:25:39.857Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64febae72016b00642005f24"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "unpacking": {
+    "$oid": "64febad72016b00642005f03"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T06:59:51.559Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:24:24.173Z"
+  },
+  "putAwayNumber": "PUT/0923/0003/04",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:16:12.538Z",
+      "Done": {
+        "$date": "2023-09-11T08:24:24.173Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309001"
+},
+{
+  "_id": {
+    "$oid": "64fecfed7e458d4febc4ffb1"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "unpacking": {
+    "$oid": "64fecfda7e458d4febc4ff90"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:29:33.723Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:29:58.761Z"
+  },
+  "putAwayNumber": "PUT/0923/0004/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:29:51.229Z",
+      "Done": {
+        "$date": "2023-09-11T08:29:58.761Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64fed0337e458d4febc50003"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "unpacking": {
+    "$oid": "64fed0267e458d4febc4ffe2"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:30:43.807Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:33:51.492Z"
+  },
+  "putAwayNumber": "PUT/0923/0004/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:33:36.851Z",
+      "Done": {
+        "$date": "2023-09-11T08:33:51.492Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64fed2d67e458d4febc500c2"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "unpacking": {
+    "$oid": "64fed2cc7e458d4febc500a1"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:41:58.350Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:50:26.407Z"
+  },
+  "putAwayNumber": "PUT/0923/0004/03",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:44:06.374Z",
+      "Done": {
+        "$date": "2023-09-11T08:50:26.407Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64fed551d946e9235767127a"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "unpacking": {
+    "$oid": "64fed543d946e92357671259"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:52:33.352Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:53:33.588Z"
+  },
+  "putAwayNumber": "PUT/0923/0004/04",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:53:22.715Z",
+      "Done": {
+        "$date": "2023-09-11T08:53:33.588Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64ff2e93fb4263d12aad95f3"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "unpacking": {
+    "$oid": "64ff2e83fb4263d12aad95d2"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:13:23.269Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:13:55.150Z"
+  },
+  "putAwayNumber": "PUT/0923/0005/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:13:51.001Z",
+      "Done": {
+        "$date": "2023-09-11T15:13:55.150Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64ff2ed9fb4263d12aad9649"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 6,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "unpacking": {
+    "$oid": "64ff2ecefb4263d12aad9628"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:14:33.538Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:15:00.323Z"
+  },
+  "putAwayNumber": "PUT/0923/0005/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:14:54.021Z",
+      "Done": {
+        "$date": "2023-09-11T15:15:00.323Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309002"
+},
+{
+  "_id": {
+    "$oid": "64ff2f45fb4263d12aad96bb"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 3,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "unpacking": {
+    "$oid": "64ff2f2cfb4263d12aad9683"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:16:21.361Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:20:40.723Z"
+  },
+  "putAwayNumber": "PUT/0923/0005/03",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:20:21.177Z",
+      "Done": {
+        "$date": "2023-09-11T15:20:40.723Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309003"
+},
+{
+  "_id": {
+    "$oid": "65017279c2255e2ab7a4a035"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 5,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "unpacking": {
+    "$oid": "65017252c2255e2ab7a4a010"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T08:27:37.923Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:28:27.200Z"
+  },
+  "putAwayNumber": "PUT/0923/0007/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-13T08:28:23.371Z",
+      "Done": {
+        "$date": "2023-09-13T08:28:27.200Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309003"
+},
+{
+  "_id": {
+    "$oid": "6502488e4289b66e2b17d873"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c21c"
+      },
+      "qty": 1,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "unpacking": {
+    "$oid": "650248744289b66e2b17d852"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T23:41:02.599Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T00:14:39.774Z"
+  },
+  "putAwayNumber": "PUT/0923/0007/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-14T00:14:35.015Z",
+      "Done": {
+        "$date": "2023-09-14T00:14:39.774Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309004"
+},
+{
+  "_id": {
+    "$oid": "650252fe8a04332704bb1221"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c21c"
+      },
+      "qty": 1,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "unpacking": {
+    "$oid": "650252eb8a04332704bb11ec"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-14T00:25:34.835Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T00:26:23.127Z"
+  },
+  "putAwayNumber": "PUT/0923/0007/03",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-14T00:26:18.264Z",
+      "Done": {
+        "$date": "2023-09-14T00:26:23.127Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309005"
+},
+{
+  "_id": {
+    "$oid": "6503a859ff15fd00e94e5db4"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "existing": true
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 3,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "6503a6c1b8eba443f12eebb0"
+  },
+  "unpacking": {
+    "$oid": "6503a835ff15fd00e94e5d93"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T00:42:01.182Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T00:42:23.308Z"
+  },
+  "putAwayNumber": "PUT/0923/0008/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-15T00:42:16.844Z",
+      "Done": {
+        "$date": "2023-09-15T00:42:23.308Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309007"
+},
+{
+  "_id": {
+    "$oid": "6503ae40ff15fd00e94e5f83"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "6503a6c1b8eba443f12eebb0"
+  },
+  "unpacking": {
+    "$oid": "6503ad49ff15fd00e94e5f62"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:07:12.843Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:07:31.917Z"
+  },
+  "putAwayNumber": "PUT/0923/0008/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-15T01:07:26.962Z",
+      "Done": {
+        "$date": "2023-09-15T01:07:31.917Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309007"
+},
+{
+  "_id": {
+    "$oid": "65041ad37461919501eff9ad"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 2,
+      "existing": true
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "unpacking": {
+    "$oid": "65041abd7461919501eff98c"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T08:50:27.899Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T09:01:24.819Z"
+  },
+  "putAwayNumber": "PUT/0923/0009/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-15T09:01:17.646Z",
+      "Done": {
+        "$date": "2023-09-15T09:01:24.819Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309007"
+},
+{
+  "_id": {
+    "$oid": "65041df57461919501effa06"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "unpacking": {
+    "$oid": "65041de87461919501eff9e5"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T09:03:49.171Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T09:05:04.262Z"
+  },
+  "putAwayNumber": "PUT/0923/0009/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-09-15T09:04:04.318Z",
+      "Done": {
+        "$date": "2023-09-15T09:05:04.262Z"
+      }
+    }
+  },
+  "warehouse": "WH-gulung-ombak-37665642309005"
+},
+{
+  "_id": {
+    "$oid": "650b75dd2e8f20d934c1a6e6"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "unpacking": {
+    "$oid": "650b75ba2e8f20d934c1a6bf"
+  },
+  "type": "Put Away",
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-20T22:44:45.261Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T22:44:45.261Z"
+  },
+  "putAwayNumber": "PUT/0923/0009/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527caef099c995629b28a3a"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 0
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "unpacking": {
+    "$oid": "6527c5abe763d740c59c2085"
+  },
+  "type": "Put Away",
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:31:11.355Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T10:31:11.355Z"
+  },
+  "putAwayNumber": "PUT/1023/0002/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528b729f21454e7bbf0f4d6"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 2,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "unpacking": {
+    "$oid": "6528b703f21454e7bbf0f49f"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-13T03:19:05.504Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:20:19.113Z"
+  },
+  "putAwayNumber": "PUT/1023/0002/01",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-10-13T03:20:02.115Z",
+      "Done": {
+        "$date": "2023-10-13T03:20:19.113Z"
+      }
+    }
+  },
+  "warehouse": {
+    "name": "Gudang Kantor",
+    "location": {
+      "name": "Holis Raya",
+      "address": "Holis Raya",
+      "longitude": 107.562253,
+      "latitude": -6.938301,
+      "app": "gulung-ombak-3766564",
+      "id": "651a6b8a8a1eaa6851d04871"
+    },
+    "type": "Universal",
+    "itemList": [
+      {
+        "item": {
+          "name": "Tiny Ko-Ko",
+          "category": {
+            "type": "BOM",
+            "name": "Setelan Formal dan Koko",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:01:23.885Z",
+            "updatedAt": "2023-08-04T03:35:51.638Z",
+            "version": 1,
+            "id": "64cb34a3abe07c10d33fb2cd"
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "SF005",
+          "sku": "SF005",
+          "stock": 13,
+          "buyPrice": 75000,
+          "sellPrice": 110000,
+          "costPrice": 75000,
+          "buyDiscount": 5,
+          "sellDiscount": 10,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L"
+          },
+          "createdAt": "2023-08-03T05:24:06.793Z",
+          "updatedAt": "2023-08-08T08:48:08.395Z",
+          "__v": 0,
+          "storedStock": 13,
+          "title": "Tiny Ko-Ko (SF005)",
+          "storedWaste": 0,
+          "waste": 0,
+          "id": "64cb39f6b084342fc885b066"
+        },
+        "shelf": "Not Set Up",
+        "qty": 0,
+        "available": 0,
+        "id": "6527933437c831cbd191b4e5"
+      },
+      {
+        "item": {
+          "name": "Snap & Go Rompers",
+          "category": {
+            "type": "BOM",
+            "name": "Rompers dan Baju Tidur",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:00:48.387Z",
+            "updatedAt": "2023-08-04T03:35:51.479Z",
+            "version": 1
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "BR003",
+          "sku": "BR003",
+          "stock": 41,
+          "buyPrice": 70000,
+          "sellPrice": 85000,
+          "costPrice": 85000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, biru",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:27.127Z",
+          "updatedAt": "2023-08-08T08:48:45.675Z",
+          "__v": 0,
+          "storedStock": 41,
+          "title": "Snap & Go Rompers (BR003)",
+          "storedWaste": 0,
+          "waste": 0,
+          "id": "64d0b93bc4b9d72a2ef9c1fe"
+        },
+        "shelf": "Not Set Up",
+        "qty": 41,
+        "available": 41,
+        "id": "6527977f37c831cbd191b695"
+      },
+      {
+        "item": {
+          "name": "Cuddly Footies",
+          "category": {
+            "type": "BOM",
+            "name": "Rompers dan Baju Tidur",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:00:48.387Z",
+            "updatedAt": "2023-08-04T03:35:51.479Z",
+            "version": 1
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "BT004",
+          "sku": "BT004",
+          "stock": 82,
+          "buyPrice": 55000,
+          "sellPrice": 75000,
+          "costPrice": 55000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, biru",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:27.360Z",
+          "updatedAt": "2023-08-08T08:48:59.744Z",
+          "__v": 0,
+          "storedStock": 82,
+          "title": "Cuddly Footies (BT004)",
+          "storedWaste": 0,
+          "waste": 0,
+          "id": "64d0b93bc4b9d72a2ef9c204"
+        },
+        "shelf": "Not Set Up",
+        "qty": 82,
+        "available": 82,
+        "id": "6527978c37c831cbd191b6ac"
+      },
+      {
+        "item": {
+          "name": "Dreamy Sleepwear",
+          "category": {
+            "type": "BOM",
+            "name": "Rompers dan Baju Tidur",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:00:48.387Z",
+            "updatedAt": "2023-08-04T03:35:51.479Z",
+            "version": 1
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "BT002",
+          "sku": "BT002",
+          "stock": 61,
+          "buyPrice": 65000,
+          "sellPrice": 85000,
+          "costPrice": 65000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, biru",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:26.953Z",
+          "updatedAt": "2023-08-08T08:48:26.682Z",
+          "__v": 0,
+          "storedStock": 61,
+          "title": "Dreamy Sleepwear (BT002)",
+          "storedWaste": 0,
+          "waste": 0,
+          "id": "64d0b93ac4b9d72a2ef9c1f8"
+        },
+        "shelf": "Not Set Up",
+        "qty": 10,
+        "available": 10,
+        "id": "6527985537c831cbd191b7b2"
+      }
+    ],
+    "app": "gulung-ombak-3766564",
+    "createdAt": "12 Okt 2023, 13.31",
+    "updatedAt": "12 Okt 2023, 13.31",
+    "__v": 4,
+    "id": "652792bb37c831cbd191b4af",
+    "itemCode": "SF005; BR003; BT004; BT002",
+    "itemShelf": "Not Set Up; Not Set Up; Not Set Up; Not Set Up",
+    "itemQty": "0; 41; 82; 10"
+  }
+},
+{
+  "_id": {
+    "$oid": "652f58c963d65323c9ddf141"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "existing": false
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "unpacking": {
+    "$oid": "652f587d63d65323c9ddee79"
+  },
+  "type": "Put Away",
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-18T04:02:17.971Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T04:03:09.013Z"
+  },
+  "putAwayNumber": "PUT/1023/0002/02",
+  "__v": 0,
+  "props": {
+    "lastStatus": {
+      "In Progress": "2023-10-18T04:02:34.371Z",
+      "Done": {
+        "$date": "2023-10-18T04:03:09.013Z"
+      }
+    }
+  },
+  "warehouse": {
+    "name": "Gudang Kantor",
+    "location": {
+      "name": "Holis Raya",
+      "address": "Holis Raya",
+      "longitude": 107.562253,
+      "latitude": -6.938301,
+      "app": "gulung-ombak-3766564",
+      "id": "651a6b8a8a1eaa6851d04871"
+    },
+    "type": "Universal",
+    "itemList": [
+      {
+        "item": {
+          "name": "Tiny Ko-Ko",
+          "category": {
+            "type": "BOM",
+            "name": "Setelan Formal dan Koko",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:01:23.885Z",
+            "updatedAt": "2023-08-04T03:35:51.638Z",
+            "version": 1,
+            "id": "64cb34a3abe07c10d33fb2cd"
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "SF005",
+          "sku": "SF005",
+          "stock": 13,
+          "buyPrice": 75000,
+          "sellPrice": 110000,
+          "costPrice": 75000,
+          "buyDiscount": 5,
+          "sellDiscount": 10,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L"
+          },
+          "createdAt": "2023-08-03T05:24:06.793Z",
+          "updatedAt": "2023-08-08T08:48:08.395Z",
+          "__v": 0,
+          "storedStock": 13,
+          "title": "Tiny Ko-Ko (SF005)",
+          "storedWaste": 0,
+          "waste": 0,
+          "size": "S,M,L",
+          "active": true,
+          "id": "64cb39f6b084342fc885b066"
+        },
+        "shelf": "Not Set Up",
+        "qty": 0,
+        "available": 0,
+        "id": "6527933437c831cbd191b4e5"
+      },
+      {
+        "item": {
+          "name": "Snap & Go Rompers",
+          "category": {
+            "type": "BOM",
+            "name": "Rompers dan Baju Tidur",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:00:48.387Z",
+            "updatedAt": "2023-08-04T03:35:51.479Z",
+            "version": 1
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "BR003",
+          "sku": "BR003",
+          "stock": 41,
+          "buyPrice": 70000,
+          "sellPrice": 85000,
+          "costPrice": 85000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, biru",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:27.127Z",
+          "updatedAt": "2023-08-08T08:48:45.675Z",
+          "__v": 0,
+          "storedStock": 41,
+          "title": "Snap & Go Rompers (BR003)",
+          "storedWaste": 0,
+          "waste": 0,
+          "color": "pink, biru",
+          "height": null,
+          "length": null,
+          "size": "S,M,L",
+          "weight": 100,
+          "width": null,
+          "active": true,
+          "id": "64d0b93bc4b9d72a2ef9c1fe"
+        },
+        "shelf": "Not Set Up",
+        "qty": 41,
+        "available": 41,
+        "id": "6527977f37c831cbd191b695"
+      },
+      {
+        "item": {
+          "name": "Cuddly Footies",
+          "category": {
+            "type": "BOM",
+            "name": "Rompers dan Baju Tidur",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:00:48.387Z",
+            "updatedAt": "2023-08-04T03:35:51.479Z",
+            "version": 1
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "BT004",
+          "sku": "BT004",
+          "stock": 82,
+          "buyPrice": 55000,
+          "sellPrice": 75000,
+          "costPrice": 55000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, biru",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:27.360Z",
+          "updatedAt": "2023-08-08T08:48:59.744Z",
+          "__v": 0,
+          "storedStock": 82,
+          "title": "Cuddly Footies (BT004)",
+          "storedWaste": 0,
+          "waste": 0,
+          "color": "pink, biru",
+          "height": null,
+          "length": null,
+          "size": "S,M,L",
+          "weight": 100,
+          "width": null,
+          "active": true,
+          "id": "64d0b93bc4b9d72a2ef9c204"
+        },
+        "shelf": "Not Set Up",
+        "qty": 82,
+        "available": 82,
+        "id": "6527978c37c831cbd191b6ac"
+      },
+      {
+        "item": {
+          "name": "Dreamy Sleepwear",
+          "category": {
+            "type": "BOM",
+            "name": "Rompers dan Baju Tidur",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:00:48.387Z",
+            "updatedAt": "2023-08-04T03:35:51.479Z",
+            "version": 1
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "BT002",
+          "sku": "BT002",
+          "stock": 61,
+          "buyPrice": 65000,
+          "sellPrice": 85000,
+          "costPrice": 65000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": 100,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, biru",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:26.953Z",
+          "updatedAt": "2023-08-08T08:48:26.682Z",
+          "__v": 0,
+          "storedStock": 61,
+          "title": "Dreamy Sleepwear (BT002)",
+          "storedWaste": 0,
+          "waste": 0,
+          "color": "pink, biru",
+          "height": null,
+          "length": null,
+          "size": "S,M,L",
+          "weight": 100,
+          "width": null,
+          "active": true,
+          "id": "64d0b93ac4b9d72a2ef9c1f8"
+        },
+        "shelf": "Not Set Up",
+        "qty": 10,
+        "available": 10,
+        "id": "6527985537c831cbd191b7b2"
+      },
+      {
+        "item": {
+          "name": "Tender Lovealls",
+          "category": {
+            "type": "BOM",
+            "name": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:02:31.931Z",
+            "updatedAt": "2023-08-04T03:35:53.079Z",
+            "version": 1,
+            "id": "64cb34e7b084342fc885afd4"
+          },
+          "uom": {
+            "name": "pcs",
+            "symbol": "pcs",
+            "type": "pcs",
+            "app": "gulung-ombak-3766564",
+            "createdAt": "2023-08-03T05:07:25.042Z",
+            "updatedAt": "2023-08-03T05:07:25.042Z",
+            "version": 0
+          },
+          "code": "CP020",
+          "sku": "CP020",
+          "stock": 62,
+          "buyPrice": 55000,
+          "sellPrice": 87000,
+          "costPrice": 55000,
+          "buyDiscount": 0,
+          "sellDiscount": 0,
+          "moq": 100,
+          "msq": 1,
+          "mpq": null,
+          "currency": {
+            "code": "IDR",
+            "name": "Indonesian Rupiah",
+            "symbol": "Rp",
+            "country": "Indonesia",
+            "title": "Indonesian Rupiah (IDR)"
+          },
+          "component": [],
+          "inventory": true,
+          "sales": true,
+          "purchase": true,
+          "app": "gulung-ombak-3766564",
+          "props": {
+            "size": "S,M,L",
+            "color": "pink, merah",
+            "weight": "100",
+            "length": "",
+            "width": "",
+            "height": ""
+          },
+          "createdAt": "2023-08-07T09:28:30.821Z",
+          "updatedAt": "2023-10-13T03:20:19.310Z",
+          "__v": 0,
+          "storedStock": 2,
+          "title": "Tender Lovealls (CP020)",
+          "storedWaste": 0,
+          "waste": 0,
+          "color": "pink, merah",
+          "height": null,
+          "length": null,
+          "size": "S,M,L",
+          "weight": 100,
+          "width": null,
+          "active": true,
+          "id": "64d0b93ec4b9d72a2ef9c26a"
+        },
+        "shelf": "Not Set Up",
+        "qty": 2,
+        "available": 2,
+        "id": "6528b773b021cfec270db855"
+      }
+    ],
+    "app": "gulung-ombak-3766564",
+    "createdAt": "12 Okt 2023, 13.31",
+    "updatedAt": "13 Okt 2023, 10.20",
+    "__v": 5,
+    "id": "652792bb37c831cbd191b4af",
+    "itemCode": "SF005; BR003; BT004; BT002; CP020",
+    "itemShelf": "Not Set Up; Not Set Up; Not Set Up; Not Set Up; Not Set Up",
+    "itemQty": "0; 41; 82; 10; 2"
+  }
+}]

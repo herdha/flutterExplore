@@ -1,0 +1,3929 @@
+[{
+  "_id": {
+    "$oid": "64eda108c3a36b8d41c062d8"
+  },
+  "order": {
+    "$oid": "64ed9f70cd809b64afb593f6"
+  },
+  "picking": {
+    "$oid": "64ed9fcbc3a36b8d41c062c7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 10,
+      "_id": {
+        "$oid": "64eda108c3a36b8d41c062d9"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-08-29T07:41:16.167Z",
+      "Done": "2023-08-29T07:41:20.702Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-29T07:40:56.529Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-29T07:42:11.265Z"
+  },
+  "packingNumber": "PAC0823/0001/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "Pengirim",
+      "driverID": "12345678",
+      "status": "AVAILABLE",
+      "driverLicense": "123",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-08-29T06:19:25.924Z",
+      "updatedAt": "2023-08-29T06:19:25.924Z",
+      "__v": 0,
+      "id": "64ed8ded5d7e2ecd352e5db6"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-08-29T06:20:15.483Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "64eda108c3a36b8d41c062d8",
+        "order": "64ed9f70cd809b64afb593f6"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-08-29",
+      "endDate": "2023-08-29"
+    },
+    "timestamp": [],
+    "createdAt": "2023-08-29T07:42:10.942Z",
+    "updatedAt": "2023-08-29T07:42:10.942Z",
+    "deliveryNumber": "DO2308/007",
+    "version": 0,
+    "id": "64eda152c3a36b8d41c0631a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64eedec0c3a36b8d41c0693a"
+  },
+  "order": {
+    "$oid": "64eede8dcd809b64afb5a22e"
+  },
+  "picking": {
+    "$oid": "64eede9bc3a36b8d41c0691e"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c210"
+      },
+      "qty": 10,
+      "_id": {
+        "$oid": "64eedec0c3a36b8d41c0693b"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-08-30T06:16:45.199Z",
+      "Done": "2023-08-30T06:16:50.232Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-30T06:16:32.596Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-30T06:22:08.272Z"
+  },
+  "packingNumber": "PAC0823/0003/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "Pengirim",
+      "driverID": "12345678",
+      "status": "AVAILABLE",
+      "driverLicense": "123",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-08-29T06:19:25.924Z",
+      "updatedAt": "2023-08-29T07:42:46.393Z",
+      "__v": 0,
+      "id": "64ed8ded5d7e2ecd352e5db6"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-08-29T07:42:46.391Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "64eedec0c3a36b8d41c0693a",
+        "order": "64eede8dcd809b64afb5a22e"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-08-30",
+      "endDate": "2023-08-30"
+    },
+    "timestamp": [],
+    "createdAt": "2023-08-30T06:22:08.029Z",
+    "updatedAt": "2023-08-30T06:22:08.029Z",
+    "deliveryNumber": "DO2308/008",
+    "version": 0,
+    "id": "64eee010c3a36b8d41c069a5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64eee09bc3a36b8d41c06a41"
+  },
+  "order": {
+    "$oid": "64eee064cd809b64afb5a2ca"
+  },
+  "picking": {
+    "$oid": "64eee06cc3a36b8d41c06a11"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c20a"
+      },
+      "qty": 5,
+      "_id": {
+        "$oid": "64eee09bc3a36b8d41c06a42"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c216"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64eee09bc3a36b8d41c06a43"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-08-30T06:24:53.453Z",
+      "Done": "2023-08-30T06:24:57.803Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-30T06:24:27.450Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T07:37:07.434Z"
+  },
+  "packingNumber": "PAC0823/0004/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "Pengirim",
+      "driverID": "12345678",
+      "status": "AVAILABLE",
+      "driverLicense": "123",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-08-29T06:19:25.924Z",
+      "updatedAt": "2023-08-31T07:35:12.623Z",
+      "__v": 0,
+      "id": "64ed8ded5d7e2ecd352e5db6"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-08-31T07:35:12.928Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "64f04080c3a36b8d41c07442",
+        "order": "64f0263b5b1e1c2c835fd7bd"
+      },
+      {
+        "packing": "64eee09bc3a36b8d41c06a41",
+        "order": "64eee064cd809b64afb5a2ca"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-08-31",
+      "endDate": "2023-09-01"
+    },
+    "timestamp": [],
+    "createdAt": "2023-08-31T07:37:07.157Z",
+    "updatedAt": "2023-08-31T07:37:07.157Z",
+    "deliveryNumber": "DO2308/014",
+    "version": 0,
+    "id": "64f04323c3a36b8d41c074e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f04080c3a36b8d41c07442"
+  },
+  "order": {
+    "$oid": "64f0263b5b1e1c2c835fd7bd"
+  },
+  "picking": {
+    "$oid": "64f0265cc3a36b8d41c07412"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 10,
+      "_id": {
+        "$oid": "64f04080c3a36b8d41c07443"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "In Progress": "2023-08-31T07:27:40.754Z",
+      "Done": "2023-08-31T07:28:16.836Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-31T07:25:52.640Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-31T07:37:07.432Z"
+  },
+  "packingNumber": "PAC0823/0015/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "Pengirim",
+      "driverID": "12345678",
+      "status": "AVAILABLE",
+      "driverLicense": "123",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-08-29T06:19:25.924Z",
+      "updatedAt": "2023-08-31T07:35:12.623Z",
+      "__v": 0,
+      "id": "64ed8ded5d7e2ecd352e5db6"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-08-31T07:35:12.928Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "64f04080c3a36b8d41c07442",
+        "order": "64f0263b5b1e1c2c835fd7bd"
+      },
+      {
+        "packing": "64eee09bc3a36b8d41c06a41",
+        "order": "64eee064cd809b64afb5a2ca"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-08-31",
+      "endDate": "2023-09-01"
+    },
+    "timestamp": [],
+    "createdAt": "2023-08-31T07:37:07.157Z",
+    "updatedAt": "2023-08-31T07:37:07.157Z",
+    "deliveryNumber": "DO2308/014",
+    "version": 0,
+    "id": "64f04323c3a36b8d41c074e5"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f80445b322fc2df79b5a51"
+  },
+  "order": {
+    "$oid": "64f7fcba5b1e1c2c836b5acb"
+  },
+  "picking": {
+    "$oid": "64f7fccbb1be3ea4eac326f9"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64f80445b322fc2df79b5a52"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "64f80445b322fc2df79b5a53"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-06T04:47:33.175Z",
+      "Done": "2023-09-06T04:47:50.018Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T04:47:01.931Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T05:05:15.622Z"
+  },
+  "packingNumber": "PAC0923/0001/00",
+  "__v": 0,
+  "delivery": {
+    "driver": "",
+    "vehicle": null,
+    "list": [
+      {
+        "packing": "64f80445b322fc2df79b5a51",
+        "order": "64f7fcba5b1e1c2c836b5acb"
+      }
+    ],
+    "status": "Pending",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "",
+      "endDate": ""
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-06T05:05:15.474Z",
+    "updatedAt": "2023-09-06T05:05:15.474Z",
+    "deliveryNumber": "DO2309/002",
+    "version": 0,
+    "id": "64f8088bb322fc2df79b5ac0"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fa6b5bb59366a599356815"
+  },
+  "order": {
+    "$oid": "64fa68b45b1e1c2c8370e6a2"
+  },
+  "picking": {
+    "$oid": "64fa68c1b1be3ea4eac327ae"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64fa6b5bb59366a599356816"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-08T00:43:10.847Z",
+      "Done": "2023-09-08T00:43:29.903Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T00:31:23.907Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T00:58:55.179Z"
+  },
+  "packingNumber": "PAC0923/0002/00",
+  "__v": 0,
+  "delivery": {
+    "driver": "",
+    "vehicle": null,
+    "list": [
+      {
+        "packing": "64fa6b5bb59366a599356815",
+        "order": "64fa68b45b1e1c2c8370e6a2"
+      }
+    ],
+    "status": "Pending",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "",
+      "endDate": ""
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-08T00:58:55.042Z",
+    "updatedAt": "2023-09-08T00:58:55.042Z",
+    "deliveryNumber": "DO2309/003",
+    "version": 0,
+    "id": "64fa71cfb59366a599356abe"
+  }
+},
+{
+  "_id": {
+    "$oid": "64fa6bacb59366a599356870"
+  },
+  "order": {
+    "$oid": "64fa68b45b1e1c2c8370e6a2"
+  },
+  "picking": {
+    "$oid": "64fa68c1b1be3ea4eac327ae"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64fa6bacb59366a599356871"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-08T00:31:24.163Z",
+      "In Progress": "2023-09-08T00:36:43.805Z",
+      "Done": "2023-09-08T00:38:49.557Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T00:32:44.550Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T02:44:53.383Z"
+  },
+  "packingNumber": "PAC0923/0002/02",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "Driver Gulung Ombak Testing 1",
+      "driverID": "DR12",
+      "status": "AVAILABLE",
+      "driverLicense": "D 1234 AD",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-06T04:16:04.673Z",
+      "updatedAt": "2023-09-06T04:16:04.673Z",
+      "__v": 0,
+      "id": "64f7fd047cc93a9201b2cbe4"
+    },
+    "vehicle": {
+      "vehicleName": "Vehicle Gulung Ombak Testing 1",
+      "licensePlate": "DR12",
+      "ownership": "GULM",
+      "vehicleType": "Truck",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-06T04:16:48.240Z",
+      "updatedAt": "2023-09-06T04:16:48.240Z",
+      "__v": 0,
+      "id": "64f7fd307cc93a9201b2cbe9"
+    },
+    "list": [
+      {
+        "packing": "64fa6bacb59366a599356870",
+        "order": "64fa68b45b1e1c2c8370e6a2"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-14",
+      "endDate": "2023-09-29",
+      "lastStatus": {
+        "Setup Done": "2023-09-08T02:44:53.197Z"
+      }
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-08T02:39:31.379Z",
+    "updatedAt": "2023-09-08T02:44:53.197Z",
+    "deliveryNumber": "DO2309/004",
+    "version": 0,
+    "id": "64fa89632d62673a3c2daa58"
+  }
+},
+{
+  "_id": {
+    "$oid": "64facc6a435f15e96038614c"
+  },
+  "order": {
+    "$oid": "64fac0005b1e1c2c8370e794"
+  },
+  "picking": {
+    "$oid": "64fac00ab1be3ea4eac327b5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64facc6a435f15e96038614d"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-08T07:26:06.729Z",
+      "Done": "2023-09-08T07:26:11.348Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T07:25:30.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T07:28:22.662Z"
+  },
+  "packingNumber": "PAC0923/0003/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "Driver Gulung Ombak Testing 1",
+      "driverID": "DR12",
+      "status": "AVAILABLE",
+      "driverLicense": "D 1234 AD",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-06T04:16:04.673Z",
+      "updatedAt": "2023-09-08T02:45:10.295Z",
+      "__v": 0,
+      "id": "64f7fd047cc93a9201b2cbe4"
+    },
+    "vehicle": {
+      "vehicleName": "Vehicle Gulung Ombak Testing 1",
+      "licensePlate": "DR12",
+      "ownership": "GULM",
+      "vehicleType": "Truck",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-06T04:16:48.240Z",
+      "updatedAt": "2023-09-08T02:45:10.275Z",
+      "__v": 0,
+      "id": "64f7fd307cc93a9201b2cbe9"
+    },
+    "list": [
+      {
+        "packing": "64facc6a435f15e96038614c",
+        "order": "64fac0005b1e1c2c8370e794"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-08",
+      "endDate": "2023-09-14"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-08T07:28:22.526Z",
+    "updatedAt": "2023-09-08T07:28:22.526Z",
+    "deliveryNumber": "DO2309/005",
+    "version": 0,
+    "id": "64facd16435f15e96038624a"
+  }
+},
+{
+  "_id": {
+    "$oid": "64febe0a2016b00642006017"
+  },
+  "order": {
+    "$oid": "64fac0005b1e1c2c8370e794"
+  },
+  "picking": {
+    "$oid": "64fac00ab1be3ea4eac327b5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64febe0a2016b00642006018"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64febe0a2016b00642006019"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-08T07:25:30.974Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T07:13:19.543Z",
+      "Done": "2023-09-11T07:13:22.784Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T07:13:14.530Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T07:14:20.784Z"
+  },
+  "packingNumber": "PAC0923/0003/02",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 16",
+      "driverID": "16",
+      "status": "AVAILABLE",
+      "driverLicense": "16",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:57:29.407Z",
+      "updatedAt": "2023-09-08T08:57:29.407Z",
+      "__v": 0,
+      "id": "64fae1f9c54ffd9b6d049aaa"
+    },
+    "vehicle": {
+      "vehicleName": "Vehicle Gulung Ombak Testing 1",
+      "licensePlate": "DR12",
+      "ownership": "GULM",
+      "vehicleType": "Truck",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-06T04:16:48.240Z",
+      "updatedAt": "2023-09-08T07:29:18.532Z",
+      "__v": 0,
+      "id": "64f7fd307cc93a9201b2cbe9"
+    },
+    "list": [
+      {
+        "packing": "64febe0a2016b00642006017",
+        "order": "64fac0005b1e1c2c8370e794"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-13",
+      "endDate": "2023-09-19"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-11T07:14:20.677Z",
+    "updatedAt": "2023-09-11T07:14:20.677Z",
+    "deliveryNumber": "DO2309/006",
+    "version": 0,
+    "id": "64febe4c2016b00642006129"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff315cfb4263d12aad9701"
+  },
+  "order": {
+    "$oid": "64ff30cbb8eba443f12469e7"
+  },
+  "picking": {
+    "$oid": "64ff30d4b1be3ea4eac327d1"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff315cfb4263d12aad9702"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff315cfb4263d12aad9703"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:25:29.022Z",
+      "Done": "2023-09-11T15:25:34.869Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:25:16.857Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:26:09.681Z"
+  },
+  "packingNumber": "PAC0923/0004/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 15",
+      "driverID": "15",
+      "status": "AVAILABLE",
+      "driverLicense": "15",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:54:15.397Z",
+      "updatedAt": "2023-09-08T08:54:15.397Z",
+      "__v": 0,
+      "id": "64fae137c5e416586772723a"
+    },
+    "vehicle": {
+      "vehicleName": "Vehicle Gulung Ombak Testing 1",
+      "licensePlate": "DR12",
+      "ownership": "GULM",
+      "vehicleType": "Truck",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-06T04:16:48.240Z",
+      "updatedAt": "2023-09-11T07:14:33.558Z",
+      "__v": 0,
+      "id": "64f7fd307cc93a9201b2cbe9"
+    },
+    "list": [
+      {
+        "packing": "64ff315cfb4263d12aad9701",
+        "order": "64ff30cbb8eba443f12469e7"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-19",
+      "endDate": "2023-09-28"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-11T15:26:09.533Z",
+    "updatedAt": "2023-09-11T15:26:09.533Z",
+    "deliveryNumber": "DO2309/007",
+    "version": 0,
+    "id": "64ff3191fb4263d12aad981c"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff31b7fb4263d12aad987f"
+  },
+  "order": {
+    "$oid": "64ff30cbb8eba443f12469e7"
+  },
+  "picking": {
+    "$oid": "64ff30d4b1be3ea4eac327d1"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff31b7fb4263d12aad9880"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-11T15:25:17.157Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:26:54.838Z",
+      "Done": "2023-09-11T15:26:58.603Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:26:47.881Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:29:46.638Z"
+  },
+  "packingNumber": "PAC0923/0004/02",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 13",
+      "driverID": "13",
+      "status": "AVAILABLE",
+      "driverLicense": "13",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:51:18.548Z",
+      "updatedAt": "2023-09-08T08:51:18.548Z",
+      "__v": 0,
+      "id": "64fae086cd3ef1cdf0c30c85"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-09-07T09:05:44.715Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "64ff31d2fb4263d12aad9984",
+        "order": "64fac0005b1e1c2c8370e794"
+      },
+      {
+        "packing": "64ff31b7fb4263d12aad987f",
+        "order": "64ff30cbb8eba443f12469e7"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-12",
+      "endDate": "2023-09-21"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-11T15:29:46.508Z",
+    "updatedAt": "2023-09-11T15:29:46.508Z",
+    "deliveryNumber": "DO2309/008",
+    "version": 0,
+    "id": "64ff326afb4263d12aad9aa8"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff31d2fb4263d12aad9984"
+  },
+  "order": {
+    "$oid": "64fac0005b1e1c2c8370e794"
+  },
+  "picking": {
+    "$oid": "64fac00ab1be3ea4eac327b5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff31d2fb4263d12aad9985"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-08T07:25:30.974Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:29:11.093Z",
+      "Done": "2023-09-11T15:29:15.194Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:27:14.884Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:29:46.632Z"
+  },
+  "packingNumber": "PAC0923/0003/03",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 13",
+      "driverID": "13",
+      "status": "AVAILABLE",
+      "driverLicense": "13",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:51:18.548Z",
+      "updatedAt": "2023-09-08T08:51:18.548Z",
+      "__v": 0,
+      "id": "64fae086cd3ef1cdf0c30c85"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-09-07T09:05:44.715Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "64ff31d2fb4263d12aad9984",
+        "order": "64fac0005b1e1c2c8370e794"
+      },
+      {
+        "packing": "64ff31b7fb4263d12aad987f",
+        "order": "64ff30cbb8eba443f12469e7"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-12",
+      "endDate": "2023-09-21"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-11T15:29:46.508Z",
+    "updatedAt": "2023-09-11T15:29:46.508Z",
+    "deliveryNumber": "DO2309/008",
+    "version": 0,
+    "id": "64ff326afb4263d12aad9aa8"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff3306fb4263d12aad9ba8"
+  },
+  "order": {
+    "$oid": "64ff30cbb8eba443f12469e7"
+  },
+  "picking": {
+    "$oid": "64ff30d4b1be3ea4eac327d1"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff3306fb4263d12aad9ba9"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": false,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-11T15:25:17.157Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:32:27.530Z",
+      "Done": {
+        "$date": "2023-09-11T15:32:32.086Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:32:22.460Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:32:32.086Z"
+  },
+  "packingNumber": "PAC0923/0004/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff335cfb4263d12aad9cad"
+  },
+  "order": {
+    "$oid": "64ff333db8eba443f1246adc"
+  },
+  "picking": {
+    "$oid": "64ff3348b1be3ea4eac327d8"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff335cfb4263d12aad9cae"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:45:35.245Z",
+      "Done": "2023-09-11T15:45:38.499Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:33:48.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:46:01.636Z"
+  },
+  "packingNumber": "PAC0923/0005/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 16",
+      "driverID": "16",
+      "status": "AVAILABLE",
+      "driverLicense": "16",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:57:29.407Z",
+      "updatedAt": "2023-09-13T08:41:44.878Z",
+      "__v": 0,
+      "id": "64fae1f9c54ffd9b6d049aaa"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-09-13T08:41:44.860Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "65013c14c2255e2ab7a498da",
+        "order": "650088cab8eba443f126fda7"
+      },
+      {
+        "packing": "64ff3539ed175d86261f2543",
+        "order": "64ff333db8eba443f1246adc"
+      },
+      {
+        "packing": "64ff335cfb4263d12aad9cad",
+        "order": "64ff333db8eba443f1246adc"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-13",
+      "endDate": "2023-09-21",
+      "lastStatus": {
+        "Setup Done": "2023-09-13T08:46:01.456Z"
+      }
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-13T06:35:45.384Z",
+    "updatedAt": "2023-09-13T08:46:01.456Z",
+    "deliveryNumber": "DO2309/009",
+    "version": 0,
+    "id": "65015841c2255e2ab7a499ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff34e707c3e22a98abc88a"
+  },
+  "order": {
+    "$oid": "64ff333db8eba443f1246adc"
+  },
+  "picking": {
+    "$oid": "64ff3348b1be3ea4eac327d8"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff34e707c3e22a98abc88b"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-11T15:33:49.122Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:45:27.870Z",
+      "Done": "2023-09-11T15:45:32.132Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:40:23.154Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T10:09:37.463Z"
+  },
+  "packingNumber": "PAC0923/0005/02",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver ojol",
+      "driverID": "ojol123",
+      "status": "AVAILABLE",
+      "driverLicense": "1oj",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:44:10.098Z",
+      "updatedAt": "2023-11-02T02:25:37.823Z",
+      "__v": 0,
+      "id": "64fadeda328f0db29d8dfae5"
+    },
+    "vehicle": null,
+    "list": [
+      {
+        "packing": {
+          "order": {
+            "orderNumber": "SO/110923/0005",
+            "requestID": [
+              "64ff3337b8eba443f1246ac7"
+            ],
+            "type": "Sales",
+            "item": [
+              {
+                "detail": {
+                  "name": "Cuddly Footies",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64d0b93bc4b9d72a2ef9c204"
+                },
+                "quantity": 14,
+                "remaining": 11
+              }
+            ],
+            "grandTotal": 1050000,
+            "status": "Approved",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": []
+            },
+            "createdAt": "2023-09-11T15:33:28.558Z",
+            "updatedAt": "2023-09-11T15:33:28.558Z",
+            "version": 3,
+            "id": "64ff333db8eba443f1246adc"
+          },
+          "picking": "64ff3348b1be3ea4eac327d8",
+          "status": "Done",
+          "app": "gulung-ombak-3766564",
+          "itemsList": [
+            {
+              "item": {
+                "name": "Cuddly Footies",
+                "category": {
+                  "type": "BOM",
+                  "name": "Rompers dan Baju Tidur",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:00:48.387Z",
+                  "updatedAt": "2023-08-04T03:35:51.479Z",
+                  "version": 1,
+                  "id": "64cb3480abe07c10d33fb2ca"
+                },
+                "uom": {
+                  "name": "pcs",
+                  "symbol": "pcs",
+                  "type": "pcs",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:07:25.042Z",
+                  "updatedAt": "2023-08-03T05:07:25.042Z",
+                  "version": 0,
+                  "id": "64cb360db084342fc885aff0",
+                  "title": "pcs (pcs)"
+                },
+                "code": "BT004",
+                "sku": "BT004",
+                "stock": 82,
+                "buyPrice": 55000,
+                "sellPrice": 75000,
+                "costPrice": 55000,
+                "buyDiscount": 0,
+                "sellDiscount": 0,
+                "moq": 100,
+                "currency": {
+                  "code": "IDR",
+                  "name": "Indonesian Rupiah",
+                  "symbol": "Rp",
+                  "country": "Indonesia",
+                  "title": "Indonesian Rupiah (IDR)"
+                },
+                "component": [],
+                "inventory": true,
+                "sales": true,
+                "purchase": true,
+                "app": "gulung-ombak-3766564",
+                "props": {
+                  "size": "S,M,L",
+                  "color": "pink, biru",
+                  "weight": "100",
+                  "length": "",
+                  "width": "",
+                  "height": ""
+                },
+                "createdAt": "2023-08-07T09:28:27.384Z",
+                "updatedAt": "2023-10-12T06:51:56.841Z",
+                "__v": 0,
+                "storedStock": 82,
+                "storedWaste": 0,
+                "waste": 0,
+                "id": "64d0b93bc4b9d72a2ef9c204"
+              },
+              "qty": 1,
+              "id": "64ff34e707c3e22a98abc88b"
+            }
+          ],
+          "props": {
+            "onDelivery": false,
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "lastStatus": {
+                "Partially Picked": "2023-09-11T15:33:49.122Z"
+              }
+            },
+            "lastStatus": {
+              "In Progress": "2023-09-11T15:45:27.870Z",
+              "Done": "2023-09-11T15:45:32.132Z"
+            }
+          },
+          "timestamp": [],
+          "createdAt": "2023-09-11T15:40:23.154Z",
+          "updatedAt": "2023-09-13T08:45:41.027Z",
+          "packingNumber": "PAC0923/0005/02",
+          "__v": 0,
+          "delivery": "",
+          "id": "64ff34e707c3e22a98abc88a"
+        }
+      },
+      {
+        "packing": {
+          "order": {
+            "orderNumber": "SO/150923/0009",
+            "requestID": [
+              "65041e6dfeecde61721fd6f8"
+            ],
+            "type": "Sales",
+            "item": [
+              {
+                "detail": {
+                  "name": "Dapper Dandies",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64d0b93bc4b9d72a2ef9c20a"
+                },
+                "quantity": 5
+              },
+              {
+                "detail": {
+                  "name": "Tiny Ko-Ko",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64cb39f6b084342fc885b066"
+                },
+                "quantity": 5,
+                "remaining": 0
+              }
+            ],
+            "grandTotal": 1095000,
+            "status": "Approved",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "address": ""
+            },
+            "createdAt": "2023-09-15T09:06:28.549Z",
+            "updatedAt": "2023-09-15T09:06:28.549Z",
+            "version": 3,
+            "id": "65041e8afeecde61721fd79d"
+          },
+          "picking": "65041e94b1be3ea4eac328e5",
+          "status": "Done",
+          "app": "gulung-ombak-3766564",
+          "itemsList": [
+            {
+              "item": {
+                "name": "Tiny Ko-Ko",
+                "category": {
+                  "type": "BOM",
+                  "name": "Setelan Formal dan Koko",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:01:23.885Z",
+                  "updatedAt": "2023-08-04T03:35:51.638Z",
+                  "version": 1,
+                  "id": "64cb34a3abe07c10d33fb2cd"
+                },
+                "uom": {
+                  "name": "pcs",
+                  "symbol": "pcs",
+                  "type": "pcs",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:07:25.042Z",
+                  "updatedAt": "2023-08-03T05:07:25.042Z",
+                  "version": 0,
+                  "id": "64cb360db084342fc885aff0",
+                  "title": "pcs (pcs)"
+                },
+                "code": "SF005",
+                "sku": "SF005",
+                "stock": 13,
+                "buyPrice": 75000,
+                "sellPrice": 110000,
+                "costPrice": 75000,
+                "buyDiscount": 5,
+                "sellDiscount": 10,
+                "moq": 100,
+                "currency": {
+                  "code": "IDR",
+                  "name": "Indonesian Rupiah",
+                  "symbol": "Rp",
+                  "country": "Indonesia",
+                  "title": "Indonesian Rupiah (IDR)"
+                },
+                "component": [],
+                "inventory": true,
+                "sales": true,
+                "purchase": true,
+                "app": "gulung-ombak-3766564",
+                "props": {
+                  "size": "S,M,L"
+                },
+                "createdAt": "2023-08-03T05:24:06.850Z",
+                "updatedAt": "2023-10-12T06:33:24.218Z",
+                "__v": 0,
+                "storedStock": 13,
+                "storedWaste": 0,
+                "waste": 0,
+                "id": "64cb39f6b084342fc885b066"
+              },
+              "qty": 1,
+              "id": "65041fdb7461919501effa4f"
+            }
+          ],
+          "props": {
+            "onDelivery": true,
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "address": ""
+            },
+            "lastStatus": {
+              "In Progress": "2023-09-15T09:12:04.245Z",
+              "Done": "2023-09-15T09:12:09.122Z"
+            }
+          },
+          "timestamp": [],
+          "createdAt": "2023-09-15T09:11:55.137Z",
+          "updatedAt": "2023-11-02T10:09:00.932Z",
+          "packingNumber": "PAC0923/0009/00",
+          "__v": 0,
+          "delivery": {
+            "driver": {
+              "name": "driver ojol",
+              "driverID": "ojol123",
+              "status": "AVAILABLE",
+              "driverLicense": "1oj",
+              "props": {
+                "app": "gulung-ombak-3766564"
+              },
+              "createdAt": "2023-09-08T08:44:10.098Z",
+              "updatedAt": "2023-11-02T02:25:37.823Z",
+              "__v": 0,
+              "id": "64fadeda328f0db29d8dfae5"
+            },
+            "vehicle": null,
+            "list": [
+              {
+                "packing": "65437104b29565a42d275352"
+              },
+              {
+                "packing": "65041fdb7461919501effa4e"
+              }
+            ],
+            "status": "Pending",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "startDate": "2023-11-14",
+              "endDate": "2023-11-24"
+            },
+            "timestamp": [],
+            "createdAt": "2023-11-02T10:09:00.871Z",
+            "updatedAt": "2023-11-02T10:09:00.871Z",
+            "deliveryNumber": "DO2311/009",
+            "version": 0,
+            "id": "6543753cb29565a42d275679"
+          },
+          "id": "65041fdb7461919501effa4e"
+        }
+      }
+    ],
+    "status": "Pending",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-11-14",
+      "endDate": "2023-11-24",
+      "downloadState": false
+    },
+    "timestamp": [],
+    "createdAt": "2023-11-02T10:09:00.871Z",
+    "updatedAt": "2023-11-02T10:09:37.352Z",
+    "deliveryNumber": "DO2311/009",
+    "version": 0,
+    "id": "6543753cb29565a42d275679"
+  }
+},
+{
+  "_id": {
+    "$oid": "64ff3539ed175d86261f2543"
+  },
+  "order": {
+    "$oid": "64ff333db8eba443f1246adc"
+  },
+  "picking": {
+    "$oid": "64ff3348b1be3ea4eac327d8"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "64ff3539ed175d86261f2544"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-11T15:33:49.122Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:45:21.570Z",
+      "Done": "2023-09-11T15:45:24.718Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:41:45.336Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:46:01.637Z"
+  },
+  "packingNumber": "PAC0923/0005/03",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 16",
+      "driverID": "16",
+      "status": "AVAILABLE",
+      "driverLicense": "16",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:57:29.407Z",
+      "updatedAt": "2023-09-13T08:41:44.878Z",
+      "__v": 0,
+      "id": "64fae1f9c54ffd9b6d049aaa"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-09-13T08:41:44.860Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "65013c14c2255e2ab7a498da",
+        "order": "650088cab8eba443f126fda7"
+      },
+      {
+        "packing": "64ff3539ed175d86261f2543",
+        "order": "64ff333db8eba443f1246adc"
+      },
+      {
+        "packing": "64ff335cfb4263d12aad9cad",
+        "order": "64ff333db8eba443f1246adc"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-13",
+      "endDate": "2023-09-21",
+      "lastStatus": {
+        "Setup Done": "2023-09-13T08:46:01.456Z"
+      }
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-13T06:35:45.384Z",
+    "updatedAt": "2023-09-13T08:46:01.456Z",
+    "deliveryNumber": "DO2309/009",
+    "version": 0,
+    "id": "65015841c2255e2ab7a499ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65013c14c2255e2ab7a498da"
+  },
+  "order": {
+    "$oid": "650088cab8eba443f126fda7"
+  },
+  "picking": {
+    "$oid": "650088d2b1be3ea4eac3289b"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "65013c14c2255e2ab7a498db"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-13T06:33:50.995Z",
+      "Done": "2023-09-13T06:33:55.662Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T04:35:32.555Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:46:01.637Z"
+  },
+  "packingNumber": "PAC0923/0006/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 16",
+      "driverID": "16",
+      "status": "AVAILABLE",
+      "driverLicense": "16",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:57:29.407Z",
+      "updatedAt": "2023-09-13T08:41:44.878Z",
+      "__v": 0,
+      "id": "64fae1f9c54ffd9b6d049aaa"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-09-13T08:41:44.860Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "65013c14c2255e2ab7a498da",
+        "order": "650088cab8eba443f126fda7"
+      },
+      {
+        "packing": "64ff3539ed175d86261f2543",
+        "order": "64ff333db8eba443f1246adc"
+      },
+      {
+        "packing": "64ff335cfb4263d12aad9cad",
+        "order": "64ff333db8eba443f1246adc"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-13",
+      "endDate": "2023-09-21",
+      "lastStatus": {
+        "Setup Done": "2023-09-13T08:46:01.456Z"
+      }
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-13T06:35:45.384Z",
+    "updatedAt": "2023-09-13T08:46:01.456Z",
+    "deliveryNumber": "DO2309/009",
+    "version": 0,
+    "id": "65015841c2255e2ab7a499ff"
+  }
+},
+{
+  "_id": {
+    "$oid": "65013dc2c2255e2ab7a498ee"
+  },
+  "order": {
+    "$oid": "650088cab8eba443f126fda7"
+  },
+  "picking": {
+    "$oid": "650088d2b1be3ea4eac3289b"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "65013dc2c2255e2ab7a498ef"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": false,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-13T06:33:39.503Z",
+      "Done": "2023-09-13T06:33:42.413Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T04:42:42.515Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:45:41.026Z"
+  },
+  "packingNumber": "PAC0923/0006/02",
+  "__v": 0,
+  "delivery": ""
+},
+{
+  "_id": {
+    "$oid": "65017346c2255e2ab7a4a081"
+  },
+  "order": {
+    "$oid": "6501711db8eba443f12a6268"
+  },
+  "picking": {
+    "$oid": "6501712db1be3ea4eac328a9"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "65017346c2255e2ab7a4a082"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-13T08:31:08.556Z",
+      "Done": "2023-09-13T08:31:55.909Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T08:31:02.884Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:36:58.129Z"
+  },
+  "packingNumber": "PAC0923/0007/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 16",
+      "driverID": "16",
+      "status": "AVAILABLE",
+      "driverLicense": "16",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:57:29.407Z",
+      "updatedAt": "2023-09-11T07:14:33.629Z",
+      "__v": 0,
+      "id": "64fae1f9c54ffd9b6d049aaa"
+    },
+    "vehicle": {
+      "vehicleName": "Kendaraan 1",
+      "licensePlate": "D 1212 PU",
+      "ownership": "Sendiri",
+      "vehicleType": "Pickup",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-08-29T06:20:15.483Z",
+      "updatedAt": "2023-09-11T15:30:17.634Z",
+      "__v": 0,
+      "id": "64ed8e1f5d7e2ecd352e5dbb"
+    },
+    "list": [
+      {
+        "packing": "65017346c2255e2ab7a4a081",
+        "order": "6501711db8eba443f12a6268"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-20",
+      "endDate": "2023-09-13"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-13T08:36:58.042Z",
+    "updatedAt": "2023-09-13T08:36:58.042Z",
+    "deliveryNumber": "DO2309/010",
+    "version": 0,
+    "id": "650174aac2255e2ab7a4a49e"
+  }
+},
+{
+  "_id": {
+    "$oid": "650173bcc2255e2ab7a4a19b"
+  },
+  "order": {
+    "$oid": "6501711db8eba443f12a6268"
+  },
+  "picking": {
+    "$oid": "6501712db1be3ea4eac328a9"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "650173bcc2255e2ab7a4a19c"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "650173bcc2255e2ab7a4a19d"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "650173bcc2255e2ab7a4a19e"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "650173bcc2255e2ab7a4a19f"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "650173bcc2255e2ab7a4a1a0"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-13T08:31:03.140Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-13T08:33:04.958Z",
+      "Done": "2023-09-13T08:33:07.421Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T08:33:00.511Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:11:21.848Z"
+  },
+  "packingNumber": "PAC0923/0007/02",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 13",
+      "driverID": "13",
+      "status": "AVAILABLE",
+      "driverLicense": "13",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:51:18.548Z",
+      "updatedAt": "2023-09-11T15:30:17.656Z",
+      "__v": 0,
+      "id": "64fae086cd3ef1cdf0c30c85"
+    },
+    "vehicle": {
+      "vehicleName": "vehicle 14 sept",
+      "licensePlate": "6666",
+      "ownership": "6666",
+      "vehicleType": "6666",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-14T04:13:46.342Z",
+      "updatedAt": "2023-09-15T00:57:46.446Z",
+      "__v": 0,
+      "id": "6502887a880f73367c1f112a"
+    },
+    "list": [
+      {
+        "packing": "6508d143efa411a22bf0e8bc",
+        "order": "65041e8afeecde61721fd79d"
+      },
+      {
+        "packing": "6505f92520fcb75cc852c21f",
+        "order": "65041e8afeecde61721fd79d"
+      },
+      {
+        "packing": "650173bcc2255e2ab7a4a19b",
+        "order": "6501711db8eba443f12a6268"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-19",
+      "endDate": "2023-09-20"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-19T08:11:21.730Z",
+    "updatedAt": "2023-09-19T08:11:21.730Z",
+    "deliveryNumber": "DO2309/013",
+    "version": 0,
+    "id": "650957a9cc4bb1a08f8aa5cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "6503a926ff15fd00e94e5df3"
+  },
+  "order": {
+    "$oid": "6503a8cdb8eba443f12eec96"
+  },
+  "picking": {
+    "$oid": "6503a8f1b1be3ea4eac328d0"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "6503a926ff15fd00e94e5df4"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "6503a926ff15fd00e94e5df5"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": []
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-15T00:53:58.170Z",
+      "Done": "2023-09-15T00:54:11.062Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T00:45:26.966Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T00:57:12.657Z"
+  },
+  "packingNumber": "PAC0923/0008/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "test 14 sept",
+      "driverID": "666",
+      "status": "AVAILABLE",
+      "driverLicense": "666",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-14T04:13:24.321Z",
+      "updatedAt": "2023-09-14T04:14:05.399Z",
+      "__v": 0,
+      "id": "65028864880f73367c1f1125"
+    },
+    "vehicle": {
+      "vehicleName": "vehicle 14 sept",
+      "licensePlate": "6666",
+      "ownership": "6666",
+      "vehicleType": "6666",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-14T04:13:46.342Z",
+      "updatedAt": "2023-09-14T04:14:26.853Z",
+      "__v": 0,
+      "id": "6502887a880f73367c1f112a"
+    },
+    "list": [
+      {
+        "packing": "6503a926ff15fd00e94e5df3",
+        "order": "6503a8cdb8eba443f12eec96"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-21",
+      "endDate": "2023-09-27"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-15T00:57:12.503Z",
+    "updatedAt": "2023-09-15T00:57:12.503Z",
+    "deliveryNumber": "DO2309/011",
+    "version": 0,
+    "id": "6503abe8ff15fd00e94e5eb1"
+  }
+},
+{
+  "_id": {
+    "$oid": "6503af7cff15fd00e94e5fc7"
+  },
+  "order": {
+    "$oid": "6503a8cdb8eba443f12eec96"
+  },
+  "picking": {
+    "$oid": "6503a8f1b1be3ea4eac328d0"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503af7cff15fd00e94e5fc8"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503af7cff15fd00e94e5fc9"
+      }
+    }
+  ],
+  "props": {
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "lastStatus": {
+        "Partially Picked": "2023-09-15T00:45:27.217Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": {
+        "$date": "2023-09-15T01:12:34.914Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:12:28.338Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:12:34.914Z"
+  },
+  "packingNumber": "PAC0923/0008/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b1abac96b07dabd74045"
+  },
+  "order": {
+    "$oid": "6501711db8eba443f12a6268"
+  },
+  "picking": {
+    "$oid": "6501712db1be3ea4eac328a9"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503b1abac96b07dabd74046"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-13T08:31:03.140Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:21:47.916Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:21:47.916Z"
+  },
+  "packingNumber": "PAC0923/0007/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b5e2ac96b07dabd740e1"
+  },
+  "order": {
+    "$oid": "6501711db8eba443f12a6268"
+  },
+  "picking": {
+    "$oid": "6501712db1be3ea4eac328a9"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503b5e2ac96b07dabd740e2"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-13T08:31:03.140Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:39:46.887Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:39:46.887Z"
+  },
+  "packingNumber": "PAC0923/0007/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b600ac96b07dabd74171"
+  },
+  "order": {
+    "$oid": "6501711db8eba443f12a6268"
+  },
+  "picking": {
+    "$oid": "6501712db1be3ea4eac328a9"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb3946b084342fc885b05d"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503b600ac96b07dabd74172"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-15T01:39:47.116Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:40:16.660Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:40:16.660Z"
+  },
+  "packingNumber": "PAC0923/0007/05",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b694ac96b07dabd74243"
+  },
+  "order": {
+    "$oid": "6503a8cdb8eba443f12eec96"
+  },
+  "picking": {
+    "$oid": "6503a8f1b1be3ea4eac328d0"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503b694ac96b07dabd74244"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-15T00:45:27.217Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:42:44.346Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:42:44.346Z"
+  },
+  "packingNumber": "PAC0923/0008/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b6cfac96b07dabd742d4"
+  },
+  "order": {
+    "$oid": "6503a8cdb8eba443f12eec96"
+  },
+  "picking": {
+    "$oid": "6503a8f1b1be3ea4eac328d0"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503b6cfac96b07dabd742d5"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-15T01:42:44.591Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:43:43.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:43:43.653Z"
+  },
+  "packingNumber": "PAC0923/0008/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503b707ac96b07dabd7438b"
+  },
+  "order": {
+    "$oid": "6503a8cdb8eba443f12eec96"
+  },
+  "picking": {
+    "$oid": "6503a8f1b1be3ea4eac328d0"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6503b707ac96b07dabd7438c"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "lastStatus": {
+      "Partially Picked": "2023-09-15T01:43:43.869Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:44:39.838Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:44:39.838Z"
+  },
+  "packingNumber": "PAC0923/0008/05",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65041fdb7461919501effa4e"
+  },
+  "order": {
+    "$oid": "65041e8afeecde61721fd79d"
+  },
+  "picking": {
+    "$oid": "65041e94b1be3ea4eac328e5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "65041fdb7461919501effa4f"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "address": ""
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-15T09:12:04.245Z",
+      "Done": "2023-09-15T09:12:09.122Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T09:11:55.137Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T10:09:37.464Z"
+  },
+  "packingNumber": "PAC0923/0009/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver ojol",
+      "driverID": "ojol123",
+      "status": "AVAILABLE",
+      "driverLicense": "1oj",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:44:10.098Z",
+      "updatedAt": "2023-11-02T02:25:37.823Z",
+      "__v": 0,
+      "id": "64fadeda328f0db29d8dfae5"
+    },
+    "vehicle": null,
+    "list": [
+      {
+        "packing": {
+          "order": {
+            "orderNumber": "SO/110923/0005",
+            "requestID": [
+              "64ff3337b8eba443f1246ac7"
+            ],
+            "type": "Sales",
+            "item": [
+              {
+                "detail": {
+                  "name": "Cuddly Footies",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64d0b93bc4b9d72a2ef9c204"
+                },
+                "quantity": 14,
+                "remaining": 11
+              }
+            ],
+            "grandTotal": 1050000,
+            "status": "Approved",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": []
+            },
+            "createdAt": "2023-09-11T15:33:28.558Z",
+            "updatedAt": "2023-09-11T15:33:28.558Z",
+            "version": 3,
+            "id": "64ff333db8eba443f1246adc"
+          },
+          "picking": "64ff3348b1be3ea4eac327d8",
+          "status": "Done",
+          "app": "gulung-ombak-3766564",
+          "itemsList": [
+            {
+              "item": {
+                "name": "Cuddly Footies",
+                "category": {
+                  "type": "BOM",
+                  "name": "Rompers dan Baju Tidur",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:00:48.387Z",
+                  "updatedAt": "2023-08-04T03:35:51.479Z",
+                  "version": 1,
+                  "id": "64cb3480abe07c10d33fb2ca"
+                },
+                "uom": {
+                  "name": "pcs",
+                  "symbol": "pcs",
+                  "type": "pcs",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:07:25.042Z",
+                  "updatedAt": "2023-08-03T05:07:25.042Z",
+                  "version": 0,
+                  "id": "64cb360db084342fc885aff0",
+                  "title": "pcs (pcs)"
+                },
+                "code": "BT004",
+                "sku": "BT004",
+                "stock": 82,
+                "buyPrice": 55000,
+                "sellPrice": 75000,
+                "costPrice": 55000,
+                "buyDiscount": 0,
+                "sellDiscount": 0,
+                "moq": 100,
+                "currency": {
+                  "code": "IDR",
+                  "name": "Indonesian Rupiah",
+                  "symbol": "Rp",
+                  "country": "Indonesia",
+                  "title": "Indonesian Rupiah (IDR)"
+                },
+                "component": [],
+                "inventory": true,
+                "sales": true,
+                "purchase": true,
+                "app": "gulung-ombak-3766564",
+                "props": {
+                  "size": "S,M,L",
+                  "color": "pink, biru",
+                  "weight": "100",
+                  "length": "",
+                  "width": "",
+                  "height": ""
+                },
+                "createdAt": "2023-08-07T09:28:27.384Z",
+                "updatedAt": "2023-10-12T06:51:56.841Z",
+                "__v": 0,
+                "storedStock": 82,
+                "storedWaste": 0,
+                "waste": 0,
+                "id": "64d0b93bc4b9d72a2ef9c204"
+              },
+              "qty": 1,
+              "id": "64ff34e707c3e22a98abc88b"
+            }
+          ],
+          "props": {
+            "onDelivery": false,
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "lastStatus": {
+                "Partially Picked": "2023-09-11T15:33:49.122Z"
+              }
+            },
+            "lastStatus": {
+              "In Progress": "2023-09-11T15:45:27.870Z",
+              "Done": "2023-09-11T15:45:32.132Z"
+            }
+          },
+          "timestamp": [],
+          "createdAt": "2023-09-11T15:40:23.154Z",
+          "updatedAt": "2023-09-13T08:45:41.027Z",
+          "packingNumber": "PAC0923/0005/02",
+          "__v": 0,
+          "delivery": "",
+          "id": "64ff34e707c3e22a98abc88a"
+        }
+      },
+      {
+        "packing": {
+          "order": {
+            "orderNumber": "SO/150923/0009",
+            "requestID": [
+              "65041e6dfeecde61721fd6f8"
+            ],
+            "type": "Sales",
+            "item": [
+              {
+                "detail": {
+                  "name": "Dapper Dandies",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64d0b93bc4b9d72a2ef9c20a"
+                },
+                "quantity": 5
+              },
+              {
+                "detail": {
+                  "name": "Tiny Ko-Ko",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64cb39f6b084342fc885b066"
+                },
+                "quantity": 5,
+                "remaining": 0
+              }
+            ],
+            "grandTotal": 1095000,
+            "status": "Approved",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "address": ""
+            },
+            "createdAt": "2023-09-15T09:06:28.549Z",
+            "updatedAt": "2023-09-15T09:06:28.549Z",
+            "version": 3,
+            "id": "65041e8afeecde61721fd79d"
+          },
+          "picking": "65041e94b1be3ea4eac328e5",
+          "status": "Done",
+          "app": "gulung-ombak-3766564",
+          "itemsList": [
+            {
+              "item": {
+                "name": "Tiny Ko-Ko",
+                "category": {
+                  "type": "BOM",
+                  "name": "Setelan Formal dan Koko",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:01:23.885Z",
+                  "updatedAt": "2023-08-04T03:35:51.638Z",
+                  "version": 1,
+                  "id": "64cb34a3abe07c10d33fb2cd"
+                },
+                "uom": {
+                  "name": "pcs",
+                  "symbol": "pcs",
+                  "type": "pcs",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:07:25.042Z",
+                  "updatedAt": "2023-08-03T05:07:25.042Z",
+                  "version": 0,
+                  "id": "64cb360db084342fc885aff0",
+                  "title": "pcs (pcs)"
+                },
+                "code": "SF005",
+                "sku": "SF005",
+                "stock": 13,
+                "buyPrice": 75000,
+                "sellPrice": 110000,
+                "costPrice": 75000,
+                "buyDiscount": 5,
+                "sellDiscount": 10,
+                "moq": 100,
+                "currency": {
+                  "code": "IDR",
+                  "name": "Indonesian Rupiah",
+                  "symbol": "Rp",
+                  "country": "Indonesia",
+                  "title": "Indonesian Rupiah (IDR)"
+                },
+                "component": [],
+                "inventory": true,
+                "sales": true,
+                "purchase": true,
+                "app": "gulung-ombak-3766564",
+                "props": {
+                  "size": "S,M,L"
+                },
+                "createdAt": "2023-08-03T05:24:06.850Z",
+                "updatedAt": "2023-10-12T06:33:24.218Z",
+                "__v": 0,
+                "storedStock": 13,
+                "storedWaste": 0,
+                "waste": 0,
+                "id": "64cb39f6b084342fc885b066"
+              },
+              "qty": 1,
+              "id": "65041fdb7461919501effa4f"
+            }
+          ],
+          "props": {
+            "onDelivery": true,
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "address": ""
+            },
+            "lastStatus": {
+              "In Progress": "2023-09-15T09:12:04.245Z",
+              "Done": "2023-09-15T09:12:09.122Z"
+            }
+          },
+          "timestamp": [],
+          "createdAt": "2023-09-15T09:11:55.137Z",
+          "updatedAt": "2023-11-02T10:09:00.932Z",
+          "packingNumber": "PAC0923/0009/00",
+          "__v": 0,
+          "delivery": {
+            "driver": {
+              "name": "driver ojol",
+              "driverID": "ojol123",
+              "status": "AVAILABLE",
+              "driverLicense": "1oj",
+              "props": {
+                "app": "gulung-ombak-3766564"
+              },
+              "createdAt": "2023-09-08T08:44:10.098Z",
+              "updatedAt": "2023-11-02T02:25:37.823Z",
+              "__v": 0,
+              "id": "64fadeda328f0db29d8dfae5"
+            },
+            "vehicle": null,
+            "list": [
+              {
+                "packing": "65437104b29565a42d275352"
+              },
+              {
+                "packing": "65041fdb7461919501effa4e"
+              }
+            ],
+            "status": "Pending",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "startDate": "2023-11-14",
+              "endDate": "2023-11-24"
+            },
+            "timestamp": [],
+            "createdAt": "2023-11-02T10:09:00.871Z",
+            "updatedAt": "2023-11-02T10:09:00.871Z",
+            "deliveryNumber": "DO2311/009",
+            "version": 0,
+            "id": "6543753cb29565a42d275679"
+          },
+          "id": "65041fdb7461919501effa4e"
+        }
+      }
+    ],
+    "status": "Pending",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-11-14",
+      "endDate": "2023-11-24",
+      "downloadState": false
+    },
+    "timestamp": [],
+    "createdAt": "2023-11-02T10:09:00.871Z",
+    "updatedAt": "2023-11-02T10:09:37.352Z",
+    "deliveryNumber": "DO2311/009",
+    "version": 0,
+    "id": "6543753cb29565a42d275679"
+  }
+},
+{
+  "_id": {
+    "$oid": "6505f92520fcb75cc852c21f"
+  },
+  "order": {
+    "$oid": "65041e8afeecde61721fd79d"
+  },
+  "picking": {
+    "$oid": "65041e94b1be3ea4eac328e5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "6505f92520fcb75cc852c220"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6505f92520fcb75cc852c221"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "address": "",
+      "lastStatus": {
+        "Partially Picked": "2023-09-15T09:11:55.399Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-16T18:51:22.392Z",
+      "Done": "2023-09-16T18:51:26.630Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-16T18:51:17.299Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:11:21.849Z"
+  },
+  "packingNumber": "PAC0923/0009/02",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 13",
+      "driverID": "13",
+      "status": "AVAILABLE",
+      "driverLicense": "13",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:51:18.548Z",
+      "updatedAt": "2023-09-11T15:30:17.656Z",
+      "__v": 0,
+      "id": "64fae086cd3ef1cdf0c30c85"
+    },
+    "vehicle": {
+      "vehicleName": "vehicle 14 sept",
+      "licensePlate": "6666",
+      "ownership": "6666",
+      "vehicleType": "6666",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-14T04:13:46.342Z",
+      "updatedAt": "2023-09-15T00:57:46.446Z",
+      "__v": 0,
+      "id": "6502887a880f73367c1f112a"
+    },
+    "list": [
+      {
+        "packing": "6508d143efa411a22bf0e8bc",
+        "order": "65041e8afeecde61721fd79d"
+      },
+      {
+        "packing": "6505f92520fcb75cc852c21f",
+        "order": "65041e8afeecde61721fd79d"
+      },
+      {
+        "packing": "650173bcc2255e2ab7a4a19b",
+        "order": "6501711db8eba443f12a6268"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-19",
+      "endDate": "2023-09-20"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-19T08:11:21.730Z",
+    "updatedAt": "2023-09-19T08:11:21.730Z",
+    "deliveryNumber": "DO2309/013",
+    "version": 0,
+    "id": "650957a9cc4bb1a08f8aa5cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "6508d143efa411a22bf0e8bc"
+  },
+  "order": {
+    "$oid": "65041e8afeecde61721fd79d"
+  },
+  "picking": {
+    "$oid": "65041e94b1be3ea4eac328e5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64cb39f6b084342fc885b066"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6508d143efa411a22bf0e8bd"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "props": {
+      "deliveryStamp": [],
+      "putAwayStamp": [],
+      "address": "",
+      "lastStatus": {
+        "Partially Picked": "2023-09-15T09:11:55.399Z"
+      }
+    },
+    "lastStatus": {
+      "In Progress": "2023-09-18T22:38:01.174Z",
+      "Done": "2023-09-18T22:38:05.066Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-18T22:37:55.962Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-19T08:11:21.846Z"
+  },
+  "packingNumber": "PAC0923/0009/03",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 13",
+      "driverID": "13",
+      "status": "AVAILABLE",
+      "driverLicense": "13",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:51:18.548Z",
+      "updatedAt": "2023-09-11T15:30:17.656Z",
+      "__v": 0,
+      "id": "64fae086cd3ef1cdf0c30c85"
+    },
+    "vehicle": {
+      "vehicleName": "vehicle 14 sept",
+      "licensePlate": "6666",
+      "ownership": "6666",
+      "vehicleType": "6666",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-09-14T04:13:46.342Z",
+      "updatedAt": "2023-09-15T00:57:46.446Z",
+      "__v": 0,
+      "id": "6502887a880f73367c1f112a"
+    },
+    "list": [
+      {
+        "packing": "6508d143efa411a22bf0e8bc",
+        "order": "65041e8afeecde61721fd79d"
+      },
+      {
+        "packing": "6505f92520fcb75cc852c21f",
+        "order": "65041e8afeecde61721fd79d"
+      },
+      {
+        "packing": "650173bcc2255e2ab7a4a19b",
+        "order": "6501711db8eba443f12a6268"
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-09-19",
+      "endDate": "2023-09-20"
+    },
+    "timestamp": [],
+    "createdAt": "2023-09-19T08:11:21.730Z",
+    "updatedAt": "2023-09-19T08:11:21.730Z",
+    "deliveryNumber": "DO2309/013",
+    "version": 0,
+    "id": "650957a9cc4bb1a08f8aa5cf"
+  }
+},
+{
+  "_id": {
+    "$oid": "6527c9be099c995629b284dd"
+  },
+  "order": {
+    "$oid": "6527c94b8ce8d08bab6a93c0"
+  },
+  "picking": {
+    "$oid": "6527c967099c995629b284c7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 2,
+      "_id": {
+        "$oid": "6527c9be099c995629b284de"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "In Progress": "2023-10-12T10:26:20.653Z",
+      "Done": "2023-10-12T10:26:25.822Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:26:06.638Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T10:28:12.219Z"
+  },
+  "packingNumber": "PAC1023/0005/00",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "test 14 sept",
+      "driverID": "666",
+      "status": "AVAILABLE",
+      "driverLicense": "666",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-14T04:13:24.321Z",
+      "updatedAt": "2023-09-15T00:57:46.459Z",
+      "__v": 0,
+      "id": "65028864880f73367c1f1125"
+    },
+    "vehicle": {
+      "vehicleName": "VH Baru",
+      "licensePlate": "ASD",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-10-12T10:27:10.031Z",
+      "updatedAt": "2023-10-12T10:27:10.031Z",
+      "__v": 0,
+      "id": "6527c9feb4f922be94097e86"
+    },
+    "list": [
+      {
+        "packing": {
+          "order": {
+            "orderNumber": "SO/121023/0005",
+            "requestID": [
+              "6527c93d8ce8d08bab6a934b"
+            ],
+            "type": "Sales",
+            "item": [
+              {
+                "detail": {
+                  "name": "Princess Petite",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64d0b93ec4b9d72a2ef9c264"
+                },
+                "quantity": 10,
+                "remaining": 8
+              }
+            ],
+            "grandTotal": 600000,
+            "status": "Approved",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "address": "company test",
+              "contactPerson": "Company - company@company.test (081231313)",
+              "companyName": "company"
+            },
+            "createdAt": "2023-10-12T10:24:38.990Z",
+            "updatedAt": "2023-10-12T10:24:38.990Z",
+            "version": 1,
+            "id": "6527c94b8ce8d08bab6a93c0"
+          },
+          "picking": "6527c967099c995629b284c7",
+          "status": "Done",
+          "app": "gulung-ombak-3766564",
+          "itemsList": [
+            {
+              "item": {
+                "storedStock": 0,
+                "waste": 0,
+                "storedWaste": 0,
+                "name": "Princess Petite",
+                "category": {
+                  "type": "BOM",
+                  "name": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:02:31.931Z",
+                  "updatedAt": "2023-08-04T03:35:53.079Z",
+                  "version": 1,
+                  "id": "64cb34e7b084342fc885afd4"
+                },
+                "uom": {
+                  "name": "pcs",
+                  "symbol": "pcs",
+                  "type": "pcs",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:07:25.042Z",
+                  "updatedAt": "2023-08-03T05:07:25.042Z",
+                  "version": 0,
+                  "id": "64cb360db084342fc885aff0",
+                  "title": "pcs (pcs)"
+                },
+                "code": "SB019",
+                "sku": "SB019",
+                "stock": 60,
+                "buyPrice": 50000,
+                "sellPrice": 60000,
+                "costPrice": 50000,
+                "buyDiscount": 0,
+                "sellDiscount": 0,
+                "moq": 100,
+                "currency": {
+                  "code": "IDR",
+                  "name": "Indonesian Rupiah",
+                  "symbol": "Rp",
+                  "country": "Indonesia",
+                  "title": "Indonesian Rupiah (IDR)"
+                },
+                "component": [],
+                "inventory": true,
+                "sales": true,
+                "purchase": true,
+                "app": "gulung-ombak-3766564",
+                "props": {
+                  "size": "S,M,L",
+                  "color": "pink, merah",
+                  "weight": "100",
+                  "length": "",
+                  "width": "",
+                  "height": ""
+                },
+                "createdAt": "2023-08-07T09:28:30.635Z",
+                "updatedAt": "2023-08-07T09:28:30.635Z",
+                "__v": 0,
+                "id": "64d0b93ec4b9d72a2ef9c264"
+              },
+              "qty": 2,
+              "id": "6527c9be099c995629b284de"
+            }
+          ],
+          "props": {
+            "onDelivery": true,
+            "deliveryStamp": [],
+            "putAwayStamp": [],
+            "address": "company test",
+            "contactPerson": "Company - company@company.test (081231313)",
+            "companyName": "company",
+            "lastStatus": {
+              "In Progress": "2023-10-12T10:26:20.653Z",
+              "Done": "2023-10-12T10:26:25.822Z"
+            }
+          },
+          "timestamp": [],
+          "createdAt": "2023-10-12T10:26:06.638Z",
+          "updatedAt": "2023-10-12T10:27:19.145Z",
+          "packingNumber": "PAC1023/0005/00",
+          "__v": 0,
+          "delivery": {
+            "driver": {
+              "name": "test 14 sept",
+              "driverID": "666",
+              "status": "AVAILABLE",
+              "driverLicense": "666",
+              "props": {
+                "app": "gulung-ombak-3766564"
+              },
+              "createdAt": "2023-09-14T04:13:24.321Z",
+              "updatedAt": "2023-09-15T00:57:46.459Z",
+              "__v": 0,
+              "id": "65028864880f73367c1f1125"
+            },
+            "vehicle": null,
+            "list": [
+              {
+                "packing": "6527c9be099c995629b284dd"
+              }
+            ],
+            "status": "Pending",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "startDate": "2023-10-11",
+              "endDate": "2023-10-12"
+            },
+            "timestamp": [],
+            "createdAt": "2023-10-12T10:27:19.069Z",
+            "updatedAt": "2023-10-12T10:27:19.069Z",
+            "deliveryNumber": "DO2310/016",
+            "version": 0,
+            "id": "6527ca07099c995629b286a9"
+          },
+          "id": "6527c9be099c995629b284dd"
+        }
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-10-11",
+      "endDate": "2023-10-12",
+      "downloadState": false,
+      "lastStatus": {
+        "Setup Done": "2023-10-12T10:28:11.931Z"
+      }
+    },
+    "timestamp": [],
+    "createdAt": "2023-10-12T10:27:19.069Z",
+    "updatedAt": "2023-10-12T10:28:11.931Z",
+    "deliveryNumber": "DO2310/016",
+    "version": 0,
+    "id": "6527ca07099c995629b286a9"
+  }
+},
+{
+  "_id": {
+    "$oid": "652845a9ed97621f1a8762bb"
+  },
+  "order": {
+    "$oid": "6527c94b8ce8d08bab6a93c0"
+  },
+  "picking": {
+    "$oid": "6527c967099c995629b284c7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "652845a9ed97621f1a8762bc"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "Partially Picked": "2023-10-12T10:26:06.958Z",
+      "In Progress": "2023-10-12T19:15:16.646Z",
+      "Done": "2023-10-12T19:15:23.827Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T19:14:49.508Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T20:24:43.726Z"
+  },
+  "packingNumber": "PAC1023/0005/01",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "driver 14",
+      "driverID": "14",
+      "status": "AVAILABLE",
+      "driverLicense": "14",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-08T08:53:23.608Z",
+      "updatedAt": "2023-09-08T08:53:23.608Z",
+      "__v": 0,
+      "id": "64fae103d3919babfb33f1e9"
+    },
+    "vehicle": {
+      "vehicleName": "VH Baru",
+      "licensePlate": "ASD",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-10-12T10:27:10.031Z",
+      "updatedAt": "2023-10-12T19:59:47.936Z",
+      "__v": 0,
+      "id": "6527c9feb4f922be94097e86"
+    },
+    "list": [
+      {
+        "packing": {
+          "order": {
+            "orderNumber": "SO/121023/0005",
+            "requestID": [
+              "6527c93d8ce8d08bab6a934b"
+            ],
+            "type": "Sales",
+            "item": [
+              {
+                "detail": {
+                  "name": "Princess Petite",
+                  "uom": {
+                    "symbol": "pcs"
+                  },
+                  "id": "64d0b93ec4b9d72a2ef9c264"
+                },
+                "quantity": 10,
+                "remaining": 7
+              }
+            ],
+            "grandTotal": 600000,
+            "status": "Approved",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "deliveryStamp": [],
+              "putAwayStamp": [],
+              "address": "company test",
+              "contactPerson": "Company - company@company.test (081231313)",
+              "companyName": "company"
+            },
+            "createdAt": "2023-10-12T10:24:38.990Z",
+            "updatedAt": "2023-10-12T10:24:38.990Z",
+            "version": 2,
+            "id": "6527c94b8ce8d08bab6a93c0"
+          },
+          "picking": "6527c967099c995629b284c7",
+          "status": "Done",
+          "app": "gulung-ombak-3766564",
+          "itemsList": [
+            {
+              "item": {
+                "storedStock": 0,
+                "waste": 0,
+                "storedWaste": 0,
+                "name": "Princess Petite",
+                "category": {
+                  "type": "BOM",
+                  "name": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:02:31.931Z",
+                  "updatedAt": "2023-08-04T03:35:53.079Z",
+                  "version": 1,
+                  "id": "64cb34e7b084342fc885afd4"
+                },
+                "uom": {
+                  "name": "pcs",
+                  "symbol": "pcs",
+                  "type": "pcs",
+                  "app": "gulung-ombak-3766564",
+                  "createdAt": "2023-08-03T05:07:25.042Z",
+                  "updatedAt": "2023-08-03T05:07:25.042Z",
+                  "version": 0,
+                  "id": "64cb360db084342fc885aff0",
+                  "title": "pcs (pcs)"
+                },
+                "code": "SB019",
+                "sku": "SB019",
+                "stock": 60,
+                "buyPrice": 50000,
+                "sellPrice": 60000,
+                "costPrice": 50000,
+                "buyDiscount": 0,
+                "sellDiscount": 0,
+                "moq": 100,
+                "currency": {
+                  "code": "IDR",
+                  "name": "Indonesian Rupiah",
+                  "symbol": "Rp",
+                  "country": "Indonesia",
+                  "title": "Indonesian Rupiah (IDR)"
+                },
+                "component": [],
+                "inventory": true,
+                "sales": true,
+                "purchase": true,
+                "app": "gulung-ombak-3766564",
+                "props": {
+                  "size": "S,M,L",
+                  "color": "pink, merah",
+                  "weight": "100",
+                  "length": "",
+                  "width": "",
+                  "height": ""
+                },
+                "createdAt": "2023-08-07T09:28:30.635Z",
+                "updatedAt": "2023-08-07T09:28:30.635Z",
+                "__v": 0,
+                "id": "64d0b93ec4b9d72a2ef9c264"
+              },
+              "qty": 1,
+              "id": "652845a9ed97621f1a8762bc"
+            }
+          ],
+          "props": {
+            "onDelivery": true,
+            "deliveryStamp": [],
+            "putAwayStamp": [],
+            "address": "company test",
+            "contactPerson": "Company - company@company.test (081231313)",
+            "companyName": "company",
+            "lastStatus": {
+              "Partially Picked": "2023-10-12T10:26:06.958Z",
+              "In Progress": "2023-10-12T19:15:16.646Z",
+              "Done": "2023-10-12T19:15:23.827Z"
+            }
+          },
+          "timestamp": [],
+          "createdAt": "2023-10-12T19:14:49.508Z",
+          "updatedAt": "2023-10-12T20:14:44.077Z",
+          "packingNumber": "PAC1023/0005/01",
+          "__v": 0,
+          "delivery": {
+            "driver": {
+              "name": "driver 14",
+              "driverID": "14",
+              "status": "AVAILABLE",
+              "driverLicense": "14",
+              "props": {
+                "app": "gulung-ombak-3766564"
+              },
+              "createdAt": "2023-09-08T08:53:23.608Z",
+              "updatedAt": "2023-09-08T08:53:23.608Z",
+              "__v": 0,
+              "id": "64fae103d3919babfb33f1e9"
+            },
+            "vehicle": {
+              "vehicleName": "VH Baru",
+              "licensePlate": "ASD",
+              "app": "gulung-ombak-3766564",
+              "status": "AVAILABLE",
+              "createdAt": "2023-10-12T10:27:10.031Z",
+              "updatedAt": "2023-10-12T20:14:01.792Z",
+              "__v": 0,
+              "id": "6527c9feb4f922be94097e86"
+            },
+            "list": [
+              {
+                "packing": {
+                  "order": {
+                    "orderNumber": "SO/121023/0005",
+                    "requestID": [
+                      "6527c93d8ce8d08bab6a934b"
+                    ],
+                    "type": "Sales",
+                    "item": [
+                      {
+                        "detail": {
+                          "name": "Princess Petite",
+                          "uom": {
+                            "symbol": "pcs"
+                          },
+                          "id": "64d0b93ec4b9d72a2ef9c264"
+                        },
+                        "quantity": 10,
+                        "remaining": 7
+                      }
+                    ],
+                    "grandTotal": 600000,
+                    "status": "Approved",
+                    "app": "gulung-ombak-3766564",
+                    "props": {
+                      "deliveryStamp": [],
+                      "putAwayStamp": [],
+                      "address": "company test",
+                      "contactPerson": "Company - company@company.test (081231313)",
+                      "companyName": "company"
+                    },
+                    "createdAt": "2023-10-12T10:24:38.990Z",
+                    "updatedAt": "2023-10-12T10:24:38.990Z",
+                    "version": 2,
+                    "id": "6527c94b8ce8d08bab6a93c0"
+                  },
+                  "picking": "6527c967099c995629b284c7",
+                  "status": "Done",
+                  "app": "gulung-ombak-3766564",
+                  "itemsList": [
+                    {
+                      "item": {
+                        "storedStock": 0,
+                        "waste": 0,
+                        "storedWaste": 0,
+                        "name": "Princess Petite",
+                        "category": {
+                          "type": "BOM",
+                          "name": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+                          "app": "gulung-ombak-3766564",
+                          "createdAt": "2023-08-03T05:02:31.931Z",
+                          "updatedAt": "2023-08-04T03:35:53.079Z",
+                          "version": 1,
+                          "id": "64cb34e7b084342fc885afd4"
+                        },
+                        "uom": {
+                          "name": "pcs",
+                          "symbol": "pcs",
+                          "type": "pcs",
+                          "app": "gulung-ombak-3766564",
+                          "createdAt": "2023-08-03T05:07:25.042Z",
+                          "updatedAt": "2023-08-03T05:07:25.042Z",
+                          "version": 0,
+                          "id": "64cb360db084342fc885aff0",
+                          "title": "pcs (pcs)"
+                        },
+                        "code": "SB019",
+                        "sku": "SB019",
+                        "stock": 60,
+                        "buyPrice": 50000,
+                        "sellPrice": 60000,
+                        "costPrice": 50000,
+                        "buyDiscount": 0,
+                        "sellDiscount": 0,
+                        "moq": 100,
+                        "currency": {
+                          "code": "IDR",
+                          "name": "Indonesian Rupiah",
+                          "symbol": "Rp",
+                          "country": "Indonesia",
+                          "title": "Indonesian Rupiah (IDR)"
+                        },
+                        "component": [],
+                        "inventory": true,
+                        "sales": true,
+                        "purchase": true,
+                        "app": "gulung-ombak-3766564",
+                        "props": {
+                          "size": "S,M,L",
+                          "color": "pink, merah",
+                          "weight": "100",
+                          "length": "",
+                          "width": "",
+                          "height": ""
+                        },
+                        "createdAt": "2023-08-07T09:28:30.635Z",
+                        "updatedAt": "2023-08-07T09:28:30.635Z",
+                        "__v": 0,
+                        "id": "64d0b93ec4b9d72a2ef9c264"
+                      },
+                      "qty": 1,
+                      "id": "652845a9ed97621f1a8762bc"
+                    }
+                  ],
+                  "props": {
+                    "onDelivery": true,
+                    "deliveryStamp": [],
+                    "putAwayStamp": [],
+                    "address": "company test",
+                    "contactPerson": "Company - company@company.test (081231313)",
+                    "companyName": "company",
+                    "lastStatus": {
+                      "Partially Picked": "2023-10-12T10:26:06.958Z",
+                      "In Progress": "2023-10-12T19:15:16.646Z",
+                      "Done": "2023-10-12T19:15:23.827Z"
+                    }
+                  },
+                  "timestamp": [],
+                  "createdAt": "2023-10-12T19:14:49.508Z",
+                  "updatedAt": "2023-10-12T19:36:20.993Z",
+                  "packingNumber": "PAC1023/0005/01",
+                  "__v": 0,
+                  "delivery": {
+                    "driver": {
+                      "name": "driver 14",
+                      "driverID": "14",
+                      "status": "AVAILABLE",
+                      "driverLicense": "14",
+                      "props": {
+                        "app": "gulung-ombak-3766564"
+                      },
+                      "createdAt": "2023-09-08T08:53:23.608Z",
+                      "updatedAt": "2023-09-08T08:53:23.608Z",
+                      "__v": 0,
+                      "id": "64fae103d3919babfb33f1e9"
+                    },
+                    "vehicle": null,
+                    "list": [
+                      {
+                        "packing": "652845a9ed97621f1a8762bb"
+                      }
+                    ],
+                    "status": "Pending",
+                    "app": "gulung-ombak-3766564",
+                    "props": {
+                      "startDate": "",
+                      "endDate": ""
+                    },
+                    "timestamp": [],
+                    "createdAt": "2023-10-12T19:36:20.908Z",
+                    "updatedAt": "2023-10-12T19:36:20.908Z",
+                    "deliveryNumber": "DO2310/017",
+                    "version": 0,
+                    "id": "65284ab4ed97621f1a876443"
+                  },
+                  "id": "652845a9ed97621f1a8762bb"
+                }
+              }
+            ],
+            "status": "Setup Done",
+            "app": "gulung-ombak-3766564",
+            "props": {
+              "startDate": "2023-11-08",
+              "endDate": "2023-11-11",
+              "downloadState": false,
+              "lastStatus": {
+                "Setup Done": "2023-10-12T20:14:43.942Z"
+              }
+            },
+            "timestamp": [],
+            "createdAt": "2023-10-12T19:36:20.908Z",
+            "updatedAt": "2023-10-12T20:14:43.942Z",
+            "deliveryNumber": "DO2310/017",
+            "version": 0,
+            "id": "65284ab4ed97621f1a876443"
+          },
+          "id": "652845a9ed97621f1a8762bb"
+        }
+      }
+    ],
+    "status": "Setup Done",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "2023-10-13",
+      "endDate": "2023-10-26",
+      "downloadState": false,
+      "lastStatus": {
+        "Setup Done": "2023-10-12T20:24:43.348Z"
+      }
+    },
+    "timestamp": [],
+    "createdAt": "2023-10-12T19:36:20.908Z",
+    "updatedAt": "2023-10-12T20:24:43.348Z",
+    "deliveryNumber": "DO2310/017",
+    "version": 0,
+    "id": "65284ab4ed97621f1a876443"
+  }
+},
+{
+  "_id": {
+    "$oid": "6528b692f21454e7bbf0f06c"
+  },
+  "order": {
+    "$oid": "6527c94b8ce8d08bab6a93c0"
+  },
+  "picking": {
+    "$oid": "6527c967099c995629b284c7"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6528b692f21454e7bbf0f06d"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "Partially Picked": "2023-10-12T10:26:06.958Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-13T03:16:34.029Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:16:34.029Z"
+  },
+  "packingNumber": "PAC1023/0005/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528b6acf21454e7bbf0f14f"
+  },
+  "order": {
+    "$oid": "6527c94b8ce8d08bab6a93c0"
+  },
+  "picking": {
+    "$oid": "6527c967099c995629b284c7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6528b6acf21454e7bbf0f150"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": true,
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "Partially Picked": "2023-10-12T10:26:06.958Z",
+      "In Progress": "2023-10-13T03:17:06.244Z",
+      "Done": "2023-10-13T03:17:09.841Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-13T03:17:00.865Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:17:28.896Z"
+  },
+  "packingNumber": "PAC1023/0005/03",
+  "__v": 0,
+  "delivery": {
+    "driver": {
+      "name": "test 14 sept",
+      "driverID": "666",
+      "status": "AVAILABLE",
+      "driverLicense": "666",
+      "props": {
+        "app": "gulung-ombak-3766564"
+      },
+      "createdAt": "2023-09-14T04:13:24.321Z",
+      "updatedAt": "2023-10-12T20:14:01.824Z",
+      "__v": 0,
+      "id": "65028864880f73367c1f1125"
+    },
+    "vehicle": {
+      "vehicleName": "VH Baru",
+      "licensePlate": "ASD",
+      "app": "gulung-ombak-3766564",
+      "status": "AVAILABLE",
+      "createdAt": "2023-10-12T10:27:10.031Z",
+      "updatedAt": "2023-10-13T03:15:58.238Z",
+      "__v": 0,
+      "id": "6527c9feb4f922be94097e86"
+    },
+    "list": [
+      {
+        "packing": "6528b6acf21454e7bbf0f14f"
+      }
+    ],
+    "status": "Pending",
+    "app": "gulung-ombak-3766564",
+    "props": {
+      "startDate": "",
+      "endDate": ""
+    },
+    "timestamp": [],
+    "createdAt": "2023-10-13T03:17:28.819Z",
+    "updatedAt": "2023-10-13T03:17:28.819Z",
+    "deliveryNumber": "DO2310/019",
+    "version": 0,
+    "id": "6528b6c8f21454e7bbf0f33a"
+  }
+},
+{
+  "_id": {
+    "$oid": "6530f4ac1d62ed0934eac1ed"
+  },
+  "order": {
+    "$oid": "6527c94b8ce8d08bab6a93c0"
+  },
+  "picking": {
+    "$oid": "6527c967099c995629b284c7"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "6530f4ac1d62ed0934eac1ee"
+      }
+    }
+  ],
+  "props": {
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "Partially Picked": "2023-10-12T10:26:06.958Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-19T09:19:40.930Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-19T09:19:40.930Z"
+  },
+  "packingNumber": "PAC1023/0005/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65437104b29565a42d275352"
+  },
+  "order": {
+    "$oid": "654370981e711ec941d186ad"
+  },
+  "picking": {
+    "$oid": "654370a2b29565a42d27533b"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "itemsList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c264"
+      },
+      "qty": 1,
+      "_id": {
+        "$oid": "65437104b29565a42d275353"
+      }
+    }
+  ],
+  "props": {
+    "onDelivery": false,
+    "deliveryStamp": [],
+    "putAwayStamp": [],
+    "timeStamps": [
+      {
+        "status": "Pending",
+        "time": "2023-11-02T09:49:12.789Z"
+      },
+      {
+        "status": "Approved",
+        "time": "2023-11-02T09:49:22.300Z"
+      }
+    ],
+    "requestedDate": "2023-11-03T00:00:00.000Z",
+    "address": "company test",
+    "contactPerson": "Company - company@company.test (081231313)",
+    "companyName": "company",
+    "lastStatus": {
+      "In Progress": "2023-11-02T10:07:26.534Z",
+      "Done": "2023-11-02T10:07:32.523Z"
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-11-02T09:51:00.407Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-02T10:09:37.318Z"
+  },
+  "packingNumber": "PAC1123/0001/00",
+  "__v": 0,
+  "delivery": ""
+}]

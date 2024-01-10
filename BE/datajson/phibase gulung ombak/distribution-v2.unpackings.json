@@ -1,0 +1,2012 @@
+[{
+  "_id": {
+    "$oid": "64d39554ac6fe34e6f0f396f"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 20,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64d1db059c6774daa807208c"
+  },
+  "receive": {
+    "$oid": "64d1fa2dac6fe34e6f0f38c5"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "Terima di depan",
+    "lastStatus": {
+      "In Progress": "2023-08-09T13:32:16.387Z",
+      "Done": {
+        "$date": "2023-08-09T13:32:39.128Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-08-09T13:32:04.431Z"
+  },
+  "updatedAt": {
+    "$date": "2023-08-09T13:32:39.128Z"
+  },
+  "unpackingNumber": "UNP/0823/0001/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f834b1f1dfc1563189303d"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64f832b75b1e1c2c836b75c3"
+  },
+  "receive": {
+    "$oid": "64f83483b1be3ea4eac32702"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-06T08:13:59.504Z",
+      "Draft": "2023-09-06T08:14:12.163Z",
+      "Done": {
+        "$date": "2023-09-06T08:14:33.121Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T08:13:37.191Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T08:14:33.121Z"
+  },
+  "unpackingNumber": "UNP/0923/0001/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8bb4e994cd22eefdf9ec7"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64f832b75b1e1c2c836b75c3"
+  },
+  "receive": {
+    "$oid": "64f83483b1be3ea4eac32702"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-06T17:48:12.477Z",
+      "Draft": "2023-09-06T18:07:13.448Z",
+      "Done": {
+        "$date": "2023-09-06T18:11:55.359Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T17:47:58.246Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T18:11:55.359Z"
+  },
+  "unpackingNumber": "UNP/0923/0001/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f8c611684203822f0f9211"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64f832b75b1e1c2c836b75c3"
+  },
+  "receive": {
+    "$oid": "64f83483b1be3ea4eac32702"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-06T18:34:02.542Z",
+      "Done": {
+        "$date": "2023-09-06T18:34:05.860Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-06T18:33:53.822Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-06T18:34:05.860Z"
+  },
+  "unpackingNumber": "UNP/0923/0001/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f99524416a16b0757863d6"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64f9940c5b1e1c2c8370d96b"
+  },
+  "receive": {
+    "$oid": "64f99415b1be3ea4eac327a7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-07T09:20:55.512Z",
+      "Done": {
+        "$date": "2023-09-07T09:22:42.886Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:17:24.484Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:22:42.886Z"
+  },
+  "unpackingNumber": "UNP/0923/0002/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f99589416a16b0757863fc"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 0,
+      "qualityControl": [
+        {
+          "condition": "NG",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64f9940c5b1e1c2c8370d96b"
+  },
+  "receive": {
+    "$oid": "64f99415b1be3ea4eac327a7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-07T09:24:35.615Z",
+      "Done": {
+        "$date": "2023-09-07T09:24:43.502Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:19:05.356Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:24:43.502Z"
+  },
+  "unpackingNumber": "UNP/0923/0002/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f995c8416a16b075786412"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 3,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64f9940c5b1e1c2c8370d96b"
+  },
+  "receive": {
+    "$oid": "64f99415b1be3ea4eac327a7"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-07T09:23:13.924Z",
+      "Done": {
+        "$date": "2023-09-07T09:23:33.727Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-07T09:20:08.696Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-07T09:23:33.727Z"
+  },
+  "unpackingNumber": "UNP/0923/0002/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fac132435f15e96038608d"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Snap & Go Rompers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "receive": {
+    "$oid": "64fac109b1be3ea4eac327bc"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-08T06:37:55.434Z",
+      "Done": {
+        "$date": "2023-09-08T06:38:01.166Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T06:37:38.089Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:38:01.166Z"
+  },
+  "unpackingNumber": "UNP/0923/0003/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fac221435f15e9603860e7"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Snap & Go Rompers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "receive": {
+    "$oid": "64fac109b1be3ea4eac327bc"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-08T06:41:47.964Z",
+      "Done": {
+        "$date": "2023-09-08T06:41:52.443Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T06:41:37.688Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T06:41:52.443Z"
+  },
+  "unpackingNumber": "UNP/0923/0003/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fad889c6ef4c8096b42ffd"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Snap & Go Rompers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "receive": {
+    "$oid": "64fac109b1be3ea4eac327bc"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-08T08:17:20.347Z",
+      "Done": {
+        "$date": "2023-09-08T08:17:25.410Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-08T08:17:13.022Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-08T08:17:25.410Z"
+  },
+  "unpackingNumber": "UNP/0923/0003/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64febad72016b00642005f03"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c1fe"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Snap & Go Rompers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fac0fc5b1e1c2c8370e925"
+  },
+  "receive": {
+    "$oid": "64fac109b1be3ea4eac327bc"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T06:59:45.930Z",
+      "Done": {
+        "$date": "2023-09-11T06:59:51.063Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T06:59:35.129Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T06:59:51.063Z"
+  },
+  "unpackingNumber": "UNP/0923/0003/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fecfda7e458d4febc4ff90"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "receive": {
+    "$oid": "64fecfc2b1be3ea4eac327c3"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:29:26.047Z",
+      "Done": {
+        "$date": "2023-09-11T08:29:33.451Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:29:14.308Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:29:33.451Z"
+  },
+  "unpackingNumber": "UNP/0923/0004/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fed0267e458d4febc4ffe2"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "receive": {
+    "$oid": "64fecfc2b1be3ea4eac327c3"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:30:37.593Z",
+      "Done": {
+        "$date": "2023-09-11T08:30:43.531Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:30:30.683Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:30:43.531Z"
+  },
+  "unpackingNumber": "UNP/0923/0004/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fed2cc7e458d4febc500a1"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "receive": {
+    "$oid": "64fecfc2b1be3ea4eac327c3"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:41:53.876Z",
+      "Done": {
+        "$date": "2023-09-11T08:41:57.899Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:41:48.174Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:41:57.899Z"
+  },
+  "unpackingNumber": "UNP/0923/0004/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64fed543d946e92357671259"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64fecfb7b8eba443f121fe4b"
+  },
+  "receive": {
+    "$oid": "64fecfc2b1be3ea4eac327c3"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T08:52:25.343Z",
+      "Done": {
+        "$date": "2023-09-11T08:52:33.106Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T08:52:19.022Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T08:52:33.106Z"
+  },
+  "unpackingNumber": "UNP/0923/0004/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff2e83fb4263d12aad95d2"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "receive": {
+    "$oid": "64ff2e5fb1be3ea4eac327ca"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:13:17.297Z",
+      "Done": {
+        "$date": "2023-09-11T15:13:22.941Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:13:07.322Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:13:22.941Z"
+  },
+  "unpackingNumber": "UNP/0923/0005/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff2ecefb4263d12aad9628"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 6,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "receive": {
+    "$oid": "64ff2e5fb1be3ea4eac327ca"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:14:28.209Z",
+      "Done": {
+        "$date": "2023-09-11T15:14:33.229Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:14:22.848Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:14:33.229Z"
+  },
+  "unpackingNumber": "UNP/0923/0005/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ff2f2cfb4263d12aad9683"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 3,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "64ff2e56b8eba443f1246930"
+  },
+  "receive": {
+    "$oid": "64ff2e5fb1be3ea4eac327ca"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-11T15:16:05.807Z",
+      "Done": {
+        "$date": "2023-09-11T15:16:20.686Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-11T15:15:56.833Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-11T15:16:20.686Z"
+  },
+  "unpackingNumber": "UNP/0923/0005/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65017252c2255e2ab7a4a010"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 5,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Denim Dreamers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "receive": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-13T08:27:29.891Z",
+      "Done": {
+        "$date": "2023-09-13T08:27:37.655Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T08:26:58.589Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T08:27:37.655Z"
+  },
+  "unpackingNumber": "UNP/0923/0007/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650248744289b66e2b17d852"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c21c"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cozy Snugglers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "receive": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-13T23:40:55.641Z",
+      "Done": {
+        "$date": "2023-09-13T23:41:02.267Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-13T23:40:36.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-13T23:41:02.267Z"
+  },
+  "unpackingNumber": "UNP/0923/0007/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650252eb8a04332704bb11ec"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c21c"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cozy Snugglers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "receive": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-14T00:25:28.854Z",
+      "Done": {
+        "$date": "2023-09-14T00:25:34.252Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-14T00:25:15.448Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-14T00:25:34.252Z"
+  },
+  "unpackingNumber": "UNP/0923/0007/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650254478a04332704bb126e"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c21c"
+      },
+      "qty": 1,
+      "qualityControl": [],
+      "props": {
+        "name": "Cozy Snugglers"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "receive": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "status": "In Progress",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": {
+        "$date": "2023-09-15T03:41:35.255Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-14T00:31:03.628Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T03:41:35.255Z"
+  },
+  "unpackingNumber": "UNP/0923/0007/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503a835ff15fd00e94e5d93"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 3,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6503a6c1b8eba443f12eebb0"
+  },
+  "receive": {
+    "$oid": "6503a6efb1be3ea4eac328c9"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-15T00:41:40.459Z",
+      "Done": {
+        "$date": "2023-09-15T00:42:00.846Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T00:41:25.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T00:42:00.846Z"
+  },
+  "unpackingNumber": "UNP/0923/0008/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503ad49ff15fd00e94e5f62"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "NG",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6503a6c1b8eba443f12eebb0"
+  },
+  "receive": {
+    "$oid": "6503a6efb1be3ea4eac328c9"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-15T01:06:59.200Z",
+      "Done": {
+        "$date": "2023-09-15T01:07:12.531Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T01:03:05.726Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T01:07:12.531Z"
+  },
+  "unpackingNumber": "UNP/0923/0008/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6503d39d19d17b4826f2a3eb"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ac4b9d72a2ef9c1f8"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Dreamy Sleepwear"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6503a6c1b8eba443f12eebb0"
+  },
+  "receive": {
+    "$oid": "6503a6efb1be3ea4eac328c9"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-15T03:47:06.428Z",
+      "Done": {
+        "$date": "2023-09-20T07:32:34.126Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T03:46:37.948Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T07:32:34.126Z"
+  },
+  "unpackingNumber": "UNP/0923/0008/05",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65041abd7461919501eff98c"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 2,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "receive": {
+    "$oid": "65041a76b1be3ea4eac328de"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-15T08:50:15.885Z",
+      "Done": {
+        "$date": "2023-09-15T08:50:27.555Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T08:50:05.798Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T08:50:27.555Z"
+  },
+  "unpackingNumber": "UNP/0923/0009/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65041de87461919501eff9e5"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "receive": {
+    "$oid": "65041a76b1be3ea4eac328de"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-15T09:03:43.199Z",
+      "Done": {
+        "$date": "2023-09-15T09:03:48.869Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-15T09:03:36.656Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-15T09:03:48.869Z"
+  },
+  "unpackingNumber": "UNP/0923/0009/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650aa02f428851086dc4f5f6"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "receive": {
+    "$oid": "65041a76b1be3ea4eac328de"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-20T07:33:28.213Z",
+      "Done": {
+        "$date": "2023-09-20T07:34:28.618Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-20T07:33:03.149Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T07:34:28.618Z"
+  },
+  "unpackingNumber": "UNP/0923/0009/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650b75ba2e8f20d934c1a6bf"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 1,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Cuddly Footies"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "receive": {
+    "$oid": "65041a76b1be3ea4eac328de"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-09-20T22:44:24.346Z",
+      "Done": {
+        "$date": "2023-09-20T22:44:45.007Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-09-20T22:44:10.768Z"
+  },
+  "updatedAt": {
+    "$date": "2023-09-20T22:44:45.007Z"
+  },
+  "unpackingNumber": "UNP/0923/0009/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a3f23983b3db4ced50db"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93bc4b9d72a2ef9c204"
+      },
+      "qty": 2,
+      "props": {
+        "name": "Cuddly Footies",
+        "uom": "pcs",
+        "note": "kurang 1",
+        "category": "Rompers dan Baju Tidur",
+        "shippingNo": "ship01"
+      },
+      "qualityControl": []
+    }
+  ],
+  "order": {
+    "$oid": "65041a50feecde61721fd595"
+  },
+  "receive": {
+    "$oid": "65041a76b1be3ea4eac328de"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T07:44:50.074Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:44:50.074Z"
+  },
+  "unpackingNumber": "UNP/1023/0009/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a4bb3983b3db4ced549e"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 2,
+      "props": {
+        "name": "Denim Dreamers",
+        "uom": "pcs",
+        "category": "Sweater, Jaket, dan Celana Panjang",
+        "shippingNo": "ship01"
+      },
+      "qualityControl": []
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "receive": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T07:48:11.310Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:48:11.310Z"
+  },
+  "unpackingNumber": "UNP/1023/0007/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527a4de3983b3db4ced5bc7"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93cc4b9d72a2ef9c222"
+      },
+      "qty": 1,
+      "props": {
+        "name": "Denim Dreamers",
+        "uom": "pcs",
+        "note": "aaa",
+        "category": "Sweater, Jaket, dan Celana Panjang",
+        "shippingNo": "ship01"
+      },
+      "qualityControl": []
+    }
+  ],
+  "order": {
+    "$oid": "650171d6b8eba443f12a6657"
+  },
+  "receive": {
+    "$oid": "650171e5b1be3ea4eac328b0"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T07:48:46.042Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T07:48:46.042Z"
+  },
+  "unpackingNumber": "UNP/1023/0007/05",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527c467e763d740c59c2055"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 2,
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "note": "kurang 1",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "ship01"
+      },
+      "qualityControl": []
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:03:19.702Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T10:03:19.702Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/00",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527c4e9e763d740c59c206d"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "qualityControl": [],
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "ship022"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Cancelled",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "Cancelled": {
+        "$date": "2023-10-12T10:30:27.061Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:05:29.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T10:30:27.061Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/01",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527c5abe763d740c59c2085"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "qtyOK": 0,
+      "qtyNG": 1,
+      "qualityControl": [
+        {
+          "condition": "NG",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "note": "note",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "ship03"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-10-12T10:29:49.016Z",
+      "Done": {
+        "$date": "2023-10-12T10:31:10.990Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:08:43.215Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T10:31:10.990Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6527cf28099c995629b28a67"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "qtyOK": 0,
+      "qtyNG": 1,
+      "qualityControl": [
+        {
+          "condition": "NG",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "ship005"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-10-12T10:49:25.766Z",
+      "Done": {
+        "$date": "2023-10-12T10:49:33.893Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-12T10:49:12.138Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-12T10:49:33.893Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/03",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6528b703f21454e7bbf0f49f"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 2,
+      "qtyOK": 2,
+      "qtyNG": 0,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        },
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "ship06"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-10-13T03:18:47.261Z",
+      "Done": {
+        "$date": "2023-10-13T03:19:05.280Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-13T03:18:27.127Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-13T03:19:05.280Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/04",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652f587d63d65323c9ddee79"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 1,
+      "qtyOK": 1,
+      "qtyNG": 0,
+      "qualityControl": [
+        {
+          "condition": "OK",
+          "notes": ""
+        }
+      ],
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "another"
+      }
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Done",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": "",
+    "lastStatus": {
+      "In Progress": "2023-10-18T04:01:10.009Z",
+      "Done": {
+        "$date": "2023-10-18T04:02:17.830Z"
+      }
+    }
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-18T04:01:01.262Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T04:02:17.830Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/05",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652f7bf4571bc608dec76ce9"
+  },
+  "itemList": [
+    {
+      "item": {
+        "$oid": "64d0b93ec4b9d72a2ef9c26a"
+      },
+      "qty": 7,
+      "props": {
+        "name": "Tender Lovealls",
+        "uom": "pcs",
+        "category": "Setelan Baju dan Celana Pendek untuk Bayi Perempuan",
+        "shippingNo": "end of shipping"
+      },
+      "qualityControl": []
+    }
+  ],
+  "order": {
+    "$oid": "6527c3118ce8d08bab6a8ad5"
+  },
+  "receive": {
+    "$oid": "6527c44ae763d740c59c2049"
+  },
+  "status": "Pending",
+  "app": "gulung-ombak-3766564",
+  "props": {
+    "notes": ""
+  },
+  "timestamp": [],
+  "createdAt": {
+    "$date": "2023-10-18T06:32:20.770Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T06:32:20.770Z"
+  },
+  "unpackingNumber": "UNP/1023/0002/06",
+  "__v": 0
+}]

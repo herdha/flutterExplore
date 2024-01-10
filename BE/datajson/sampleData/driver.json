@@ -1,0 +1,145 @@
+[
+  {
+    "name": "Driver Testing 1",
+    "driverID": "Testing 1",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "Test1",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-09-06T03:29:36.750Z",
+    "updatedAt": "2023-09-29T02:49:36.622Z",
+    "__v": 0,
+    "id": "64f7f2207cc93a9201b2cb0b"
+  },
+  {
+    "name": "Driver NULL",
+    "driverID": "NU123",
+    "status": "AVAILABLE",
+    "driverLicense": "H 1234 CC",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-08-25T04:23:54.793Z",
+    "updatedAt": "2023-10-05T06:54:53.626Z",
+    "__v": 0,
+    "id": "64e82cdaedcce2a8c5fac8e9"
+  },
+  {
+    "name": "Driver Nasi",
+    "driverID": "DRIV123",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DD 1234 CC",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-08-25T04:23:19.013Z",
+    "updatedAt": "2023-08-28T04:24:49.168Z",
+    "__v": 0,
+    "id": "64e82cb7edcce2a8c5fac8e3"
+  },
+  {
+    "name": "Driver Kopi",
+    "driverID": "1234",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "123.4.4.2",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-08-25T04:19:08.491Z",
+    "updatedAt": "2023-08-31T04:35:15.121Z",
+    "__v": 0,
+    "id": "64e82bbcedcce2a8c5fac8db"
+  },
+  {
+    "name": "jon",
+    "driverID": "jon78",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "jon89",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-08-15T02:29:29.142Z",
+    "updatedAt": "2023-10-02T02:54:08.880Z",
+    "__v": 0,
+    "id": "64dae3098f5a353e67d3fba4"
+  },
+  {
+    "name": "Jono",
+    "driverID": "123",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "D 9972 LM",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-28T06:38:07.143Z",
+    "updatedAt": "2023-08-28T06:30:58.674Z",
+    "__v": 0,
+    "id": "64c3624fa3e0489b08b7317a"
+  },
+  {
+    "name": "Driver 10",
+    "driverID": "ID10",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DL10",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-28T05:51:07.634Z",
+    "updatedAt": "2023-10-02T02:55:15.717Z",
+    "__v": 0,
+    "id": "64c3574ba3e0489b08b7304c"
+  },
+  {
+    "name": "Driver 8",
+    "driverID": "ID8",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DL8",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-27T04:21:55.840Z",
+    "updatedAt": "2023-07-27T04:28:13.868Z",
+    "__v": 0,
+    "id": "64c1f0e3396f27325cea1c67"
+  },
+  {
+    "name": "Driver 6",
+    "driverID": "ID6",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DL6",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-27T04:07:48.016Z",
+    "updatedAt": "2023-07-27T04:11:26.992Z",
+    "__v": 0,
+    "id": "64c1ed94396f27325cea1c23"
+  },
+  {
+    "name": "Driver 5",
+    "driverID": "dddd5",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "d12345",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-27T03:49:12.821Z",
+    "updatedAt": "2023-10-04T08:20:16.740Z",
+    "__v": 0,
+    "id": "64c1e9380cbbb7124cf6be33"
+  },
+  {
+    "name": "driver 3",
+    "driverID": "ID3",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DL3",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-23T15:47:27.924Z",
+    "updatedAt": "2023-07-23T15:49:44.782Z",
+    "__v": 0,
+    "id": "64bd4b8f208ad0ae9ce1b04d"
+  },
+  {
+    "name": "Driver 2",
+    "driverID": "ID2",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DL2",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-21T08:17:06.819Z",
+    "updatedAt": "2023-07-24T03:52:40.576Z",
+    "__v": 0,
+    "id": "64ba3f0231652a92e9f9eb92"
+  },
+  {
+    "name": "driver 1",
+    "driverID": "ID1",
+    "status": "NOT AVAILABLE",
+    "driverLicense": "DL1",
+    "props": { "app": "eceng-gondok-9988637" },
+    "createdAt": "2023-07-20T16:20:34.707Z",
+    "updatedAt": "2023-07-21T03:36:25.995Z",
+    "__v": 0,
+    "id": "64b95ed22b623e1b31bce0e7"
+  }
+]

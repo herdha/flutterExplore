@@ -1,0 +1,239 @@
+[{
+  "_id": {
+    "$oid": "651bce97523f5fdc1b5be62b"
+  },
+  "name": "User Admin",
+  "username": "superadmin",
+  "email": "superadmin@gmail.com",
+  "role": "Super Admin",
+  "password": "Admin123!",
+  "roleRef": {
+    "name": "Super Admin",
+    "permission": [
+      {
+        "name": "Common",
+        "allAccess": true,
+        "menu": [
+          {
+            "name": "Dashboard",
+            "view": true
+          },
+          {
+            "name": "Item",
+            "view": true,
+            "add": true,
+            "edit": true,
+            "delete": true
+          },
+          {
+            "name": "Scan Barcode",
+            "view": true,
+            "scan": true
+          },
+          {
+            "name": "Task",
+            "view": true,
+            "add": true,
+            "edit": false,
+            "delete": false,
+            "start": false,
+            "end": false
+          },
+          {
+            "name": "Dashboard Explore",
+            "view": true
+          }
+        ]
+      }
+    ]
+  },
+  "token": ""
+},
+{
+  "_id": {
+    "$oid": "651bcf1125f67df8c2d882a9"
+  },
+  "name": "User Biasa",
+  "username": "userbiasa",
+  "email": "userbiasa@gmail.com",
+  "role": "User Biasa",
+  "password": "Admin123!",
+  "roleRef": {
+    "name": "User",
+    "permission": [
+      {
+        "name": "Common",
+        "allAccess": false,
+        "menu": [
+          {
+            "name": "Dashboard",
+            "view": false
+          },
+          {
+            "name": "Item",
+            "view": false,
+            "add": false,
+            "edit": false,
+            "delete": false
+          },
+          {
+            "name": "Scan Barcode",
+            "view": false,
+            "scan": false
+          },
+          {
+            "name": "Task",
+            "view": true,
+            "add": false,
+            "edit": false,
+            "delete": false,
+            "start": true,
+            "end": true
+          }
+        ]
+      }
+    ]
+  },
+  "token": ""
+},
+{
+  "_id": {
+    "$oid": "651bcf483d9f8fcc7f6ce341"
+  },
+  "name": "User Biasa 2",
+  "username": "userbiasa2",
+  "email": "userbiasa2@gmail.com",
+  "role": "User Biasa",
+  "password": "Admin123!",
+  "roleRef": {
+    "name": "User2",
+    "permission": [
+      {
+        "name": "Common",
+        "allAccess": false,
+        "menu": [
+          {
+            "name": "Dashboard",
+            "view": false
+          },
+          {
+            "name": "Item",
+            "view": false,
+            "add": false,
+            "edit": false,
+            "delete": false
+          },
+          {
+            "name": "Scan Barcode",
+            "view": false,
+            "scan": false
+          },
+          {
+            "name": "Task",
+            "view": true,
+            "add": false,
+            "edit": false,
+            "delete": false,
+            "start": true,
+            "end": true
+          }
+        ]
+      }
+    ]
+  },
+  "token": ""
+},
+{
+  "_id": {
+    "$oid": "651bcf71de43c174d55300a9"
+  },
+  "name": "Herdha Nur",
+  "username": "herdhanur",
+  "email": "herdhanur@gmail.com",
+  "role": "User Biasa",
+  "password": "Admin123!",
+  "roleRef": {
+    "name": "User2",
+    "permission": [
+      {
+        "name": "Common",
+        "allAccess": false,
+        "menu": [
+          {
+            "name": "Dashboard",
+            "view": false
+          },
+          {
+            "name": "Item",
+            "view": false,
+            "add": false,
+            "edit": false,
+            "delete": false
+          },
+          {
+            "name": "Scan Barcode",
+            "view": false,
+            "scan": false
+          },
+          {
+            "name": "Task",
+            "view": true,
+            "add": false,
+            "edit": false,
+            "delete": false,
+            "start": true,
+            "end": true
+          }
+        ]
+      }
+    ]
+  },
+  "token": ""
+},
+{
+  "_id": {
+    "$oid": "651bcfadcab4ad9f90fb50cc"
+  },
+  "name": "Almira asy",
+  "username": "almiraasy",
+  "email": "almiraasy@gmail.com",
+  "role": "User Biasa",
+  "password": "Admin123!",
+  "roleRef": {
+    "name": "User2",
+    "permission": [
+      {
+        "name": "Common",
+        "allAccess": false,
+        "menu": [
+          {
+            "name": "Dashboard",
+            "view": false
+          },
+          {
+            "name": "Item",
+            "view": false,
+            "add": false,
+            "edit": false,
+            "delete": false
+          },
+          {
+            "name": "Scan Barcode",
+            "view": false,
+            "scan": false
+          },
+          {
+            "name": "Task",
+            "view": true,
+            "add": false,
+            "edit": false,
+            "delete": false,
+            "start": true,
+            "end": true
+          }
+        ]
+      }
+    ]
+  },
+  "token": ""
+}]
