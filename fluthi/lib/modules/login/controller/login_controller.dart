@@ -1,6 +1,8 @@
+import 'package:dio/dio.dart';
 import 'package:fluthi/modules/login/model/driver_model.dart';
 // import 'package:fluthi/modules/login/model/login_model.dart';
 import 'package:fluthi/modules/login/service/login_service.dart';
+import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
 class LoginController extends GetxController {
@@ -29,14 +31,33 @@ class LoginController extends GetxController {
     update();
   }
 
-  login(String emailController, String passwordController) async {
+  login(String emailController, String passwordController, BuildContext context) async {
     try{
       var res = await loginService.loginService(emailController,passwordController);
-      print('halooooo $res');
-    } catch (err){
-      return errorMessage.value = 'User Not found';
+      if(res is DioException){
+        throw res;
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            margin: EdgeInsets.all(16),
+            behavior: SnackBarBehavior.floating,
+            duration: Duration(seconds: 1),
+            content: Text('Login success'),
+          )
+        );
+        update();
+      }
+    } on DioException catch (err){
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          margin: EdgeInsets.all(16),
+          behavior: SnackBarBehavior.floating,
+          duration: Duration(seconds: 1),
+          content: Text(err.response!.data['message'].toString()),
+        )
+      );
+      update();
     }
-    update();
   }
 
   // shoPass(){

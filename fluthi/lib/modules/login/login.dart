@@ -173,15 +173,7 @@ class Login extends StatelessWidget {
                     child: FilledButton(
                       onPressed: (){
                         if(formKey.currentState!.validate()){
-                          controller.login(email.text, password.text);
-                          ScaffoldMessenger.of(context).showSnackBar(
-                            SnackBar(
-                              margin: EdgeInsets.all(16),
-                              behavior: SnackBarBehavior.floating,
-                              duration: Duration(seconds: 1),
-                              content: Text(controller.errorMessage.value),
-                            )
-                          );
+                          controller.login(email.text, password.text, context);
                         }
                       },
                       style: ElevatedButton.styleFrom(

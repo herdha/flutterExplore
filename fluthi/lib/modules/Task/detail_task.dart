@@ -2,6 +2,7 @@ import 'package:fluthi/modules/Task/controller/task_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:get/get.dart';
+import 'package:google_fonts/google_fonts.dart';
 import 'package:latlong2/latlong.dart';
 
 class DetailTask extends StatelessWidget {
@@ -208,13 +209,14 @@ class DetailTask extends StatelessWidget {
                             // taskControl.runTask(taskControl.detailTask.value.sId.toString(), context);
                           },
                           style: ElevatedButton.styleFrom(
-                          fixedSize: const Size(300, 20),
-                          backgroundColor: Colors.grey,
-                          shape: RoundedRectangleBorder(
-                            borderRadius: BorderRadius.circular(6)
-                          )
-                        ),
-                          child: Text('Done')
+                            fixedSize: const Size(300, 20),
+                            backgroundColor: Colors.white,
+                            shape: RoundedRectangleBorder(
+                              borderRadius: BorderRadius.circular(6)
+                            ),
+                            side: BorderSide(color: Colors.grey)
+                          ),
+                          child: Text('Done', style: GoogleFonts.inter(color: Colors.grey),)
                         )
                     ) : 
                     Container()
