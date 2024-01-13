@@ -63,7 +63,8 @@ const AssignmentSchema = new mongoose.Schema({
     },
     timeStart:{type: String, default: ''},
     timeEnd: {type: String, default: ''},
-    timeTotal: {type: String, default: ''}
+    timeTotal: {type: String, default: ''},
+    note: {type: String, default: ''}
 	},
 	{ versionKey: false }
 )

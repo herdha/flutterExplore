@@ -22,7 +22,7 @@ class Home extends StatelessWidget {
             children: [
               Text('Home', style: GoogleFonts.inter(color: Colors.blue, fontSize: 24, fontWeight: FontWeight.w700),),
               FilledButton(
-                onPressed: (){homeCont.logout();},
+                onPressed: (){homeCont.logout(context);},
                 style: ElevatedButton.styleFrom(
                   fixedSize: const Size(double.infinity, 20),
                   // padding: EdgeInsets.all(20),

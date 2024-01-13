@@ -7,6 +7,7 @@ import 'package:flutter/material.dart';
 // import 'package:flutter/material.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:get/get.dart';
+import 'package:location/location.dart';
 // import 'package:location/location.dart' as myLoc;
 import 'package:mapbox_search/mapbox_search.dart';
 import 'package:latlong2/latlong.dart';
@@ -47,9 +48,13 @@ class TaskController extends GetxController {
   addTask(title, description, assignTo, startPoint, endPoint) async {
     var getuser = user.where((element) => element.username == assignTo);
     var getUserId = getuser.toList()[0].sId;
-    await taskService.addTaskService(title, description, getUserId, startPoint, endPoint);
-    getAllDataTask();
-    update();
+    try{
+      await taskService.addTaskService(title, description, getUserId, startPoint, endPoint);
+      getAllDataTask();
+      update();
+    } catch (err) {
+      print(err);
+    }
   }
 
   getSugestPlace(String address) async {
@@ -105,7 +110,10 @@ class TaskController extends GetxController {
   
   runTask(String id, BuildContext context) async {
     try {
-      var res = await taskService.fetchRuntask(id);
+      LocationData currentLoc = await taskService.fetchCurrentPosition();
+      var lat = currentLoc.latitude!;
+      var long = currentLoc.longitude!;
+      var res = await taskService.fetchRuntask(id, lat, long);
       if(res is DioException){
         throw res;        
       } else {
@@ -114,7 +122,7 @@ class TaskController extends GetxController {
           SnackBar(
             margin: EdgeInsets.all(16),
             behavior: SnackBarBehavior.floating,
-            duration: Duration(seconds: 1),
+            duration: Duration(seconds: 3),
             content: Text(res.toString()),
           )
         );
@@ -125,7 +133,39 @@ class TaskController extends GetxController {
         SnackBar(
           margin: EdgeInsets.all(16),
           behavior: SnackBarBehavior.floating,
-          duration: Duration(seconds: 1),
+          duration: Duration(seconds: 3),
+          content: Text(err.response.toString()),
+        )
+      );
+    }
+  }
+
+  endTask(String id, note, BuildContext context) async {
+    try {
+      LocationData currentLoc = await taskService.fetchCurrentPosition();
+      var lat = currentLoc.latitude!;
+      var long = currentLoc.longitude!;
+      var res = await taskService.fetchEndTask(id, note, lat, long);
+      if(res is DioException){
+        throw res;        
+      } else {
+        getAllDataTask();
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            margin: EdgeInsets.all(16),
+            behavior: SnackBarBehavior.floating,
+            duration: Duration(seconds: 3),
+            content: Text(res.toString()),
+          )
+        );
+        update();
+      }
+    } on DioException catch (err) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          margin: EdgeInsets.all(16),
+          behavior: SnackBarBehavior.floating,
+          duration: Duration(seconds: 3),
           content: Text(err.response.toString()),
         )
       );

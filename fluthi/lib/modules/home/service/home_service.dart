@@ -5,17 +5,18 @@ import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 class HomeService {
-  Future<void> logoutService() async {
+  logoutService() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     final String? token = prefs.getString('token');
     
     try {
       var logout = await Api.request.get('/logout/$token');
       await prefs.clear();
-      print(logout.data);
       Get.offNamed(AppRoutes.login);
+      return logout.data;
     } on DioException catch (err){
       print(err.message!);
+      return err;
     }
   }
 

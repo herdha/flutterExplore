@@ -134,7 +134,11 @@ exports.getOneTask = async (req, res) => {
 exports.startTask = async (req, res) => {
     const id = req.params.id
     const timeStart = new Date().toLocaleString()
+    const userLong = req.body.long
+    const userLat = req.body.lat
     let status = null
+    let long = null
+    let lat = null
     let dataStart = {
         statusTask: 'Running',
         timeStart: timeStart,
@@ -143,57 +147,76 @@ exports.startTask = async (req, res) => {
     await Assignment.findById(id)
     .then((d)=>{
         status = d.statusTask
+        long = d.areaStart.long
+        lat = d.areaStart.lat
     })
 
-    if(status==='On'){
-        await Assignment.findByIdAndUpdate(id, dataStart)
-        .then((d)=>{
-            res.status(200).send('Task is running')
-        })
-        .catch((e)=>{
-            res.status(404).send({message: e.message})
-        })
-    } else if (status==="Running"){
-        res.status(400).send('Task has been running')        
+    let jarakTitik = calculateDistance(lat, long, userLat, userLong)
+    if(jarakTitik < 200){
+        res.status(400).send('You are too far, come closer')
     } else {
-        res.status(400).send("Task has done")
-    }
-    
+        if(status==='On'){
+            await Assignment.findByIdAndUpdate(id, dataStart)
+            .then((d)=>{
+                res.status(200).send('Task is running')
+            })
+            .catch((e)=>{
+                res.status(404).send({message: e.message})
+            })
+        } else if (status==="Running"){
+            res.status(400).send('Task has been running')        
+        } else {
+            res.status(400).send("Task has done")
+        }
+    }   
 }
 
 exports.endTask = async (req, res) => {
     const id = req.params.id
+    const userLong = req.body.long
+    const userLat = req.body.lat
+    const note = req.body.note
+    let long = null
+    let lat = null
+    let dataTimeEnd = new Date().toLocaleString()
     let dataTimeStart = null
     let status = null
-    let dataTimeEnd = new Date().toLocaleString()
 
     await Assignment.findById(id)
     .then((d)=>{
         dataTimeStart = new Date(d.timeStart).getTime()
         status = d.statusTask
+        long = d.areaEnd.long
+        lat = d.areaEnd.lat
     })
     
     let duration = timeDuration(new Date(dataTimeEnd).getTime(), dataTimeStart)
     let dataEnd = {
         statusTask: 'Off',
         timeEnd: dataTimeEnd,
-        timeTotal: duration
+        timeTotal: duration,
+        note: note
     }
 
-    if(status === "Running"){
-        await Assignment.findByIdAndUpdate(id, dataEnd)
-        .then((d)=>{
-            res.status(200).send({data: d, message: "task will be finnished"})
-        })
-        .catch((e)=>{
-            res.status(401).send({message: e.message})
-        })
-    } else if(status === "On"){
-        res.status(400).send("Task has not started")
+    let jarakTitik = calculateDistance(lat, long, userLat, userLong)
+
+    if(jarakTitik > 200) {
+        res.status(400).send('You are too far, come closer')
     } else {
-        res.status(400).send("Task has done")
+        if(status === "Running"){
+            await Assignment.findByIdAndUpdate(id, dataEnd)
+            .then((d)=>{
+                res.status(200).send("Task has done")
+            })
+            .catch((e)=>{
+                res.status(401).send({message: e.message})
+            })
+        } else if(status === "On"){
+            res.status(400).send("Task has not started")
+        } else {
+            res.status(400).send("Task has done")
+        }
     }
-
 }
 
 function timeDuration(t1, t2){
@@ -206,3 +229,27 @@ function timeDuration(t1, t2){
     return `${hours}:${('0' + minutes).slice(-2)}:${('0' + seconds).slice(-2)}`;
 }
 
+function calculateDistance(lat1, lon1, lat2, lon2) {
+    const R = 6371; // Radius of the Earth in kilometers
+
+    // Convert latitude and longitude from degrees to radians
+    const radLat1 = (lat1 * Math.PI) / 180;
+    const radLon1 = (lon1 * Math.PI) / 180;
+    const radLat2 = (lat2 * Math.PI) / 180;
+    const radLon2 = (lon2 * Math.PI) / 180;
+
+    // Calculate the change in coordinates
+    const dLat = radLat2 - radLat1;
+    const dLon = radLon2 - radLon1;
+
+    // Haversine formula to calculate distance
+    const a =
+        Math.sin(dLat / 2) ** 2 +
+        Math.cos(radLat1) * Math.cos(radLat2) * Math.sin(dLon / 2) ** 2;
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+
+    // Distance in kilometers
+    const distance = R * c;
+
+    return distance;
+}

@@ -145,9 +145,10 @@ class TaskService {
     return prefs.getString('role');
   }
 
-  fetchRuntask(id) async {
+  fetchRuntask(id, lat, long) async {
     try{
-      var response = await Api.request.put('/startTask/$id');
+      var data = {"lat": lat, "long": long};
+      var response = await Api.request.put('/startTask/$id', data: data);
       Get.back();
       return response;
     } on DioException catch (err) {
@@ -155,9 +156,10 @@ class TaskService {
     }
   }
 
-  fetchEndTask(id) async {
+  fetchEndTask(id, note, lat, long) async {
     try{
-      var response = await Api.request.put('/endTask/$id');
+      var data = {"lat": lat, "long": long, "note": note};
+      var response = await Api.request.put('/endTask/$id', data: data);
       Get.back();
       return response;
     } on DioException catch (err) {

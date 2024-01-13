@@ -1,4 +1,5 @@
 class TaskDetailModel {
+  String? note;
   String? sId;
   String? title;
   String? description;
@@ -12,7 +13,8 @@ class TaskDetailModel {
   String? timeTotal;
 
   TaskDetailModel(
-      {this.sId,
+      {this.note,
+      this.sId,
       this.title,
       this.description,
       this.assignBy,
@@ -25,6 +27,7 @@ class TaskDetailModel {
       this.timeTotal});
 
   TaskDetailModel.fromJson(Map<String, dynamic> json) {
+    note = json['note'];
     sId = json['_id'];
     title = json['title'];
     description = json['description'];
@@ -48,6 +51,7 @@ class TaskDetailModel {
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
+    data['note'] = this.note;
     data['_id'] = this.sId;
     data['title'] = this.title;
     data['description'] = this.description;

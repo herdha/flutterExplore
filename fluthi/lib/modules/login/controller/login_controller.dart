@@ -15,20 +15,7 @@ class LoginController extends GetxController {
 
   @override
   void onInit(){
-    callGetData();
-    // getDataUser();
     super.onInit();
-  }
-
-  callGetData() async {
-    try{
-      var res = await loginService.getDataDriver();
-      print('halo res $res');
-      res != null ? getData.assignAll(res) : print('null');
-    } finally {
-      print('final');
-    }
-    update();
   }
 
   login(String emailController, String passwordController, BuildContext context) async {
@@ -59,10 +46,4 @@ class LoginController extends GetxController {
       update();
     }
   }
-
-  // shoPass(){
-  //   showPass.value ?
-  //   showPass.value = false :
-  //   showPass.value = true ;
-  // }
 }
